@@ -3,8 +3,8 @@ import shutil
 import pandas as pd
 
 # Set source and destination folders
-source_folder = "path/to/source_folder"
-destination_folder = "path/to/destination_folder"
+source_folder = r"D:\ED\FIFS\data\odis_male_csv2"
+destination_folder = r"D:\ED\FIFS\data\final_data"
 
 # Ensure the destination folder exists
 os.makedirs(destination_folder, exist_ok=True)
