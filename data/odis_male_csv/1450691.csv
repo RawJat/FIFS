@@ -1,0 +1,360 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/09/18
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,27
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,Jasdeep Singh
+info,umpire,A Louw
+info,umpire,Claus Schumacher
+info,reserve_umpire,Bismillah Shinwari
+info,match_referee,GH Pienaar
+info,winner,United States of America
+info,winner_wickets,10
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,RN Bhatia
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United States of America,SK Patel
+info,player,United States of America,AGS Gous
+info,player,United States of America,MD Patel
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,J Drysdale
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Sharma,5661ef90
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,RN Bhatia,2eece016
+info,registry,people,SK Patel,f93b43dd
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,Waseem Muhammad,6f02fe2a
+ball,1,0.1,United Arab Emirates,A Sharma,Waseem Muhammad,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.2,United Arab Emirates,A Sharma,Waseem Muhammad,SN Netravalkar,1,0,,,,,,"",""
+ball,1,0.3,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.4,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,0.5,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,2,0,,,,,,"",""
+ball,1,0.6,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,1.1,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,1.2,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,1.3,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,1.4,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,1.5,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,1.6,United Arab Emirates,A Sharma,Waseem Muhammad,J Drysdale,0,0,,,,,,"",""
+ball,1,2.1,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,2.2,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,2.3,United Arab Emirates,Waseem Muhammad,A Sharma,SN Netravalkar,0,0,,,,,,caught,Waseem Muhammad
+ball,1,2.4,United Arab Emirates,A Sharafu,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,2.5,United Arab Emirates,A Sharafu,A Sharma,SN Netravalkar,0,0,,,,,,caught,A Sharafu
+ball,1,2.6,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,3.1,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,4,0,,,,,,"",""
+ball,1,3.2,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,1,0,,,,,,"",""
+ball,1,3.3,United Arab Emirates,V Sukumaran,A Sharma,J Drysdale,0,0,,,,,,"",""
+ball,1,3.4,United Arab Emirates,V Sukumaran,A Sharma,J Drysdale,0,0,,,,,,"",""
+ball,1,3.5,United Arab Emirates,V Sukumaran,A Sharma,J Drysdale,1,0,,,,,,"",""
+ball,1,3.6,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,0,0,,,,,,"",""
+ball,1,4.1,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,4.2,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,4.3,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,4.4,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,4.5,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,4.6,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,5.1,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,4,0,,,,,,"",""
+ball,1,5.2,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,0,0,,,,,,"",""
+ball,1,5.3,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,0,0,,,,,,"",""
+ball,1,5.4,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,4,0,,,,,,"",""
+ball,1,5.5,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,0,1,1,,,,,"",""
+ball,1,5.6,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,2,0,,,,,,"",""
+ball,1,5.7,United Arab Emirates,A Sharma,V Sukumaran,J Drysdale,0,0,,,,,,"",""
+ball,1,6.1,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,6.2,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,1,0,,,,,,"",""
+ball,1,6.3,United Arab Emirates,A Sharma,V Sukumaran,SN Netravalkar,0,0,,,,,,"",""
+ball,1,6.4,United Arab Emirates,A Sharma,V Sukumaran,SN Netravalkar,4,0,,,,,,"",""
+ball,1,6.5,United Arab Emirates,A Sharma,V Sukumaran,SN Netravalkar,1,0,,,,,,"",""
+ball,1,6.6,United Arab Emirates,V Sukumaran,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,7.1,United Arab Emirates,A Sharma,V Sukumaran,NP Kenjige,1,0,,,,,,"",""
+ball,1,7.2,United Arab Emirates,V Sukumaran,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,7.3,United Arab Emirates,V Sukumaran,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,7.4,United Arab Emirates,V Sukumaran,A Sharma,NP Kenjige,0,0,,,,,,caught,V Sukumaran
+ball,1,7.5,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,2,0,,,,,,"",""
+ball,1,7.6,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,8.1,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,8.2,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,8.3,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,8.4,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,8.5,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,1,0,,,,,,"",""
+ball,1,8.6,United Arab Emirates,R Chopra,A Sharma,SN Netravalkar,0,0,,,,,,"",""
+ball,1,9.1,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,9.2,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,9.3,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,1,0,,,,,,"",""
+ball,1,9.4,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,9.5,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,9.6,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,10.1,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,10.2,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,10.3,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,10.4,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,10.5,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,10.6,United Arab Emirates,A Sharma,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,11.1,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,1,0,,,,,,"",""
+ball,1,11.2,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,1,0,,,,,,"",""
+ball,1,11.3,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,0,0,,,,,,"",""
+ball,1,11.4,United Arab Emirates,R Chopra,A Sharma,NP Kenjige,1,0,,,,,,"",""
+ball,1,11.5,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,6,0,,,,,,"",""
+ball,1,11.6,United Arab Emirates,A Sharma,R Chopra,NP Kenjige,0,0,,,,,,caught,A Sharma
+ball,1,12.1,United Arab Emirates,R Chopra,Aayan Afzal Khan,Jasdeep Singh,0,1,1,,,,,"",""
+ball,1,12.2,United Arab Emirates,R Chopra,Aayan Afzal Khan,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,12.3,United Arab Emirates,R Chopra,Aayan Afzal Khan,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,12.4,United Arab Emirates,R Chopra,Aayan Afzal Khan,Jasdeep Singh,0,1,1,,,,,"",""
+ball,1,12.5,United Arab Emirates,R Chopra,Aayan Afzal Khan,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,12.6,United Arab Emirates,Aayan Afzal Khan,R Chopra,Jasdeep Singh,0,0,,,,,,bowled,Aayan Afzal Khan
+ball,1,12.7,United Arab Emirates,Basil Hameed,R Chopra,Jasdeep Singh,0,0,,,,,,caught,Basil Hameed
+ball,1,12.8,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,13.1,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,13.2,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,13.3,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,13.4,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,13.5,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,13.6,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,14.1,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,4,0,,,,,,"",""
+ball,1,14.2,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.3,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,1,1,,,,,"",""
+ball,1,14.4,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,1,1,,,,,"",""
+ball,1,14.5,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.6,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.7,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,14.8,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,15.1,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,0,0,,,,,,"",""
+ball,1,15.2,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,1,0,,,,,,"",""
+ball,1,15.3,United Arab Emirates,Ali Naseer,R Chopra,SN Netravalkar,1,0,,,,,,"",""
+ball,1,15.4,United Arab Emirates,R Chopra,Ali Naseer,SN Netravalkar,1,0,,,,,,"",""
+ball,1,15.5,United Arab Emirates,Ali Naseer,R Chopra,SN Netravalkar,4,0,,,,,,"",""
+ball,1,15.6,United Arab Emirates,Ali Naseer,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,16.1,United Arab Emirates,R Chopra,Ali Naseer,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,16.2,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,16.3,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,16.4,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,1,1,,,,,"",""
+ball,1,16.5,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,16.6,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,16.7,United Arab Emirates,Ali Naseer,R Chopra,Jasdeep Singh,4,0,,,,,,"",""
+ball,1,17.1,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,17.2,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,2,,,,2,,"",""
+ball,1,17.3,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,17.4,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,17.5,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,17.6,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,18.1,United Arab Emirates,Ali Naseer,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,18.2,United Arab Emirates,Ali Naseer,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,18.3,United Arab Emirates,Ali Naseer,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,18.4,United Arab Emirates,Ali Naseer,R Chopra,Harmeet Singh,1,0,,,,,,"",""
+ball,1,18.5,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,4,0,,,,,,"",""
+ball,1,18.6,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,19.1,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,19.2,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,4,0,,,,,,"",""
+ball,1,19.3,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,19.4,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,1,0,,,,,,"",""
+ball,1,19.5,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,0,0,,,,,,"",""
+ball,1,19.6,United Arab Emirates,R Chopra,Ali Naseer,Milind Kumar,1,0,,,,,,"",""
+ball,1,20.1,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,20.2,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,4,0,,,,,,"",""
+ball,1,20.3,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,20.4,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,20.5,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,20.6,United Arab Emirates,R Chopra,Ali Naseer,Harmeet Singh,0,0,,,,,,"",""
+ball,1,21.1,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,21.2,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,21.3,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,4,0,,,,,,"",""
+ball,1,21.4,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,21.5,United Arab Emirates,Ali Naseer,R Chopra,Milind Kumar,0,0,,,,,,caught,Ali Naseer
+ball,1,21.6,United Arab Emirates,RN Bhatia,R Chopra,Milind Kumar,0,0,,,,,,"",""
+ball,1,22.1,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,1,0,,,,,,"",""
+ball,1,22.2,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,22.3,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,22.4,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,22.5,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,22.6,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,0,0,,,,,,"",""
+ball,1,23.1,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,0,0,,,,,,"",""
+ball,1,23.2,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,0,0,,,,,,"",""
+ball,1,23.3,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,4,0,,,,,,"",""
+ball,1,23.4,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,0,0,,,,,,"",""
+ball,1,23.5,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,0,0,,,,,,"",""
+ball,1,23.6,United Arab Emirates,R Chopra,RN Bhatia,Milind Kumar,1,0,,,,,,"",""
+ball,1,24.1,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,0,0,,,,,,"",""
+ball,1,24.2,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,0,0,,,,,,"",""
+ball,1,24.3,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,1,0,,,,,,"",""
+ball,1,24.4,United Arab Emirates,RN Bhatia,R Chopra,Harmeet Singh,1,0,,,,,,"",""
+ball,1,24.5,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,0,0,,,,,,"",""
+ball,1,24.6,United Arab Emirates,R Chopra,RN Bhatia,Harmeet Singh,1,0,,,,,,"",""
+ball,1,25.1,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,2,0,,,,,,"",""
+ball,1,25.2,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,1,0,,,,,,"",""
+ball,1,25.3,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,25.4,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,25.5,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,25.6,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,26.1,United Arab Emirates,R Chopra,RN Bhatia,SN Netravalkar,0,0,,,,,,"",""
+ball,1,26.2,United Arab Emirates,R Chopra,RN Bhatia,SN Netravalkar,0,0,,,,,,"",""
+ball,1,26.3,United Arab Emirates,R Chopra,RN Bhatia,SN Netravalkar,1,0,,,,,,"",""
+ball,1,26.4,United Arab Emirates,RN Bhatia,R Chopra,SN Netravalkar,0,0,,,,,,"",""
+ball,1,26.5,United Arab Emirates,RN Bhatia,R Chopra,SN Netravalkar,2,0,,,,,,"",""
+ball,1,26.6,United Arab Emirates,RN Bhatia,R Chopra,SN Netravalkar,1,0,,,,,,"",""
+ball,1,27.1,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,27.2,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,27.3,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,27.4,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,27.5,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,3,0,,,,,,"",""
+ball,1,27.6,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,0,0,,,,,,"",""
+ball,1,28.1,United Arab Emirates,RN Bhatia,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,28.2,United Arab Emirates,RN Bhatia,R Chopra,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,28.3,United Arab Emirates,R Chopra,RN Bhatia,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,28.4,United Arab Emirates,R Chopra,RN Bhatia,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,28.5,United Arab Emirates,RN Bhatia,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,28.6,United Arab Emirates,RN Bhatia,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,29.1,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,0,0,,,,,,"",""
+ball,1,29.2,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,0,0,,,,,,"",""
+ball,1,29.3,United Arab Emirates,R Chopra,RN Bhatia,NP Kenjige,1,0,,,,,,"",""
+ball,1,29.4,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,29.5,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,29.6,United Arab Emirates,RN Bhatia,R Chopra,NP Kenjige,0,0,,,,,,"",""
+ball,1,30.1,United Arab Emirates,R Chopra,RN Bhatia,Jasdeep Singh,1,0,,,,,,"",""
+ball,1,30.2,United Arab Emirates,RN Bhatia,R Chopra,Jasdeep Singh,0,0,,,,,,lbw,RN Bhatia
+ball,1,30.3,United Arab Emirates,Junaid Siddique,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,30.4,United Arab Emirates,Junaid Siddique,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,30.5,United Arab Emirates,Junaid Siddique,R Chopra,Jasdeep Singh,0,0,,,,,,bowled,Junaid Siddique
+ball,1,30.6,United Arab Emirates,Muhammad Jawadullah,R Chopra,Jasdeep Singh,0,0,,,,,,"",""
+ball,1,31.1,United Arab Emirates,R Chopra,Muhammad Jawadullah,Milind Kumar,0,0,,,,,,"",""
+ball,1,31.2,United Arab Emirates,R Chopra,Muhammad Jawadullah,Milind Kumar,0,0,,,,,,caught,R Chopra
+ball,2,0.1,United States of America,SK Patel,AGS Gous,Junaid Siddique,0,0,,,,,,"",""
+ball,2,0.2,United States of America,SK Patel,AGS Gous,Junaid Siddique,1,0,,,,,,"",""
+ball,2,0.3,United States of America,AGS Gous,SK Patel,Junaid Siddique,4,0,,,,,,"",""
+ball,2,0.4,United States of America,AGS Gous,SK Patel,Junaid Siddique,4,0,,,,,,"",""
+ball,2,0.5,United States of America,AGS Gous,SK Patel,Junaid Siddique,0,1,1,,,,,"",""
+ball,2,0.6,United States of America,AGS Gous,SK Patel,Junaid Siddique,4,0,,,,,,"",""
+ball,2,0.7,United States of America,AGS Gous,SK Patel,Junaid Siddique,4,0,,,,,,"",""
+ball,2,1.1,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,1.2,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,0,1,1,,,,,"",""
+ball,2,1.3,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,1.4,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,1.5,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,1.6,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,1,0,,,,,,"",""
+ball,2,1.7,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,2.1,United States of America,SK Patel,AGS Gous,Junaid Siddique,0,1,1,,,,,"",""
+ball,2,2.2,United States of America,SK Patel,AGS Gous,Junaid Siddique,1,0,,,,,,"",""
+ball,2,2.3,United States of America,AGS Gous,SK Patel,Junaid Siddique,4,0,,,,,,"",""
+ball,2,2.4,United States of America,AGS Gous,SK Patel,Junaid Siddique,0,0,,,,,,"",""
+ball,2,2.5,United States of America,AGS Gous,SK Patel,Junaid Siddique,1,0,,,,,,"",""
+ball,2,2.6,United States of America,SK Patel,AGS Gous,Junaid Siddique,0,0,,,,,,"",""
+ball,2,2.7,United States of America,SK Patel,AGS Gous,Junaid Siddique,0,0,,,,,,"",""
+ball,2,3.1,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,3.2,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,3.3,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,3.4,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,3.5,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,3.6,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,4.1,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,4.2,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,4.3,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,2,0,,,,,,"",""
+ball,2,4.4,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,4.5,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,2,0,,,,,,"",""
+ball,2,4.6,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,5.1,United States of America,SK Patel,AGS Gous,Muhammad Jawadullah,1,0,,,,,,"",""
+ball,2,5.2,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,5.3,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,4,0,,,,,,"",""
+ball,2,5.4,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,5.5,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,5.6,United States of America,AGS Gous,SK Patel,Muhammad Jawadullah,0,0,,,,,,"",""
+ball,2,6.1,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,6.2,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,6.3,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,6.4,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,6.5,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,6.6,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,7.1,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,7.2,United States of America,AGS Gous,SK Patel,RN Bhatia,4,0,,,,,,"",""
+ball,2,7.3,United States of America,AGS Gous,SK Patel,RN Bhatia,1,0,,,,,,"",""
+ball,2,7.4,United States of America,SK Patel,AGS Gous,RN Bhatia,0,0,,,,,,"",""
+ball,2,7.5,United States of America,SK Patel,AGS Gous,RN Bhatia,0,0,,,,,,"",""
+ball,2,7.6,United States of America,SK Patel,AGS Gous,RN Bhatia,2,0,,,,,,"",""
+ball,2,8.1,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,8.2,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,8.3,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,8.4,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,8.5,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,6,0,,,,,,"",""
+ball,2,8.6,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,9.1,United States of America,SK Patel,AGS Gous,RN Bhatia,1,0,,,,,,"",""
+ball,2,9.2,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,9.3,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,9.4,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,9.5,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,9.6,United States of America,AGS Gous,SK Patel,RN Bhatia,4,0,,,,,,"",""
+ball,2,10.1,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,10.2,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,10.3,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,10.4,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,10.5,United States of America,SK Patel,AGS Gous,Aayan Afzal Khan,1,0,,,,,,"",""
+ball,2,10.6,United States of America,AGS Gous,SK Patel,Aayan Afzal Khan,0,0,,,,,,"",""
+ball,2,11.1,United States of America,SK Patel,AGS Gous,RN Bhatia,0,0,,,,,,"",""
+ball,2,11.2,United States of America,SK Patel,AGS Gous,RN Bhatia,0,0,,,,,,"",""
+ball,2,11.3,United States of America,SK Patel,AGS Gous,RN Bhatia,1,0,,,,,,"",""
+ball,2,11.4,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,11.5,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,11.6,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,12.1,United States of America,SK Patel,AGS Gous,Ali Naseer,4,0,,,,,,"",""
+ball,2,12.2,United States of America,SK Patel,AGS Gous,Ali Naseer,4,0,,,,,,"",""
+ball,2,12.3,United States of America,SK Patel,AGS Gous,Ali Naseer,1,0,,,,,,"",""
+ball,2,12.4,United States of America,AGS Gous,SK Patel,Ali Naseer,1,0,,,,,,"",""
+ball,2,12.5,United States of America,SK Patel,AGS Gous,Ali Naseer,1,0,,,,,,"",""
+ball,2,12.6,United States of America,AGS Gous,SK Patel,Ali Naseer,0,0,,,,,,"",""
+ball,2,13.1,United States of America,SK Patel,AGS Gous,RN Bhatia,0,0,,,,,,"",""
+ball,2,13.2,United States of America,SK Patel,AGS Gous,RN Bhatia,1,0,,,,,,"",""
+ball,2,13.3,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,13.4,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,13.5,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,13.6,United States of America,AGS Gous,SK Patel,RN Bhatia,1,0,,,,,,"",""
+ball,2,14.1,United States of America,AGS Gous,SK Patel,Ali Naseer,1,0,,,,,,"",""
+ball,2,14.2,United States of America,SK Patel,AGS Gous,Ali Naseer,0,0,,,,,,"",""
+ball,2,14.3,United States of America,SK Patel,AGS Gous,Ali Naseer,0,0,,,,,,"",""
+ball,2,14.4,United States of America,SK Patel,AGS Gous,Ali Naseer,0,0,,,,,,"",""
+ball,2,14.5,United States of America,SK Patel,AGS Gous,Ali Naseer,4,0,,,,,,"",""
+ball,2,14.6,United States of America,SK Patel,AGS Gous,Ali Naseer,4,0,,,,,,"",""
+ball,2,15.1,United States of America,AGS Gous,SK Patel,RN Bhatia,2,0,,,,,,"",""
+ball,2,15.2,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,15.3,United States of America,AGS Gous,SK Patel,RN Bhatia,4,0,,,,,,"",""
+ball,2,15.4,United States of America,AGS Gous,SK Patel,RN Bhatia,0,0,,,,,,"",""
+ball,2,15.5,United States of America,AGS Gous,SK Patel,RN Bhatia,4,0,,,,,,"",""

@@ -1,0 +1,155 @@
+Match ID,innings,team,batsman,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+1375844,1,Pakistan,fc2fffb5,0,2,0,0,0.0,False,not out,,3fb19989
+1375844,1,Pakistan,6843a783,35,70,3,0,50.0,False,not out,,3fb19989
+1375844,1,Pakistan,33609a8c,0,2,0,0,0.0,False,not out,,03806cf8
+1375844,1,Pakistan,8a75e999,26,40,4,0,65.0,False,not out,,03806cf8
+1375844,1,Pakistan,d07c1b2f,5,12,0,0,41.67,False,not out,,ded9240e
+1375844,1,Pakistan,2f26ac1a,88,103,10,2,85.44,False,not out,,ded9240e
+1375844,1,Pakistan,89c16049,53,67,8,0,79.1,False,not out,,3d8feaf8
+1375844,1,Pakistan,bbc192a4,15,23,2,0,65.22,False,not out,,ded9240e
+1375844,1,Pakistan,a8e54ef4,82,97,9,4,84.54,False,not out,,ded9240e
+1375844,1,Pakistan,2911de16,0,5,0,0,0.0,False,not out,,3fb19989
+1375844,1,Pakistan,cb1a782a,7,43,1,0,16.28,False,not out,,3fb19989
+1375844,2,Australia,dcce6f09,34,68,4,0,50.0,False,not out,,bbc192a4
+1375844,2,Australia,331ea488,47,143,4,0,32.87,False,not out,,cb1a782a
+1375844,2,Australia,fa433be6,60,148,6,0,40.54,False,not out,,89c16049
+1375844,2,Australia,30a45b23,38,86,3,0,44.19,False,not out,,a8e54ef4
+1375844,2,Australia,12b610c2,10,29,0,0,34.48,False,not out,,cb1a782a
+1375844,2,Australia,3d8feaf8,54,114,6,0,47.37,False,not out,,89c16049
+1375844,2,Australia,69d03465,38,58,3,0,65.52,False,not out,,a8e54ef4
+1375844,2,Australia,3fb19989,1,9,0,0,11.11,False,not out,,bbc192a4
+1375844,2,Australia,ded9240e,0,2,0,0,0.0,False,not out,,a8e54ef4
+1375844,2,Australia,96a6a7ad,5,3,1,0,166.67,False,not out,,bbc192a4
+1375844,2,Australia,03806cf8,0,2,0,0,0.0,False,not out,,a8e54ef4
+1375844,3,Pakistan,fc2fffb5,0,6,0,0,0.0,False,not out,,3fb19989
+1375844,3,Pakistan,33609a8c,33,53,3,1,62.26,False,not out,,03806cf8
+1375844,3,Pakistan,6843a783,0,1,0,0,0.0,False,not out,,03806cf8
+1375844,3,Pakistan,8a75e999,23,52,1,0,44.23,False,not out,,03806cf8
+1375844,3,Pakistan,d07c1b2f,2,19,0,0,10.53,False,not out,,96a6a7ad
+1375844,3,Pakistan,2f26ac1a,28,57,1,0,49.12,False,not out,,12b610c2
+1375844,3,Pakistan,bbc192a4,0,2,0,0,0.0,False,not out,,03806cf8
+1375844,3,Pakistan,89c16049,0,2,0,0,0.0,False,not out,,03806cf8
+1375844,3,Pakistan,a8e54ef4,18,47,2,0,38.3,False,not out,,03806cf8
+1375844,3,Pakistan,2911de16,5,9,0,0,55.56,False,not out,,96a6a7ad
+1375844,3,Pakistan,cb1a782a,1,11,0,0,9.09,False,not out,,ded9240e
+1375844,4,Australia,331ea488,0,6,0,0,0.0,False,not out,,bbc192a4
+1375844,4,Australia,dcce6f09,57,75,7,0,76.0,False,not out,,cb1a782a
+1375844,4,Australia,fa433be6,62,73,9,0,84.93,False,not out,,bbc192a4
+1375844,4,Australia,30a45b23,4,1,1,0,400.0,False,not out,,bbc192a4
+1375844,4,Australia,12b610c2,,,,,,False,DNB,,
+1375844,4,Australia,3d8feaf8,,,,,,False,DNB,,
+1375844,4,Australia,69d03465,,,,,,False,DNB,,
+1375844,4,Australia,3fb19989,,,,,,False,DNB,,
+1375844,4,Australia,ded9240e,,,,,,False,DNB,,
+1375844,4,Australia,96a6a7ad,,,,,,False,DNB,,
+1375844,4,Australia,03806cf8,,,,,,False,DNB,,
+1375845,1,West Indies,7d5af2ea,13,45,2,0,28.89,False,not out,,3fb19989
+1375845,1,West Indies,80c6ed7d,6,25,1,0,24.0,False,not out,,03806cf8
+1375845,1,West Indies,2b8f219a,50,95,7,0,52.63,False,not out,,ded9240e
+1375845,1,West Indies,58c2fac4,13,31,0,0,41.94,False,not out,,ded9240e
+1375845,1,West Indies,49dc9cb4,12,36,2,0,33.33,False,not out,,03806cf8
+1375845,1,West Indies,74d12124,5,9,1,0,55.56,False,not out,,03806cf8
+1375845,1,West Indies,bab78fa2,6,22,1,0,27.27,False,not out,,03806cf8
+1375845,1,West Indies,b0946605,14,21,2,0,66.67,False,not out,,03806cf8
+1375845,1,West Indies,97bdec3d,1,7,0,0,14.29,False,not out,,ded9240e
+1375845,1,West Indies,97290faf,36,42,3,1,85.71,False,not out,,ded9240e
+1375845,1,West Indies,78eb4223,17,42,2,1,40.48,False,not out,,ded9240e
+1375845,2,Australia,30a45b23,12,26,2,0,46.15,False,not out,,78eb4223
+1375845,2,Australia,331ea488,45,111,6,0,40.54,False,not out,,78eb4223
+1375845,2,Australia,fa433be6,10,25,1,0,40.0,False,not out,,97290faf
+1375845,2,Australia,eaa76d3c,14,27,3,0,51.85,False,not out,,97290faf
+1375845,2,Australia,12b610c2,119,134,12,3,88.81,False,not out,,97290faf
+1375845,2,Australia,3d8feaf8,5,26,1,0,19.23,False,not out,,74d12124
+1375845,2,Australia,69d03465,15,40,2,0,37.5,False,not out,,78eb4223
+1375845,2,Australia,3fb19989,10,38,1,0,26.32,False,not out,,74d12124
+1375845,2,Australia,ded9240e,12,35,1,0,34.29,False,not out,,97290faf
+1375845,2,Australia,96a6a7ad,24,34,2,1,70.59,False,not out,,b0946605
+1375845,2,Australia,03806cf8,,,,,,False,DNB,,
+1375845,3,West Indies,7d5af2ea,1,11,0,0,9.09,False,not out,,3fb19989
+1375845,3,West Indies,80c6ed7d,0,1,0,0,0.0,False,not out,,03806cf8
+1375845,3,West Indies,2b8f219a,26,35,4,0,74.29,False,not out,,03806cf8
+1375845,3,West Indies,58c2fac4,0,11,0,0,0.0,False,not out,,03806cf8
+1375845,3,West Indies,49dc9cb4,3,12,0,0,25.0,False,not out,,03806cf8
+1375845,3,West Indies,74d12124,24,37,3,0,64.86,False,not out,,03806cf8
+1375845,3,West Indies,bab78fa2,18,44,1,0,40.91,False,not out,,eaa76d3c
+1375845,3,West Indies,b0946605,16,30,3,0,53.33,False,not out,,96a6a7ad
+1375845,3,West Indies,97bdec3d,3,10,0,0,30.0,False,not out,,3fb19989
+1375845,3,West Indies,97290faf,15,12,3,0,125.0,False,not out,,03806cf8
+1375845,3,West Indies,78eb4223,11,11,2,0,100.0,False,not out,,3fb19989
+1375845,4,Australia,30a45b23,11,22,2,0,50.0,False,not out,,78eb4223
+1375845,4,Australia,331ea488,9,20,1,0,45.0,False,not out,,78eb4223
+1375845,4,Australia,fa433be6,1,2,0,0,50.0,False,not out,,97290faf
+1375845,4,Australia,eaa76d3c,,,,,,False,DNB,,
+1375845,4,Australia,12b610c2,,,,,,False,DNB,,
+1375845,4,Australia,3d8feaf8,,,,,,False,DNB,,
+1375845,4,Australia,69d03465,,,,,,False,DNB,,
+1375845,4,Australia,3fb19989,,,,,,False,DNB,,
+1375845,4,Australia,ded9240e,,,,,,False,DNB,,
+1375845,4,Australia,96a6a7ad,,,,,,False,DNB,,
+1375845,4,Australia,03806cf8,,,,,,False,DNB,,
+1375846,1,West Indies,7d5af2ea,4,25,0,0,16.0,False,not out,,3fb19989
+1375846,1,West Indies,80c6ed7d,21,48,2,0,43.75,False,not out,,3fb19989
+1375846,1,West Indies,2b8f219a,21,25,3,1,84.0,False,not out,,03806cf8
+1375846,1,West Indies,58c2fac4,8,22,1,0,36.36,False,not out,,ded9240e
+1375846,1,West Indies,49dc9cb4,71,194,8,1,36.6,False,not out,,3fb19989
+1375846,1,West Indies,74d12124,6,10,1,0,60.0,False,not out,,3fb19989
+1375846,1,West Indies,bab78fa2,79,159,7,0,49.69,False,not out,,3fb19989
+1375846,1,West Indies,314642ed,50,98,5,1,51.02,False,not out,,96a6a7ad
+1375846,1,West Indies,b0946605,32,22,7,0,145.45,False,not out,,3fb19989
+1375846,1,West Indies,78eb4223,8,40,1,0,20.0,False,not out,,03806cf8
+1375846,1,West Indies,97290faf,3,9,0,0,33.33,False,not out,,ded9240e
+1375846,2,Australia,30a45b23,6,6,1,0,100.0,False,not out,,78eb4223
+1375846,2,Australia,331ea488,75,131,10,0,57.25,False,not out,,b0946605
+1375846,2,Australia,fa433be6,3,3,0,0,100.0,False,not out,,b0946605
+1375846,2,Australia,eaa76d3c,8,14,1,0,57.14,False,not out,,b0946605
+1375846,2,Australia,12b610c2,0,1,0,0,0.0,False,not out,,78eb4223
+1375846,2,Australia,3d8feaf8,21,20,3,1,105.0,False,not out,,b0946605
+1375846,2,Australia,69d03465,65,49,9,1,132.65,False,not out,,b0946605
+1375846,2,Australia,3fb19989,2,8,0,0,25.0,False,not out,,97290faf
+1375846,2,Australia,ded9240e,64,75,8,1,85.33,False,not out,,b0946605
+1375846,2,Australia,96a6a7ad,19,19,2,0,100.0,False,not out,,314642ed
+1375846,2,Australia,03806cf8,,,,,,False,DNB,,
+1375846,3,West Indies,7d5af2ea,16,54,2,0,29.63,False,not out,,3fb19989
+1375846,3,West Indies,80c6ed7d,4,26,0,0,15.38,False,not out,,3fb19989
+1375846,3,West Indies,2b8f219a,41,50,6,0,82.0,False,not out,,03806cf8
+1375846,3,West Indies,58c2fac4,35,72,3,0,48.61,False,not out,,eaa76d3c
+1375846,3,West Indies,49dc9cb4,29,74,4,0,39.19,False,not out,,96a6a7ad
+1375846,3,West Indies,74d12124,33,60,4,0,55.0,False,not out,,96a6a7ad
+1375846,3,West Indies,bab78fa2,7,8,1,0,87.5,False,not out,,eaa76d3c
+1375846,3,West Indies,314642ed,14,59,3,0,23.73,False,not out,,3fb19989
+1375846,3,West Indies,b0946605,0,4,0,0,0.0,False,not out,,03806cf8
+1375846,3,West Indies,78eb4223,1,17,0,0,5.88,False,not out,,03806cf8
+1375846,3,West Indies,97290faf,3,14,0,0,21.43,False,not out,,96a6a7ad
+1375846,4,Australia,30a45b23,91,149,9,1,61.07,False,not out,,78eb4223
+1375846,4,Australia,331ea488,10,17,1,0,58.82,False,not out,,b0946605
+1375846,4,Australia,fa433be6,5,12,0,0,41.67,False,not out,,b0946605
+1375846,4,Australia,eaa76d3c,42,73,4,0,57.53,False,not out,,74d12124
+1375846,4,Australia,12b610c2,0,1,0,0,0.0,False,not out,,97290faf
+1375846,4,Australia,3d8feaf8,10,12,2,0,83.33,False,not out,,74d12124
+1375846,4,Australia,69d03465,2,5,0,0,40.0,False,not out,,97290faf
+1375846,4,Australia,3fb19989,21,14,4,0,150.0,False,not out,,97290faf
+1375846,4,Australia,ded9240e,2,8,0,0,25.0,False,not out,,97290faf
+1375846,4,Australia,96a6a7ad,9,20,1,0,45.0,False,not out,,97290faf
+1375846,4,Australia,03806cf8,0,6,0,0,0.0,False,not out,,97290faf
+1375847,1,West Indies,58c2fac4,5,11,1,0,45.45,False,not out,,b08e58e2
+1375847,1,West Indies,74d12124,1,5,0,0,20.0,False,not out,,b08e58e2
+1375847,1,West Indies,6020a3c6,88,109,6,2,80.73,False,not out,,3b53243a
+1375847,1,West Indies,1fc6ef83,12,17,1,0,70.59,False,not out,,3b53243a
+1375847,1,West Indies,49dc9cb4,11,18,1,0,61.11,False,not out,,3b53243a
+1375847,1,West Indies,3feda4fa,59,67,7,0,88.06,False,not out,,eaa76d3c
+1375847,1,West Indies,1ac2a995,20,37,0,0,54.05,False,not out,,14f96089
+1375847,1,West Indies,c5aef772,0,1,0,0,0.0,False,not out,,eaa76d3c
+1375847,1,West Indies,83d17bbc,19,22,1,1,86.36,False,not out,,eaa76d3c
+1375847,1,West Indies,97bdec3d,3,6,0,0,50.0,False,not out,,1a2676c5
+1375847,1,West Indies,c6097d68,2,5,0,0,40.0,False,not out,,3b53243a
+1375847,2,Australia,12b610c2,4,5,1,0,80.0,False,not out,,83d17bbc
+1375847,2,Australia,eaa76d3c,77,105,4,2,73.33,False,not out,,83d17bbc
+1375847,2,Australia,989889ff,65,44,10,1,147.73,False,not out,,c6097d68
+1375847,2,Australia,30a45b23,79,82,8,0,96.34,False,not out,,97bdec3d
+1375847,2,Australia,fa433be6,,,,,,False,DNB,,
+1375847,2,Australia,a90e53ec,,,,,,False,DNB,,
+1375847,2,Australia,d405c0d5,,,,,,False,DNB,,
+1375847,2,Australia,1a2676c5,,,,,,False,DNB,,
+1375847,2,Australia,3b53243a,,,,,,False,DNB,,
+1375847,2,Australia,b08e58e2,,,,,,False,DNB,,
+1375847,2,Australia,14f96089,,,,,,False,DNB,,

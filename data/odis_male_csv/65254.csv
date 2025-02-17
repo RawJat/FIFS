@@ -1,0 +1,374 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,South Africa
+info,gender,male
+info,season,2002/03
+info,date,2003/02/22
+info,event,ICC World Cup
+info,match_number,22
+info,venue,"Goodyear Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,M Ntini
+info,umpire,BF Bowden
+info,umpire,S Venkataraghavan
+info,tv_umpire,TH Wijewardene
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_wickets,10
+info,player,Bangladesh,Al Sahariar
+info,player,Bangladesh,Ehsanul Haque
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Sanwar Hossain
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Tushar Imran
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Manjural Islam
+info,player,Bangladesh,Talha Jubair
+info,player,South Africa,HH Gibbs
+info,player,South Africa,G Kirsten
+info,player,South Africa,JH Kallis
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,AJ Hall
+info,player,South Africa,L Klusener
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,RJ Peterson
+info,player,South Africa,M Ntini
+info,player,South Africa,M Zondeki
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,Al Sahariar,fdd414ab
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,Ehsanul Haque,688b2d58
+info,registry,people,G Kirsten,ad48eb56
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,L Klusener,c0790f82
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Manjural Islam,2cfa6534
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,Sanwar Hossain,2cccba8f
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,Talha Jubair,0e9af639
+info,registry,people,Tushar Imran,b58af144
+ball,1,0.1,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,0.2,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,0.3,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,0.4,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,0.5,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,1,,1,,,,"",""
+ball,1,0.6,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,0.7,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,1.1,Bangladesh,Ehsanul Haque,Al Sahariar,M Ntini,0,0,,,,,,"",""
+ball,1,1.2,Bangladesh,Ehsanul Haque,Al Sahariar,M Ntini,0,0,,,,,,"",""
+ball,1,1.3,Bangladesh,Ehsanul Haque,Al Sahariar,M Ntini,0,0,,,,,,"",""
+ball,1,1.4,Bangladesh,Ehsanul Haque,Al Sahariar,M Ntini,0,1,,,,1,,"",""
+ball,1,1.5,Bangladesh,Al Sahariar,Ehsanul Haque,M Ntini,0,1,,,,1,,"",""
+ball,1,1.6,Bangladesh,Ehsanul Haque,Al Sahariar,M Ntini,0,0,,,,,,"",""
+ball,1,2.1,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,2.2,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,2.3,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,2.4,Bangladesh,Al Sahariar,Ehsanul Haque,SM Pollock,0,0,,,,,,caught,Al Sahariar
+ball,1,2.5,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,1,,,,1,,"",""
+ball,1,2.6,Bangladesh,Mohammad Ashraful,Ehsanul Haque,SM Pollock,0,0,,,,,,"",""
+ball,1,3.1,Bangladesh,Ehsanul Haque,Mohammad Ashraful,M Ntini,0,0,,,,,,"",""
+ball,1,3.2,Bangladesh,Ehsanul Haque,Mohammad Ashraful,M Ntini,0,0,,,,,,"",""
+ball,1,3.3,Bangladesh,Ehsanul Haque,Mohammad Ashraful,M Ntini,0,0,,,,,,"",""
+ball,1,3.4,Bangladesh,Ehsanul Haque,Mohammad Ashraful,M Ntini,0,0,,,,,,"",""
+ball,1,3.5,Bangladesh,Ehsanul Haque,Mohammad Ashraful,M Ntini,1,0,,,,,,"",""
+ball,1,3.6,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,4.1,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,4.2,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,4.3,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,4.4,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,4.5,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,4.6,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,5.1,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,5.2,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,5.3,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,5.4,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,2,1,,1,,,,"",""
+ball,1,5.5,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,5.6,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,4,0,,,,,,"",""
+ball,1,5.7,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,6.1,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,6.2,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,6.3,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,1,,1,,,,"",""
+ball,1,6.4,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,1,,1,,,,"",""
+ball,1,6.5,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,6.6,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,6.7,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,6.8,Bangladesh,Ehsanul Haque,Mohammad Ashraful,SM Pollock,0,0,,,,,,"",""
+ball,1,7.1,Bangladesh,Mohammad Ashraful,Ehsanul Haque,M Ntini,0,0,,,,,,caught,Mohammad Ashraful
+ball,1,7.2,Bangladesh,Sanwar Hossain,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,7.3,Bangladesh,Sanwar Hossain,Ehsanul Haque,M Ntini,1,1,,1,,,,"",""
+ball,1,7.4,Bangladesh,Ehsanul Haque,Sanwar Hossain,M Ntini,1,0,,,,,,"",""
+ball,1,7.5,Bangladesh,Sanwar Hossain,Ehsanul Haque,M Ntini,2,0,,,,,,"",""
+ball,1,7.6,Bangladesh,Sanwar Hossain,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,7.7,Bangladesh,Sanwar Hossain,Ehsanul Haque,M Ntini,0,0,,,,,,"",""
+ball,1,8.1,Bangladesh,Ehsanul Haque,Sanwar Hossain,SM Pollock,1,0,,,,,,"",""
+ball,1,8.2,Bangladesh,Sanwar Hossain,Ehsanul Haque,SM Pollock,1,0,,,,,,"",""
+ball,1,8.3,Bangladesh,Ehsanul Haque,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,8.4,Bangladesh,Ehsanul Haque,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,8.5,Bangladesh,Ehsanul Haque,Sanwar Hossain,SM Pollock,0,0,,,,,,caught,Ehsanul Haque
+ball,1,8.6,Bangladesh,Alok Kapali,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,9.1,Bangladesh,Sanwar Hossain,Alok Kapali,M Ntini,0,0,,,,,,"",""
+ball,1,9.2,Bangladesh,Sanwar Hossain,Alok Kapali,M Ntini,4,0,,,,,,"",""
+ball,1,9.3,Bangladesh,Sanwar Hossain,Alok Kapali,M Ntini,1,0,,,,,,"",""
+ball,1,9.4,Bangladesh,Alok Kapali,Sanwar Hossain,M Ntini,0,0,,,,,,"",""
+ball,1,9.5,Bangladesh,Alok Kapali,Sanwar Hossain,M Ntini,0,0,,,,,,"",""
+ball,1,9.6,Bangladesh,Alok Kapali,Sanwar Hossain,M Ntini,0,0,,,,,,"",""
+ball,1,10.1,Bangladesh,Sanwar Hossain,Alok Kapali,SM Pollock,0,0,,,,,,"",""
+ball,1,10.2,Bangladesh,Sanwar Hossain,Alok Kapali,SM Pollock,1,0,,,,,,"",""
+ball,1,10.3,Bangladesh,Alok Kapali,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,10.4,Bangladesh,Alok Kapali,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,10.5,Bangladesh,Alok Kapali,Sanwar Hossain,SM Pollock,0,0,,,,,,"",""
+ball,1,10.6,Bangladesh,Alok Kapali,Sanwar Hossain,SM Pollock,2,0,,,,,,"",""
+ball,1,11.1,Bangladesh,Sanwar Hossain,Alok Kapali,M Zondeki,1,0,,,,,,"",""
+ball,1,11.2,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,0,,,,,,"",""
+ball,1,11.3,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,1,1,,,,,"",""
+ball,1,11.4,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,0,,,,,,"",""
+ball,1,11.5,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,1,1,,,,,"",""
+ball,1,11.6,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,0,,,,,,"",""
+ball,1,11.7,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,1,1,,,,,"",""
+ball,1,11.8,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,0,,,,,,"",""
+ball,1,11.9,Bangladesh,Alok Kapali,Sanwar Hossain,M Zondeki,0,0,,,,,,"",""
+ball,1,12.1,Bangladesh,Sanwar Hossain,Alok Kapali,AJ Hall,0,0,,,,,,"",""
+ball,1,12.2,Bangladesh,Sanwar Hossain,Alok Kapali,AJ Hall,0,0,,,,,,caught,Sanwar Hossain
+ball,1,12.3,Bangladesh,Tushar Imran,Alok Kapali,AJ Hall,0,0,,,,,,"",""
+ball,1,12.4,Bangladesh,Tushar Imran,Alok Kapali,AJ Hall,0,0,,,,,,"",""
+ball,1,12.5,Bangladesh,Tushar Imran,Alok Kapali,AJ Hall,0,0,,,,,,"",""
+ball,1,12.6,Bangladesh,Tushar Imran,Alok Kapali,AJ Hall,0,0,,,,,,"",""
+ball,1,13.1,Bangladesh,Alok Kapali,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,13.2,Bangladesh,Alok Kapali,Tushar Imran,M Zondeki,0,0,,,,,,caught,Alok Kapali
+ball,1,13.3,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,13.4,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,13.5,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,13.6,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,14.1,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,14.2,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,1,1,,,,,"",""
+ball,1,14.3,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,14.4,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,1,1,,,,,"",""
+ball,1,14.5,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,14.6,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,14.7,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,14.8,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,1,,1,,,,"",""
+ball,1,14.9,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,15.1,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,15.2,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,15.3,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,15.4,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,1,1,,,,,"",""
+ball,1,15.5,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,1,0,,,,,,"",""
+ball,1,15.6,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,0,0,,,,,,"",""
+ball,1,15.7,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,0,0,,,,,,"",""
+ball,1,16.1,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,4,0,,,,,,"",""
+ball,1,16.2,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,16.3,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,16.4,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,16.5,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,16.6,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,1,0,,,,,,"",""
+ball,1,17.1,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,2,0,,,,,,"",""
+ball,1,17.2,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,17.3,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,0,0,,,,,,"",""
+ball,1,17.4,Bangladesh,Khaled Mashud,Tushar Imran,M Zondeki,1,0,,,,,,"",""
+ball,1,17.5,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,0,0,,,,,,"",""
+ball,1,17.6,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,1,0,,,,,,"",""
+ball,1,18.1,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,1,0,,,,,,"",""
+ball,1,18.2,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,1,1,,,,,"",""
+ball,1,18.3,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,18.4,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,18.5,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,18.6,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,18.7,Bangladesh,Khaled Mashud,Tushar Imran,AJ Hall,0,0,,,,,,"",""
+ball,1,19.1,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,0,0,,,,,,"",""
+ball,1,19.2,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,2,0,,,,,,"",""
+ball,1,19.3,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,0,0,,,,,,"",""
+ball,1,19.4,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,2,0,,,,,,"",""
+ball,1,19.5,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,2,0,,,,,,"",""
+ball,1,19.6,Bangladesh,Tushar Imran,Khaled Mashud,M Zondeki,1,0,,,,,,"",""
+ball,1,20.1,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,20.2,Bangladesh,Tushar Imran,Khaled Mashud,AJ Hall,0,0,,,,,,caught,Tushar Imran
+ball,1,20.3,Bangladesh,Khaled Mahmud,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,20.4,Bangladesh,Khaled Mahmud,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,20.5,Bangladesh,Khaled Mahmud,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,20.6,Bangladesh,Khaled Mahmud,Khaled Mashud,AJ Hall,0,0,,,,,,"",""
+ball,1,21.1,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,21.2,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,2,1,,1,,,,"",""
+ball,1,21.3,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,1,0,,,,,,"",""
+ball,1,21.4,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,21.5,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,21.6,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,21.7,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,22.1,Bangladesh,Khaled Mahmud,Khaled Mashud,AJ Hall,0,1,,,,1,,"",""
+ball,1,22.2,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,0,0,,,,,,"",""
+ball,1,22.3,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,0,0,,,,,,"",""
+ball,1,22.4,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,0,1,,1,,,,"",""
+ball,1,22.5,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,0,0,,,,,,"",""
+ball,1,22.6,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,4,0,,,,,,"",""
+ball,1,22.7,Bangladesh,Khaled Mashud,Khaled Mahmud,AJ Hall,0,0,,,,,,"",""
+ball,1,23.1,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,1,0,,,,,,"",""
+ball,1,23.2,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,23.3,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,23.4,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,23.5,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,23.6,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,24.1,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.2,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.3,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.4,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,24.5,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,0,0,,,,,,"",""
+ball,1,24.6,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,0,0,,,,,,"",""
+ball,1,25.1,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,25.2,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,4,0,,,,,,"",""
+ball,1,25.3,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,25.4,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,25.5,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,25.6,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,26.1,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,26.2,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,1,0,,,,,,"",""
+ball,1,26.3,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,26.4,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,26.5,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,26.6,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,27.1,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,27.2,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,27.3,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,27.4,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,1,0,,,,,,"",""
+ball,1,27.5,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,27.6,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,0,,,,,,"",""
+ball,1,28.1,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.2,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,28.3,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,1,0,,,,,,"",""
+ball,1,28.4,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.5,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,28.6,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,29.1,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,29.2,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,0,0,,,,,,"",""
+ball,1,29.3,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,29.4,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,1,0,,,,,,"",""
+ball,1,29.5,Bangladesh,Khaled Mashud,Khaled Mahmud,JH Kallis,1,0,,,,,,"",""
+ball,1,29.6,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,0,1,1,,,,,"",""
+ball,1,29.7,Bangladesh,Khaled Mahmud,Khaled Mashud,JH Kallis,1,0,,,,,,"",""
+ball,1,30.1,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,0,0,,,,,,"",""
+ball,1,30.2,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,1,0,,,,,,"",""
+ball,1,30.3,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,30.4,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,30.5,Bangladesh,Khaled Mashud,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,30.6,Bangladesh,Khaled Mahmud,Khaled Mashud,RJ Peterson,0,0,,,,,,"",""
+ball,1,31.1,Bangladesh,Khaled Mashud,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,31.2,Bangladesh,Khaled Mashud,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,31.3,Bangladesh,Khaled Mashud,Khaled Mahmud,M Ntini,1,0,,,,,,"",""
+ball,1,31.4,Bangladesh,Khaled Mahmud,Khaled Mashud,M Ntini,1,0,,,,,,"",""
+ball,1,31.5,Bangladesh,Khaled Mashud,Khaled Mahmud,M Ntini,0,0,,,,,,caught,Khaled Mashud
+ball,1,31.6,Bangladesh,Mohammad Rafique,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,32.1,Bangladesh,Khaled Mahmud,Mohammad Rafique,RJ Peterson,0,0,,,,,,"",""
+ball,1,32.2,Bangladesh,Khaled Mahmud,Mohammad Rafique,RJ Peterson,1,0,,,,,,"",""
+ball,1,32.3,Bangladesh,Mohammad Rafique,Khaled Mahmud,RJ Peterson,1,0,,,,,,"",""
+ball,1,32.4,Bangladesh,Khaled Mahmud,Mohammad Rafique,RJ Peterson,0,0,,,,,,"",""
+ball,1,32.5,Bangladesh,Khaled Mahmud,Mohammad Rafique,RJ Peterson,0,0,,,,,,run out,Mohammad Rafique
+ball,1,32.6,Bangladesh,Khaled Mahmud,Manjural Islam,RJ Peterson,6,0,,,,,,"",""
+ball,1,33.1,Bangladesh,Manjural Islam,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,33.2,Bangladesh,Manjural Islam,Khaled Mahmud,M Ntini,0,0,,,,,,caught,Manjural Islam
+ball,1,33.3,Bangladesh,Talha Jubair,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,33.4,Bangladesh,Talha Jubair,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,33.5,Bangladesh,Talha Jubair,Khaled Mahmud,M Ntini,0,0,,,,,,"",""
+ball,1,33.6,Bangladesh,Talha Jubair,Khaled Mahmud,M Ntini,4,0,,,,,,"",""
+ball,1,34.1,Bangladesh,Khaled Mahmud,Talha Jubair,RJ Peterson,4,0,,,,,,"",""
+ball,1,34.2,Bangladesh,Khaled Mahmud,Talha Jubair,RJ Peterson,1,0,,,,,,"",""
+ball,1,34.3,Bangladesh,Talha Jubair,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,34.4,Bangladesh,Talha Jubair,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,34.5,Bangladesh,Talha Jubair,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,34.6,Bangladesh,Talha Jubair,Khaled Mahmud,RJ Peterson,0,0,,,,,,"",""
+ball,1,35.1,Bangladesh,Khaled Mahmud,Talha Jubair,M Ntini,0,0,,,,,,caught,Khaled Mahmud
+ball,2,0.1,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,0.2,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,0.3,South Africa,HH Gibbs,G Kirsten,Manjural Islam,1,0,,,,,,"",""
+ball,2,0.4,South Africa,G Kirsten,HH Gibbs,Manjural Islam,1,0,,,,,,"",""
+ball,2,0.5,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,0.6,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,1.1,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,1.2,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,1.3,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,1.4,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,1.5,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,1.6,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,1.7,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,1.8,South Africa,G Kirsten,HH Gibbs,Talha Jubair,4,0,,,,,,"",""
+ball,2,1.9,South Africa,G Kirsten,HH Gibbs,Talha Jubair,4,0,,,,,,"",""
+ball,2,2.1,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,2.2,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,2.3,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,2.4,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,2.5,South Africa,HH Gibbs,G Kirsten,Manjural Islam,4,0,,,,,,"",""
+ball,2,2.6,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,3.1,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,3.2,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,3.3,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,3.4,South Africa,G Kirsten,HH Gibbs,Talha Jubair,4,0,,,,,,"",""
+ball,2,3.5,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,3.6,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,1,1,,,,,"",""
+ball,2,3.7,South Africa,G Kirsten,HH Gibbs,Talha Jubair,0,0,,,,,,"",""
+ball,2,3.8,South Africa,G Kirsten,HH Gibbs,Talha Jubair,4,0,,,,,,"",""
+ball,2,3.9,South Africa,G Kirsten,HH Gibbs,Talha Jubair,2,0,,,,,,"",""
+ball,2,4.1,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,4.2,South Africa,HH Gibbs,G Kirsten,Manjural Islam,4,0,,,,,,"",""
+ball,2,4.3,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,4.4,South Africa,HH Gibbs,G Kirsten,Manjural Islam,0,0,,,,,,"",""
+ball,2,4.5,South Africa,HH Gibbs,G Kirsten,Manjural Islam,4,0,,,,,,"",""
+ball,2,4.6,South Africa,HH Gibbs,G Kirsten,Manjural Islam,1,0,,,,,,"",""
+ball,2,5.1,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,4,0,,,,,,"",""
+ball,2,5.2,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,5.3,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,4,0,,,,,,"",""
+ball,2,5.4,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,4,0,,,,,,"",""
+ball,2,5.5,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,5.6,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,1,0,,,,,,"",""
+ball,2,6.1,South Africa,HH Gibbs,G Kirsten,Manjural Islam,1,0,,,,,,"",""
+ball,2,6.2,South Africa,G Kirsten,HH Gibbs,Manjural Islam,2,0,,,,,,"",""
+ball,2,6.3,South Africa,G Kirsten,HH Gibbs,Manjural Islam,0,0,,,,,,"",""
+ball,2,6.4,South Africa,G Kirsten,HH Gibbs,Manjural Islam,0,0,,,,,,"",""
+ball,2,6.5,South Africa,G Kirsten,HH Gibbs,Manjural Islam,4,0,,,,,,"",""
+ball,2,6.6,South Africa,G Kirsten,HH Gibbs,Manjural Islam,4,0,,,,,,"",""
+ball,2,7.1,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,4,0,,,,,,"",""
+ball,2,7.2,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,7.3,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,7.4,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,1,1,,,,,"",""
+ball,2,7.5,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,7.6,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,2,0,,,,,,"",""
+ball,2,7.7,South Africa,HH Gibbs,G Kirsten,Khaled Mahmud,0,0,,,,,,"",""
+ball,2,8.1,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,4,0,,,,,,"",""
+ball,2,8.2,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,8.3,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,8.4,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,8.5,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,1,0,,,,,,"",""
+ball,2,8.6,South Africa,HH Gibbs,G Kirsten,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,9.1,South Africa,G Kirsten,HH Gibbs,Alok Kapali,1,0,,,,,,"",""
+ball,2,9.2,South Africa,HH Gibbs,G Kirsten,Alok Kapali,0,0,,,,,,"",""
+ball,2,9.3,South Africa,HH Gibbs,G Kirsten,Alok Kapali,4,0,,,,,,"",""
+ball,2,9.4,South Africa,HH Gibbs,G Kirsten,Alok Kapali,0,1,,,,1,,"",""
+ball,2,9.5,South Africa,G Kirsten,HH Gibbs,Alok Kapali,2,0,,,,,,"",""
+ball,2,9.6,South Africa,G Kirsten,HH Gibbs,Alok Kapali,0,0,,,,,,"",""
+ball,2,10.1,South Africa,HH Gibbs,G Kirsten,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,10.2,South Africa,HH Gibbs,G Kirsten,Mohammad Rafique,1,0,,,,,,"",""
+ball,2,10.3,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,0,0,,,,,,"",""
+ball,2,10.4,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,4,0,,,,,,"",""
+ball,2,10.5,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,4,0,,,,,,"",""
+ball,2,10.6,South Africa,G Kirsten,HH Gibbs,Mohammad Rafique,6,0,,,,,,"",""
+ball,2,11.1,South Africa,HH Gibbs,G Kirsten,Alok Kapali,2,0,,,,,,"",""
+ball,2,11.2,South Africa,HH Gibbs,G Kirsten,Alok Kapali,1,0,,,,,,"",""
+ball,2,11.3,South Africa,G Kirsten,HH Gibbs,Alok Kapali,0,0,,,,,,"",""
+ball,2,11.4,South Africa,G Kirsten,HH Gibbs,Alok Kapali,1,0,,,,,,"",""
+ball,2,11.5,South Africa,HH Gibbs,G Kirsten,Alok Kapali,6,0,,,,,,"",""
+ball,2,11.6,South Africa,HH Gibbs,G Kirsten,Alok Kapali,1,0,,,,,,"",""
