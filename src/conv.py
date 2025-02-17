@@ -1,95 +1,107 @@
-import json
 import csv
 import os
 
-# Folder containing JSON files
-input_folder = r"D:\ED\FIFS\data\testfolder"
-output_csv = "formatted_data.csv"
+def process_match_file(match_file_path):
+    """Process the match file and return formatted match details."""
+    match_data = []
+    with open(match_file_path, mode='r') as match_file:
+        reader = csv.DictReader(match_file)
+        batsman_data = {}
 
-# Define CSV headers
-headers = ["Match ID", "innings", "team", "batsman", "runs", "balls", "fours", "sixes", "strikeRate", "isOut",
-           "wicketType", "fielders", "bowler"]
+        for row in reader:
+            try:
+                # Check if necessary columns are present
+                match_id = row['match_id']
+                innings = row['innings']
+                batting_team = row['batting_team']
+                bowler = row['bowler']
+                striker = row['striker']
+                non_striker = row['non_striker']
+                runs_off_bat = int(row['runs_off_bat'])
+                extras = int(row['extras']) if row['extras'] else 0
+                player_dismissed = row['player_dismissed']
+                wicket_type = row['wicket_type']
+                fielders = row.get('fielders', '')
 
-# Open the output CSV file
-with open(output_csv, "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(headers)  # Write headers
+                # Initialize batsman data
+                for batsman in [striker, non_striker]:
+                    if batsman not in batsman_data:
+                        batsman_data[batsman] = {'runs': 0, 'balls': 0, 'fours': 0, 'sixes': 0, 'out': False}
 
-    # Loop through each JSON file in the folder
-    for filename in os.listdir(input_folder):
-        if filename.endswith(".json"):
-            match_id = filename.split(".")[0]  # Extract match ID from file name
-            file_path = os.path.join(input_folder, filename)
+                batsman_data[striker]['runs'] += runs_off_bat
+                batsman_data[striker]['balls'] += 1
+                if runs_off_bat == 4:
+                    batsman_data[striker]['fours'] += 1
+                if runs_off_bat == 6:
+                    batsman_data[striker]['sixes'] += 1
 
-            # Read JSON data
-            with open(file_path, "r") as json_file:
-                data = json.load(json_file)
+                # Handle player dismissal
+                if player_dismissed:
+                    batsman_data[striker]['out'] = True
+                    batsman_data[striker]['wicket_type'] = wicket_type
+                    batsman_data[striker]['fielders'] = fielders
 
-            # Get player ID mapping
-            player_registry = data["info"]["registry"]["people"]
-            player_id_map = {name: pid for name, pid in player_registry.items()}  # Name → ID
+            except KeyError as e:
+                # Handle missing columns gracefully
+                print(f"Error processing row, missing column: {e}")
+                continue  # Skip this row and move to the next
 
-            # Get all players from match info
-            players_by_team = data["info"]["players"]
+        # Format final match data
+        for batsman, stats in batsman_data.items():
+            strike_rate = "{:.2f}".format(stats['runs'] / stats['balls'] * 100) if stats['balls'] > 0 else "0.00"
+            match_data.append({
+                'match_id': match_id,
+                'innings': innings,
+                'batting_team': batting_team,
+                'batsman': batsman,
+                'runs': stats['runs'],
+                'balls': stats['balls'],
+                'fours': stats['fours'],
+                'sixes': stats['sixes'],
+                'strikeRate': strike_rate,
+                'isOut': 'Yes' if stats.get('out', False) else 'No',
+                'wicketType': stats.get('wicket_type', ''),
+                'fielders': stats.get('fielders', ''),
+                'bowler': bowler
+            })
 
-            # Process each innings
-            for inning_index, inning in enumerate(data["innings"], start=1):
-                team = inning["team"]
+    return match_data
 
-                # Track all players in the innings
-                players_batted = set()
-                player_stats = {}
+def process_files_in_folder(import_folder_path, export_folder_path, output_file):
+    """Process all match files and store the data in a single CSV file in the export folder."""
+    files = os.listdir(import_folder_path)
+    match_files = [f for f in files if f.endswith('.csv') and not f.endswith('_info.csv')]
 
-                # Process ball-by-ball data
-                for over in inning["overs"]:
-                    for delivery in over["deliveries"]:
-                        batter = delivery["batter"]
-                        bowler = delivery["bowler"]
-                        runs = delivery["runs"]["batter"]
-                        is_out = "wicket" in delivery  # Check if the delivery resulted in a wicket
-                        wicket_type = delivery["wicket"]["kind"] if is_out else "not out"
+    all_match_data = []  # Store all match data
 
-                        # Get fielder IDs if available (if delivery has fielders)
-                        fielders = [player_id_map[f] for f in
-                                    delivery["wicket"].get("fielders", [])] if is_out and "fielders" in delivery[
-                            "wicket"] else []
+    for match_file in match_files:
+        match_file_path = os.path.join(import_folder_path, match_file)
 
-                        # Convert names to IDs
-                        batter_id = player_id_map.get(batter, batter)
-                        bowler_id = player_id_map.get(bowler, bowler)
+        # Process match data
+        match_data = process_match_file(match_file_path)
 
-                        players_batted.add(batter_id)
+        # Collect data
+        all_match_data.extend(match_data)
 
-                        # Store player stats
-                        if batter_id not in player_stats:
-                            player_stats[batter_id] = {
-                                "runs": 0, "balls": 0, "fours": 0, "sixes": 0,
-                                "isOut": is_out, "wicketType": wicket_type, "fielders": fielders, "bowler": bowler_id
-                            }
+    # Write all data to a single CSV file in the export folder
+    if not os.path.exists(export_folder_path):
+        os.makedirs(export_folder_path)
 
-                        player_stats[batter_id]["runs"] += runs
-                        player_stats[batter_id]["balls"] += 1
-                        if runs == 4:
-                            player_stats[batter_id]["fours"] += 1
-                        elif runs == 6:
-                            player_stats[batter_id]["sixes"] += 1
+    output_path = os.path.join(export_folder_path, output_file)
+    with open(output_path, mode='w', newline='') as output_file:
+        fieldnames = ['match_id', 'innings', 'batting_team', 'batsman', 'runs', 'balls', 'fours', 'sixes',
+                      'strikeRate', 'isOut', 'wicketType', 'fielders', 'bowler']
+        writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_match_data)
 
-                # Write data for each batsman who played
-                for batter_id, stats in player_stats.items():
-                    strike_rate = (stats["runs"] / stats["balls"]) * 100 if stats["balls"] > 0 else 0
-                    # Write the fielders as an empty string if there are no fielders
-                    fielders = ",".join(stats["fielders"]) if stats["fielders"] else ""
-                    writer.writerow([
-                        match_id, inning_index, team, batter_id, stats["runs"], stats["balls"],
-                        stats["fours"], stats["sixes"], round(strike_rate, 2), stats["isOut"],
-                        stats["wicketType"], fielders, stats["bowler"]
-                    ])
+    print(f"All match data has been successfully written to {output_path}")
 
-                # Mark players who did not bat as "DNB"
-                for player in players_by_team[team]:
-                    player_id = player_id_map.get(player, player)
-                    if player_id not in players_batted:
-                        writer.writerow(
-                            [match_id, inning_index, team, player_id, "", "", "", "", "", "False", "DNB", "", ""])
+def main():
+    import_folder_path = r'D:\ED\FIFS\data\final_data'  # Path to input files
+    export_folder_path = r'D:\ED\FIFS\data\output'  # Path to export folder (change as needed)
+    output_file = "all_matches.csv"  # Output CSV file name
+    process_files_in_folder(import_folder_path, export_folder_path, output_file)
 
-print(f"Data successfully saved to {output_csv}")
+if __name__ == '__main__':
+    main()

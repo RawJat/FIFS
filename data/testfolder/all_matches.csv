@@ -1,0 +1,18 @@
+match_id,innings,batting_team,batsman,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+1375847,2,Australia,A Athanaze,5,11,1,0,45.45,Yes,caught,,HR Walsh
+1375847,2,Australia,JP Greaves,1,5,0,0,20.00,Yes,bowled,,HR Walsh
+1375847,2,Australia,KU Carty,88,109,6,2,80.73,No,,,HR Walsh
+1375847,2,Australia,SD Hope,12,17,1,0,70.59,Yes,caught,,HR Walsh
+1375847,2,Australia,KAR Hodge,11,18,1,0,61.11,Yes,caught,,HR Walsh
+1375847,2,Australia,RL Chase,59,67,7,0,88.06,Yes,bowled,,HR Walsh
+1375847,2,Australia,HR Walsh,20,37,0,0,54.05,Yes,caught,,HR Walsh
+1375847,2,Australia,R Shepherd,0,1,0,0,0.00,Yes,lbw,,HR Walsh
+1375847,2,Australia,MW Forde,19,22,1,1,86.36,Yes,caught,,HR Walsh
+1375847,2,Australia,G Motie,3,6,0,0,50.00,Yes,caught,,HR Walsh
+1375847,2,Australia,O Thomas,2,5,0,0,40.00,No,,,HR Walsh
+1375847,2,Australia,TM Head,4,5,1,0,80.00,Yes,caught,,HR Walsh
+1375847,2,Australia,JP Inglis,65,44,10,1,147.73,Yes,caught,,HR Walsh
+1375847,2,Australia,C Green,77,105,4,2,73.33,No,,,HR Walsh
+1375847,2,Australia,SPD Smith,79,82,8,0,96.34,No,,,HR Walsh
+1375847,2,Australia,West Indies,0,0,0,0,0.00,DNB,,,
+1375847,2,Australia,Australia,0,0,0,0,0.00,DNB,,,

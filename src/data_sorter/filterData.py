@@ -18,6 +18,7 @@ for filename in os.listdir(source_folder):
         match_id = filename[:-4]  # Extract match_id from filename
         csv_path = os.path.join(source_folder, filename)
         info_path = os.path.join(source_folder, f"{match_id}.info")
+        info_csv_path = os.path.join(source_folder, f"{match_id}_info.csv")
 
         try:
             # Read the first 5 rows of the CSV file
@@ -27,8 +28,14 @@ for filename in os.listdir(source_folder):
             if (df["start_date"] >= cutoff_date).any():
                 # Copy both .csv and .info files to destination folder
                 shutil.copy(csv_path, os.path.join(destination_folder, filename))
-                if os.path.exists(info_path):  # Check if the .info file exists
+
+                # Copy the .info file if it exists
+                if os.path.exists(info_path):
                     shutil.copy(info_path, os.path.join(destination_folder, f"{match_id}.info"))
+
+                # Copy the _info.csv file if it exists
+                if os.path.exists(info_csv_path):
+                    shutil.copy(info_csv_path, os.path.join(destination_folder, f"{match_id}_info.csv"))
 
         except Exception as e:
             print(f"Error processing {filename}: {e}")
