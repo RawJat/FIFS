@@ -1,0 +1,2228 @@
+Match ID,innings,batting_team,striker,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+1375847,1,West Indies,A Athanaze,5.0,11.0,1.0,0.0,45.45,True,caught,,XC Bartlett
+1375847,1,West Indies,G Motie,3.0,6.0,0.0,0.0,50.0,True,caught,,XC Bartlett
+1375847,1,West Indies,HR Walsh,20.0,37.0,0.0,0.0,54.05,True,run out,,LR Morris
+1375847,1,West Indies,JP Greaves,1.0,5.0,0.0,0.0,20.0,True,bowled,,XC Bartlett
+1375847,1,West Indies,KAR Hodge,11.0,18.0,1.0,0.0,61.11,True,caught,,C Green
+1375847,1,West Indies,KU Carty,88.0,109.0,6.0,2.0,80.73,False,not out,['-'],
+1375847,1,West Indies,MW Forde,19.0,22.0,1.0,1.0,86.36,True,caught,,SA Abbott
+1375847,1,West Indies,O Thomas,2.0,5.0,0.0,0.0,40.0,False,not out,['-'],
+1375847,1,West Indies,R Shepherd,0.0,1.0,0.0,0.0,0.0,True,lbw,,C Green
+1375847,1,West Indies,RL Chase,59.0,67.0,7.0,0.0,88.06,True,bowled,,A Zampa
+1375847,1,West Indies,SD Hope,12.0,17.0,1.0,0.0,70.59,True,caught,,XC Bartlett
+1375847,2,Australia,C Green,77.0,105.0,4.0,2.0,73.33,False,not out,['-'],
+1375847,2,Australia,JP Inglis,65.0,44.0,10.0,1.0,147.73,True,caught,,G Motie
+1375847,2,Australia,SPD Smith,79.0,82.0,8.0,0.0,96.34,False,not out,['-'],
+1375847,2,Australia,TM Head,4.0,5.0,1.0,0.0,80.0,True,caught,,MW Forde
+1375847,2,Australia,M Labuschagne,,,,,,False,DNB,,
+1375847,2,Australia,MW Short,,,,,,False,DNB,,
+1375847,2,Australia,AM Hardie,,,,,,False,DNB,,
+1375847,2,Australia,SA Abbott,,,,,,False,DNB,,
+1375847,2,Australia,XC Bartlett,,,,,,False,DNB,,
+1375847,2,Australia,LR Morris,,,,,,False,DNB,,
+1375847,2,Australia,A Zampa,,,,,,False,DNB,,
+1375848,1,Australia,A Zampa,8.0,12.0,0.0,0.0,66.67,False,not out,['-'],
+1375848,1,Australia,AM Hardie,26.0,36.0,3.0,0.0,72.22,True,caught,,G Motie
+1375848,1,Australia,C Green,33.0,43.0,5.0,1.0,76.74,True,caught,,O Thomas
+1375848,1,Australia,J Fraser-McGurk,10.0,5.0,1.0,1.0,200.0,True,caught,,AS Joseph
+1375848,1,Australia,JP Inglis,9.0,13.0,1.0,0.0,69.23,True,caught,,AS Joseph
+1375848,1,Australia,JR Hazlewood,4.0,4.0,0.0,0.0,100.0,False,not out,['-'],
+1375848,1,Australia,M Labuschagne,26.0,33.0,3.0,1.0,78.79,True,caught,,G Motie
+1375848,1,Australia,MW Short,41.0,55.0,2.0,1.0,74.55,True,caught and bowled,,G Motie
+1375848,1,Australia,SA Abbott,69.0,63.0,1.0,4.0,109.52,True,bowled,,R Shepherd
+1375848,1,Australia,SPD Smith,5.0,11.0,1.0,0.0,45.45,True,bowled,,MW Forde
+1375848,1,Australia,W Sutherland,18.0,33.0,0.0,0.0,54.55,True,caught,,R Shepherd
+1375848,2,West Indies,A Athanaze,11.0,14.0,2.0,0.0,78.57,True,caught,,AM Hardie
+1375848,2,West Indies,AS Joseph,19.0,15.0,2.0,1.0,126.67,True,caught,,W Sutherland
+1375848,2,West Indies,G Motie,7.0,22.0,1.0,0.0,31.82,True,lbw,,A Zampa
+1375848,2,West Indies,JP Greaves,8.0,10.0,1.0,0.0,80.0,True,caught,,JR Hazlewood
+1375848,2,West Indies,KU Carty,40.0,52.0,2.0,1.0,76.92,True,caught,,SA Abbott
+1375848,2,West Indies,KY Ottley,8.0,14.0,1.0,0.0,57.14,True,caught,,SA Abbott
+1375848,2,West Indies,MW Forde,7.0,9.0,1.0,0.0,77.78,True,lbw,,JR Hazlewood
+1375848,2,West Indies,O Thomas,7.0,8.0,1.0,0.0,87.5,False,not out,['-'],
+1375848,2,West Indies,R Shepherd,6.0,13.0,0.0,0.0,46.15,True,caught,,W Sutherland
+1375848,2,West Indies,RL Chase,25.0,41.0,2.0,0.0,60.98,True,caught,,SA Abbott
+1375848,2,West Indies,SD Hope,29.0,65.0,0.0,1.0,44.62,True,bowled,,JR Hazlewood
+1375849,1,West Indies,A Athanaze,32.0,64.0,2.0,0.0,50.0,True,caught,,A Zampa
+1375849,1,West Indies,AS Joseph,6.0,9.0,0.0,0.0,66.67,True,caught,,XC Bartlett
+1375849,1,West Indies,G Motie,0.0,5.0,0.0,0.0,0.0,True,lbw,,A Zampa
+1375849,1,West Indies,KU Carty,10.0,22.0,0.0,0.0,45.45,True,caught,,LR Morris
+1375849,1,West Indies,KY Ottley,8.0,9.0,2.0,0.0,88.89,True,lbw,,XC Bartlett
+1375849,1,West Indies,MW Forde,0.0,2.0,0.0,0.0,0.0,True,run out,,XC Bartlett
+1375849,1,West Indies,O Thomas,0.0,2.0,0.0,0.0,0.0,False,not out,['-'],
+1375849,1,West Indies,R Shepherd,1.0,3.0,0.0,0.0,33.33,True,caught,,XC Bartlett
+1375849,1,West Indies,RL Chase,12.0,26.0,0.0,0.0,46.15,True,caught,,XC Bartlett
+1375849,1,West Indies,SD Hope,4.0,5.0,1.0,0.0,80.0,True,lbw,,SA Abbott
+1375849,1,West Indies,TJ Bishop,0.0,6.0,0.0,0.0,0.0,True,bowled,,LR Morris
+1375849,2,Australia,AM Hardie,2.0,6.0,0.0,0.0,33.33,True,caught,,O Thomas
+1375849,2,Australia,J Fraser-McGurk,41.0,18.0,5.0,3.0,227.78,True,caught,,AS Joseph
+1375849,2,Australia,JP Inglis,35.0,16.0,4.0,1.0,218.75,False,not out,['-'],
+1375849,2,Australia,SPD Smith,6.0,4.0,1.0,0.0,150.0,False,not out,['-'],
+1375849,2,Australia,M Labuschagne,,,,,,False,DNB,,
+1375849,2,Australia,C Green,,,,,,False,DNB,,
+1375849,2,Australia,SA Abbott,,,,,,False,DNB,,
+1375849,2,Australia,W Sutherland,,,,,,False,DNB,,
+1375849,2,Australia,XC Bartlett,,,,,,False,DNB,,
+1375849,2,Australia,A Zampa,,,,,,False,DNB,,
+1375849,2,Australia,LR Morris,,,,,,False,DNB,,
+1385700,1,England,AU Rashid,0.0,1.0,0.0,0.0,0.0,True,caught,,TM Head
+1385700,1,England,BA Carse,2.0,9.0,0.0,0.0,22.22,True,caught,,A Zampa
+1385700,1,England,BM Duckett,95.0,92.0,11.0,0.0,103.26,True,caught and bowled,,M Labuschagne
+1385700,1,England,HC Brook,39.0,31.0,2.0,3.0,125.81,True,caught and bowled,,M Labuschagne
+1385700,1,England,JC Archer,4.0,8.0,1.0,0.0,50.0,True,caught,,M Labuschagne
+1385700,1,England,JG Bethell,35.0,35.0,3.0,1.0,100.0,True,caught,,TM Head
+1385700,1,England,JL Smith,23.0,20.0,2.0,1.0,115.0,True,caught,,MW Short
+1385700,1,England,LS Livingstone,13.0,17.0,1.0,0.0,76.47,True,caught,,A Zampa
+1385700,1,England,MJ Potts,11.0,10.0,0.0,1.0,110.0,False,not out,['-'],
+1385700,1,England,PD Salt,17.0,24.0,2.0,0.0,70.83,True,bowled,,BJ Dwarshuis
+1385700,1,England,WG Jacks,62.0,60.0,5.0,2.0,103.33,True,caught,,A Zampa
+1385700,2,Australia,C Green,32.0,33.0,5.0,0.0,96.97,True,bowled,,JG Bethell
+1385700,2,Australia,M Labuschagne,77.0,62.0,7.0,2.0,124.19,False,not out,['-'],
+1385700,2,Australia,MR Marsh,10.0,16.0,2.0,0.0,62.5,True,caught,,MJ Potts
+1385700,2,Australia,SPD Smith,32.0,28.0,0.0,3.0,114.29,True,caught and bowled,,LS Livingstone
+1385700,2,Australia,TM Head,154.0,131.0,20.0,5.0,117.56,False,not out,['-'],
+1385700,2,Australia,AT Carey,,,,,,False,DNB,,
+1385700,2,Australia,MW Short,,,,,,False,DNB,,
+1385700,2,Australia,AM Hardie,,,,,,False,DNB,,
+1385700,2,Australia,SA Abbott,,,,,,False,DNB,,
+1385700,2,Australia,BJ Dwarshuis,,,,,,False,DNB,,
+1385700,2,Australia,A Zampa,,,,,,False,DNB,,
+1385701,1,Australia,A Zampa,3.0,5.0,0.0,0.0,60.0,True,caught,,AU Rashid
+1385701,1,Australia,AM Hardie,23.0,25.0,3.0,0.0,92.0,True,caught,,BA Carse
+1385701,1,Australia,AT Carey,74.0,72.0,8.0,3.0,102.78,True,caught,,OP Stone
+1385701,1,Australia,GJ Maxwell,7.0,5.0,0.0,1.0,140.0,True,caught,,AU Rashid
+1385701,1,Australia,JR Hazlewood,4.0,12.0,1.0,0.0,33.33,False,not out,['-'],
+1385701,1,Australia,M Labuschagne,19.0,28.0,1.0,0.0,67.86,True,caught,,JG Bethell
+1385701,1,Australia,MA Starc,0.0,1.0,0.0,0.0,0.0,True,caught,,BA Carse
+1385701,1,Australia,MR Marsh,60.0,60.0,6.0,3.0,100.0,True,lbw,,JG Bethell
+1385701,1,Australia,MW Short,29.0,36.0,4.0,1.0,80.56,True,caught,,MJ Potts
+1385701,1,Australia,SPD Smith,4.0,6.0,1.0,0.0,66.67,True,bowled,,MJ Potts
+1385701,1,Australia,TM Head,29.0,28.0,4.0,2.0,103.57,True,caught,,BA Carse
+1385701,2,England,AU Rashid,27.0,34.0,2.0,1.0,79.41,True,lbw,,GJ Maxwell
+1385701,2,England,BA Carse,26.0,47.0,2.0,1.0,55.32,True,caught,,A Zampa
+1385701,2,England,BM Duckett,32.0,28.0,4.0,1.0,114.29,True,caught and bowled,,AM Hardie
+1385701,2,England,HC Brook,4.0,9.0,1.0,0.0,44.44,True,lbw,,MA Starc
+1385701,2,England,JG Bethell,25.0,38.0,4.0,0.0,65.79,True,caught,,GJ Maxwell
+1385701,2,England,JL Smith,49.0,62.0,6.0,2.0,79.03,True,caught,,JR Hazlewood
+1385701,2,England,LS Livingstone,0.0,1.0,0.0,0.0,0.0,True,caught,,AM Hardie
+1385701,2,England,MJ Potts,7.0,17.0,0.0,0.0,41.18,False,not out,['-'],
+1385701,2,England,OP Stone,1.0,3.0,0.0,0.0,33.33,True,caught,,MA Starc
+1385701,2,England,PD Salt,12.0,14.0,3.0,0.0,85.71,True,caught,,JR Hazlewood
+1385701,2,England,WG Jacks,0.0,1.0,0.0,0.0,0.0,True,caught,,MA Starc
+1385702,1,Australia,AM Hardie,44.0,26.0,3.0,2.0,169.23,False,not out,['-'],
+1385702,1,Australia,AT Carey,77.0,68.0,8.0,1.0,113.24,True,run out,,MJ Potts
+1385702,1,Australia,C Green,42.0,51.0,4.0,0.0,82.35,True,caught,,JG Bethell
+1385702,1,Australia,GJ Maxwell,30.0,25.0,5.0,0.0,120.0,True,caught,,LS Livingstone
+1385702,1,Australia,M Labuschagne,0.0,3.0,0.0,0.0,0.0,True,caught,,WG Jacks
+1385702,1,Australia,MR Marsh,24.0,40.0,2.0,1.0,60.0,True,caught,,BA Carse
+1385702,1,Australia,MW Short,14.0,12.0,1.0,1.0,116.67,True,caught,,JC Archer
+1385702,1,Australia,SA Abbott,2.0,1.0,0.0,0.0,200.0,False,not out,['-'],
+1385702,1,Australia,SPD Smith,60.0,83.0,5.0,0.0,72.29,True,caught,,JC Archer
+1385702,2,England,BM Duckett,8.0,9.0,1.0,0.0,88.89,True,caught,,MA Starc
+1385702,2,England,HC Brook,110.0,97.0,13.0,2.0,113.4,False,not out,['-'],
+1385702,2,England,JL Smith,7.0,17.0,0.0,0.0,41.18,True,caught,,C Green
+1385702,2,England,LS Livingstone,33.0,22.0,2.0,3.0,150.0,False,not out,['-'],
+1385702,2,England,PD Salt,0.0,8.0,0.0,0.0,0.0,True,caught,,MA Starc
+1385702,2,England,WG Jacks,84.0,84.0,9.0,1.0,100.0,True,caught,,C Green
+1385702,1,Australia,MA Starc,,,,,,False,DNB,,
+1385702,1,Australia,JR Hazlewood,,,,,,False,DNB,,
+1385702,2,England,JG Bethell,,,,,,False,DNB,,
+1385702,2,England,BA Carse,,,,,,False,DNB,,
+1385702,2,England,AU Rashid,,,,,,False,DNB,,
+1385702,2,England,MJ Potts,,,,,,False,DNB,,
+1385702,2,England,JC Archer,,,,,,False,DNB,,
+1385703,1,England,BM Duckett,63.0,64.0,6.0,1.0,98.44,True,caught,,A Zampa
+1385703,1,England,HC Brook,87.0,61.0,11.0,2.0,142.62,True,caught,,A Zampa
+1385703,1,England,JG Bethell,12.0,19.0,0.0,1.0,63.16,False,not out,['-'],
+1385703,1,England,JL Smith,39.0,29.0,1.0,2.0,134.48,True,caught,,GJ Maxwell
+1385703,1,England,LS Livingstone,62.0,28.0,3.0,7.0,221.43,False,not out,['-'],
+1385703,1,England,PD Salt,22.0,27.0,3.0,0.0,81.48,True,caught,,JR Hazlewood
+1385703,1,England,WG Jacks,10.0,14.0,1.0,0.0,71.43,True,caught,,MR Marsh
+1385703,2,Australia,A Zampa,0.0,2.0,0.0,0.0,0.0,True,caught,,MJ Potts
+1385703,2,Australia,AT Carey,13.0,22.0,0.0,0.0,59.09,True,lbw,,MJ Potts
+1385703,2,Australia,GJ Maxwell,2.0,3.0,0.0,0.0,66.67,True,caught,,JC Archer
+1385703,2,Australia,JP Inglis,8.0,17.0,0.0,0.0,47.06,True,caught,,BA Carse
+1385703,2,Australia,JR Hazlewood,0.0,4.0,0.0,0.0,0.0,True,bowled,,AU Rashid
+1385703,2,Australia,M Labuschagne,4.0,11.0,0.0,0.0,36.36,True,bowled,,BA Carse
+1385703,2,Australia,MA Starc,3.0,9.0,0.0,0.0,33.33,False,not out,['-'],
+1385703,2,Australia,MR Marsh,28.0,38.0,2.0,1.0,73.68,True,bowled,,JC Archer
+1385703,2,Australia,SA Abbott,10.0,22.0,0.0,1.0,45.45,True,caught,,MJ Potts
+1385703,2,Australia,SPD Smith,5.0,6.0,1.0,0.0,83.33,True,caught,,MJ Potts
+1385703,2,Australia,TM Head,34.0,23.0,4.0,2.0,147.83,True,bowled,,BA Carse
+1385703,1,England,BA Carse,,,,,,False,DNB,,
+1385703,1,England,AU Rashid,,,,,,False,DNB,,
+1385703,1,England,MJ Potts,,,,,,False,DNB,,
+1385703,1,England,JC Archer,,,,,,False,DNB,,
+1385704,1,England,AU Rashid,36.0,35.0,4.0,0.0,102.86,True,caught,,TM Head
+1385704,1,England,BA Carse,9.0,20.0,0.0,0.0,45.0,True,lbw,,TM Head
+1385704,1,England,BM Duckett,107.0,91.0,13.0,2.0,117.58,True,caught,,TM Head
+1385704,1,England,HC Brook,72.0,52.0,3.0,7.0,138.46,True,caught,,A Zampa
+1385704,1,England,JG Bethell,13.0,27.0,0.0,0.0,48.15,True,stumped,,TM Head
+1385704,1,England,JL Smith,6.0,9.0,0.0,0.0,66.67,True,bowled,,GJ Maxwell
+1385704,1,England,LS Livingstone,0.0,3.0,0.0,0.0,0.0,True,caught,,A Zampa
+1385704,1,England,MJ Potts,6.0,15.0,0.0,0.0,40.0,True,caught,,GJ Maxwell
+1385704,1,England,OP Stone,9.0,15.0,0.0,0.0,60.0,False,not out,['-'],
+1385704,1,England,PD Salt,45.0,27.0,5.0,3.0,166.67,True,caught,,AM Hardie
+1385704,1,England,WG Jacks,0.0,4.0,0.0,0.0,0.0,True,bowled,,AM Hardie
+1385704,2,Australia,JP Inglis,28.0,20.0,2.0,2.0,140.0,False,not out,['-'],
+1385704,2,Australia,MW Short,58.0,31.0,7.0,4.0,187.1,True,caught,,MJ Potts
+1385704,2,Australia,SPD Smith,36.0,50.0,4.0,1.0,72.0,False,not out,['-'],
+1385704,2,Australia,TM Head,31.0,26.0,4.0,2.0,119.23,True,caught,,BA Carse
+1385704,2,Australia,M Labuschagne,,,,,,False,DNB,,
+1385704,2,Australia,GJ Maxwell,,,,,,False,DNB,,
+1385704,2,Australia,AM Hardie,,,,,,False,DNB,,
+1385704,2,Australia,C Connolly,,,,,,False,DNB,,
+1385704,2,Australia,MA Starc,,,,,,False,DNB,,
+1385704,2,Australia,A Zampa,,,,,,False,DNB,,
+1385704,2,Australia,JR Hazlewood,,,,,,False,DNB,,
+1412539,1,Sri Lanka,BKG Mendis,46.0,49.0,6.0,0.0,93.88,True,run out,,T Mufudza
+1412539,1,Sri Lanka,D Madushanka,3.0,2.0,0.0,0.0,150.0,False,not out,['-'],
+1412539,1,Sri Lanka,J Liyanage,24.0,34.0,1.0,0.0,70.59,True,caught,,M Faraz Akram
+1412539,1,Sri Lanka,JDF Vandersay,3.0,3.0,0.0,0.0,100.0,False,not out,['-'],
+1412539,1,Sri Lanka,KIC Asalanka,101.0,98.0,5.0,4.0,103.06,True,run out,,M Faraz Akram
+1412539,1,Sri Lanka,M Theekshana,10.0,16.0,0.0,0.0,62.5,True,bowled,,Sikandar Raza
+1412539,1,Sri Lanka,MD Shanaka,8.0,19.0,0.0,0.0,42.11,True,caught,,B Muzarabani
+1412539,1,Sri Lanka,PVD Chameera,18.0,23.0,1.0,0.0,78.26,True,caught,,B Muzarabani
+1412539,1,Sri Lanka,S Samarawickrama,41.0,31.0,8.0,0.0,132.26,True,caught,,R Ngarava
+1412539,1,Sri Lanka,SSD Arachchige,11.0,24.0,0.0,0.0,45.83,True,caught and bowled,,M Faraz Akram
+1412539,1,Sri Lanka,WIA Fernando,0.0,5.0,0.0,0.0,0.0,True,caught,,R Ngarava
+1412539,2,Zimbabwe,CR Ervine,0.0,4.0,0.0,0.0,0.0,True,caught,,D Madushanka
+1412539,2,Zimbabwe,M Shumba,2.0,3.0,0.0,0.0,66.67,False,not out,['-'],
+1412539,2,Zimbabwe,T Kaitano,1.0,16.0,0.0,0.0,6.25,False,not out,['-'],
+1412539,2,Zimbabwe,TS Kamunhukamwe,0.0,1.0,0.0,0.0,0.0,True,bowled,,D Madushanka
+1412539,2,Zimbabwe,Sikandar Raza,,,,,,False,DNB,,
+1412539,2,Zimbabwe,RP Burl,,,,,,False,DNB,,
+1412539,2,Zimbabwe,C Madande,,,,,,False,DNB,,
+1412539,2,Zimbabwe,M Faraz Akram,,,,,,False,DNB,,
+1412539,2,Zimbabwe,R Ngarava,,,,,,False,DNB,,
+1412539,2,Zimbabwe,B Muzarabani,,,,,,False,DNB,,
+1412539,2,Zimbabwe,T Mufudza,,,,,,False,DNB,,
+1412540,1,Zimbabwe,B Muzarabani,0.0,2.0,0.0,0.0,0.0,True,run out,,M Theekshana
+1412540,1,Zimbabwe,C Madande,14.0,22.0,2.0,0.0,63.64,True,lbw,,JDF Vandersay
+1412540,1,Zimbabwe,CR Ervine,82.0,103.0,9.0,1.0,79.61,True,caught,,PVD Chameera
+1412540,1,Zimbabwe,J Gumbie,30.0,37.0,4.0,0.0,81.08,True,bowled,,M Theekshana
+1412540,1,Zimbabwe,M Faraz Akram,1.0,6.0,0.0,0.0,16.67,True,lbw,,M Theekshana
+1412540,1,Zimbabwe,M Shumba,26.0,45.0,2.0,0.0,57.78,True,caught,,M Theekshana
+1412540,1,Zimbabwe,R Ngarava,5.0,4.0,1.0,0.0,125.0,False,not out,['-'],
+1412540,1,Zimbabwe,RP Burl,31.0,38.0,1.0,1.0,81.58,True,bowled,,PVD Chameera
+1412540,1,Zimbabwe,Sikandar Raza,1.0,5.0,0.0,0.0,20.0,True,caught,,JDF Vandersay
+1412540,1,Zimbabwe,T Mufudza,1.0,9.0,0.0,0.0,11.11,True,bowled,,M Theekshana
+1412540,1,Zimbabwe,TS Kamunhukamwe,0.0,1.0,0.0,0.0,0.0,True,caught,,D Madushanka
+1412540,2,Sri Lanka,BKG Mendis,17.0,29.0,2.0,0.0,58.62,True,caught,,R Ngarava
+1412540,2,Sri Lanka,J Liyanage,95.0,129.0,6.0,2.0,73.64,True,caught,,B Muzarabani
+1412540,2,Sri Lanka,JDF Vandersay,19.0,19.0,2.0,0.0,100.0,False,not out,['-'],
+1412540,2,Sri Lanka,KIC Asalanka,0.0,7.0,0.0,0.0,0.0,True,caught,,R Ngarava
+1412540,2,Sri Lanka,M Theekshana,18.0,31.0,1.0,0.0,58.06,True,caught,,R Ngarava
+1412540,2,Sri Lanka,MD Shanaka,7.0,13.0,0.0,0.0,53.85,True,caught,,Sikandar Raza
+1412540,2,Sri Lanka,PVD Chameera,18.0,25.0,2.0,0.0,72.0,False,not out,['-'],
+1412540,2,Sri Lanka,S Samarawickrama,4.0,3.0,1.0,0.0,133.33,True,caught,,R Ngarava
+1412540,2,Sri Lanka,SSD Arachchige,21.0,39.0,2.0,0.0,53.85,True,lbw,,Sikandar Raza
+1412540,2,Sri Lanka,WIA Fernando,4.0,5.0,1.0,0.0,80.0,True,caught,,R Ngarava
+1412540,2,Sri Lanka,D Madushanka,,,,,,False,DNB,,
+1412541,1,Zimbabwe,B Muzarabani,0.0,1.0,0.0,0.0,0.0,True,lbw,,PWH de Silva
+1412541,1,Zimbabwe,C Madande,0.0,1.0,0.0,0.0,0.0,True,bowled,,PWH de Silva
+1412541,1,Zimbabwe,CR Ervine,0.0,6.0,0.0,0.0,0.0,True,lbw,,PWH de Silva
+1412541,1,Zimbabwe,J Gumbie,29.0,34.0,4.0,0.0,85.29,True,lbw,,PWH de Silva
+1412541,1,Zimbabwe,LM Jongwe,14.0,17.0,1.0,1.0,82.35,True,caught,,D Madushanka
+1412541,1,Zimbabwe,M Shumba,2.0,9.0,0.0,0.0,22.22,True,lbw,,PWH de Silva
+1412541,1,Zimbabwe,R Ngarava,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1412541,1,Zimbabwe,RP Burl,9.0,13.0,1.0,0.0,69.23,True,bowled,,J Liyanage
+1412541,1,Zimbabwe,Sikandar Raza,10.0,11.0,1.0,0.0,90.91,True,stumped,,M Theekshana
+1412541,1,Zimbabwe,T Kaitano,17.0,24.0,1.0,0.0,70.83,True,caught,,PWH de Silva
+1412541,1,Zimbabwe,WP Masakadza,11.0,21.0,0.0,0.0,52.38,True,caught,,PWH de Silva
+1412541,2,Sri Lanka,BKG Mendis,66.0,52.0,9.0,1.0,126.92,False,not out,['-'],
+1412541,2,Sri Lanka,S Daniel,12.0,29.0,1.0,0.0,41.38,True,caught,,WP Masakadza
+1412541,2,Sri Lanka,S Samarawickrama,14.0,18.0,1.0,0.0,77.78,False,not out,['-'],
+1412541,2,Sri Lanka,WIA Fernando,0.0,4.0,0.0,0.0,0.0,True,caught,,R Ngarava
+1412541,2,Sri Lanka,J Liyanage,,,,,,False,DNB,,
+1412541,2,Sri Lanka,KIC Asalanka,,,,,,False,DNB,,
+1412541,2,Sri Lanka,SSD Arachchige,,,,,,False,DNB,,
+1412541,2,Sri Lanka,PWH de Silva,,,,,,False,DNB,,
+1412541,2,Sri Lanka,M Theekshana,,,,,,False,DNB,,
+1412541,2,Sri Lanka,PVD Chameera,,,,,,False,DNB,,
+1412541,2,Sri Lanka,D Madushanka,,,,,,False,DNB,,
+1419827,1,Sri Lanka,BKG Mendis,59.0,77.0,5.0,1.0,76.62,True,caught,,Taskin Ahmed
+1419827,1,Sri Lanka,CBRLS Kumara,5.0,8.0,1.0,0.0,62.5,False,not out,['-'],
+1419827,1,Sri Lanka,D Madushanka,0.0,3.0,0.0,0.0,0.0,True,caught,,Shoriful Islam
+1419827,1,Sri Lanka,J Liyanage,67.0,71.0,3.0,2.0,94.37,True,caught,,Shoriful Islam
+1419827,1,Sri Lanka,KIC Asalanka,18.0,38.0,2.0,0.0,47.37,True,bowled,,Mehedi Hasan Miraz
+1419827,1,Sri Lanka,M Theekshana,1.0,7.0,0.0,0.0,14.29,True,caught,,Taskin Ahmed
+1419827,1,Sri Lanka,P Nissanka,36.0,29.0,5.0,1.0,124.14,True,caught,,Tanzim Hasan Sakib
+1419827,1,Sri Lanka,PM Liyanagamage,8.0,16.0,1.0,0.0,50.0,True,caught,,Shoriful Islam
+1419827,1,Sri Lanka,PWH de Silva,13.0,14.0,1.0,1.0,92.86,True,caught,,Taskin Ahmed
+1419827,1,Sri Lanka,S Samarawickrama,3.0,5.0,0.0,0.0,60.0,True,caught,,Tanzim Hasan Sakib
+1419827,1,Sri Lanka,WIA Fernando,33.0,35.0,5.0,1.0,94.29,True,caught,,Tanzim Hasan Sakib
+1419827,2,Bangladesh,Liton Das,0.0,1.0,0.0,0.0,0.0,True,bowled,,D Madushanka
+1419827,2,Bangladesh,Mahmudullah,37.0,38.0,4.0,1.0,97.37,True,caught,,CBRLS Kumara
+1419827,2,Bangladesh,Mushfiqur Rahim,73.0,87.0,8.0,0.0,83.91,False,not out,['-'],
+1419827,2,Bangladesh,Nazmul Hossain Shanto,122.0,131.0,13.0,2.0,93.13,False,not out,['-'],
+1419827,2,Bangladesh,Soumya Sarkar,3.0,12.0,0.0,0.0,25.0,True,caught,,D Madushanka
+1419827,2,Bangladesh,Towhid Hridoy,3.0,8.0,0.0,0.0,37.5,True,bowled,,PM Liyanagamage
+1419827,2,Bangladesh,Mehedi Hasan Miraz,,,,,,False,DNB,,
+1419827,2,Bangladesh,Taijul Islam,,,,,,False,DNB,,
+1419827,2,Bangladesh,Tanzim Hasan Sakib,,,,,,False,DNB,,
+1419827,2,Bangladesh,Shoriful Islam,,,,,,False,DNB,,
+1419827,2,Bangladesh,Taskin Ahmed,,,,,,False,DNB,,
+1419828,1,Bangladesh,Liton Das,0.0,3.0,0.0,0.0,0.0,True,caught,,D Madushanka
+1419828,1,Bangladesh,Mahmudullah,0.0,2.0,0.0,0.0,0.0,True,stumped,,PWH de Silva
+1419828,1,Bangladesh,Mehedi Hasan Miraz,12.0,18.0,1.0,0.0,66.67,True,bowled,,PWH de Silva
+1419828,1,Bangladesh,Mushfiqur Rahim,25.0,29.0,3.0,0.0,86.21,True,lbw,,PWH de Silva
+1419828,1,Bangladesh,Nazmul Hossain Shanto,40.0,40.0,6.0,0.0,100.0,True,caught,,D Madushanka
+1419828,1,Bangladesh,Soumya Sarkar,68.0,68.0,11.0,1.0,100.0,True,caught,,PWH de Silva
+1419828,1,Bangladesh,Tanzim Hasan Sakib,18.0,34.0,1.0,0.0,52.94,True,caught,,PM Liyanagamage
+1419828,1,Bangladesh,Taskin Ahmed,18.0,10.0,2.0,1.0,180.0,False,not out,['-'],
+1419828,1,Bangladesh,Towhid Hridoy,96.0,103.0,3.0,5.0,93.2,False,not out,['-'],
+1419828,2,Sri Lanka,BKG Mendis,16.0,14.0,3.0,0.0,114.29,True,caught,,Taskin Ahmed
+1419828,2,Sri Lanka,DN Wellalage,15.0,26.0,0.0,0.0,57.69,False,not out,['-'],
+1419828,2,Sri Lanka,J Liyanage,9.0,17.0,0.0,0.0,52.94,True,lbw,,Tanzim Hasan Sakib
+1419828,2,Sri Lanka,KIC Asalanka,91.0,98.0,6.0,4.0,92.86,True,caught,,Taskin Ahmed
+1419828,2,Sri Lanka,P Nissanka,114.0,116.0,13.0,3.0,98.28,True,caught,,Mehedi Hasan Miraz
+1419828,2,Sri Lanka,PM Liyanagamage,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1419828,2,Sri Lanka,PWH de Silva,25.0,17.0,1.0,2.0,147.06,True,caught,,Taijul Islam
+1419828,2,Sri Lanka,S Samarawickrama,1.0,4.0,0.0,0.0,25.0,True,caught,,Shoriful Islam
+1419828,2,Sri Lanka,WIA Fernando,0.0,1.0,0.0,0.0,0.0,True,caught,,Shoriful Islam
+1419828,1,Bangladesh,Shoriful Islam,,,,,,False,DNB,,
+1419828,1,Bangladesh,Taijul Islam,,,,,,False,DNB,,
+1419828,2,Sri Lanka,D Madushanka,,,,,,False,DNB,,
+1419828,2,Sri Lanka,CBRLS Kumara,,,,,,False,DNB,,
+1419829,1,Sri Lanka,BKG Mendis,29.0,53.0,3.0,0.0,54.72,True,caught,,Rishad Hossain
+1419829,1,Sri Lanka,CBRLS Kumara,1.0,1.0,0.0,0.0,100.0,True,run out,,Taskin Ahmed
+1419829,1,Sri Lanka,DN Wellalage,1.0,18.0,0.0,0.0,5.56,True,caught,,Mehedi Hasan Miraz
+1419829,1,Sri Lanka,J Liyanage,101.0,104.0,11.0,2.0,97.12,False,not out,['-'],
+1419829,1,Sri Lanka,KIC Asalanka,37.0,50.0,5.0,0.0,74.0,True,caught,,Mustafizur Rahman
+1419829,1,Sri Lanka,M Theekshana,15.0,42.0,0.0,0.0,35.71,True,caught,,Soumya Sarkar
+1419829,1,Sri Lanka,P Nissanka,1.0,8.0,0.0,0.0,12.5,True,lbw,,Taskin Ahmed
+1419829,1,Sri Lanka,PM Liyanagamage,3.0,6.0,0.0,0.0,50.0,True,caught,,Taskin Ahmed
+1419829,1,Sri Lanka,PWH de Silva,11.0,8.0,0.0,1.0,137.5,True,bowled,,Mehedi Hasan Miraz
+1419829,1,Sri Lanka,S Samarawickrama,14.0,16.0,2.0,0.0,87.5,True,caught,,Mustafizur Rahman
+1419829,1,Sri Lanka,WIA Fernando,4.0,6.0,1.0,0.0,66.67,True,caught,,Taskin Ahmed
+1419829,2,Bangladesh,Anamul Haque,12.0,22.0,1.0,0.0,54.55,True,caught,,CBRLS Kumara
+1419829,2,Bangladesh,Mahmudullah,1.0,4.0,0.0,0.0,25.0,True,caught,,CBRLS Kumara
+1419829,2,Bangladesh,Mehedi Hasan Miraz,25.0,43.0,3.0,0.0,58.14,True,caught,,PWH de Silva
+1419829,2,Bangladesh,Mushfiqur Rahim,37.0,38.0,3.0,1.0,97.37,False,not out,['-'],
+1419829,2,Bangladesh,Nazmul Hossain Shanto,1.0,5.0,0.0,0.0,20.0,True,caught,,CBRLS Kumara
+1419829,2,Bangladesh,Rishad Hossain,48.0,18.0,5.0,4.0,266.67,False,not out,['-'],
+1419829,2,Bangladesh,Tanzid Hasan,84.0,81.0,9.0,4.0,103.7,True,caught,,PWH de Silva
+1419829,2,Bangladesh,Towhid Hridoy,22.0,38.0,0.0,0.0,57.89,True,caught,,CBRLS Kumara
+1419829,2,Bangladesh,Soumya Sarkar,,,,,,False,DNB,,
+1419829,2,Bangladesh,Taskin Ahmed,,,,,,False,DNB,,
+1419829,2,Bangladesh,Shoriful Islam,,,,,,False,DNB,,
+1419829,2,Bangladesh,Mustafizur Rahman,,,,,,False,DNB,,
+1420220,1,Nepal,Aarif Sheikh,38.0,51.0,4.0,0.0,74.51,True,bowled,,U Bhagwan
+1420220,1,Nepal,Aasif Sheikh,8.0,25.0,0.0,0.0,32.0,True,caught,,U Bhagwan
+1420220,1,Nepal,B Sharki,17.0,27.0,2.0,0.0,62.96,True,lbw,,Saad Bin Zafar
+1420220,1,Nepal,K Bhurtel,62.0,61.0,9.0,1.0,101.64,True,stumped,,Saad Bin Zafar
+1420220,1,Nepal,Kushal Malla,20.0,35.0,1.0,1.0,57.14,True,caught,,H Thaker
+1420220,1,Nepal,LN Rajbanshi,1.0,1.0,0.0,0.0,100.0,True,run out,,IS Sohi
+1420220,1,Nepal,P Sarraf,15.0,34.0,1.0,0.0,44.12,True,lbw,,Shahid Ahmadzai
+1420220,1,Nepal,R Dhakal,4.0,4.0,0.0,0.0,100.0,True,caught,,IS Sohi
+1420220,1,Nepal,RK Paudel,8.0,17.0,1.0,0.0,47.06,True,caught,,IS Sohi
+1420220,1,Nepal,Sompal Kami,27.0,23.0,1.0,2.0,117.39,True,caught,,U Bhagwan
+1420220,1,Nepal,Surya Tamang,10.0,33.0,0.0,0.0,30.3,False,not out,['-'],
+1420220,2,Canada,A Johnson,20.0,15.0,3.0,1.0,133.33,True,lbw,,Sompal Kami
+1420220,2,Canada,D Heyliger,2.0,3.0,0.0,0.0,66.67,True,lbw,,LN Rajbanshi
+1420220,2,Canada,H Thaker,32.0,43.0,3.0,0.0,74.42,True,bowled,,Kushal Malla
+1420220,2,Canada,IS Sohi,0.0,2.0,0.0,0.0,0.0,True,bowled,,RK Paudel
+1420220,2,Canada,NR Kirton,68.0,103.0,7.0,0.0,66.02,True,bowled,,P Sarraf
+1420220,2,Canada,NS Dhaliwal,6.0,10.0,1.0,0.0,60.0,True,caught,,R Dhakal
+1420220,2,Canada,Pargat Singh,50.0,61.0,9.0,0.0,81.97,True,caught,,RK Paudel
+1420220,2,Canada,S Movva,1.0,13.0,0.0,0.0,7.69,True,caught,,RK Paudel
+1420220,2,Canada,Saad Bin Zafar,7.0,18.0,0.0,0.0,38.89,True,lbw,,LN Rajbanshi
+1420220,2,Canada,Shahid Ahmadzai,8.0,16.0,1.0,0.0,50.0,False,not out,['-'],
+1420220,2,Canada,U Bhagwan,6.0,13.0,1.0,0.0,46.15,True,bowled,,RK Paudel
+1420221,1,Canada,A Johnson,65.0,63.0,10.0,2.0,103.17,True,run out,,Kushal Malla
+1420221,1,Canada,DS Bajwa,19.0,21.0,2.0,1.0,90.48,True,bowled,,Kushal Malla
+1420221,1,Canada,H Thaker,3.0,11.0,0.0,0.0,27.27,True,caught,,Surya Tamang
+1420221,1,Canada,NR Kirton,20.0,30.0,2.0,0.0,66.67,True,stumped,,RK Paudel
+1420221,1,Canada,NS Dhaliwal,46.0,61.0,8.0,0.0,75.41,True,caught,,Aakash Chand
+1420221,1,Canada,Pargat Singh,38.0,38.0,6.0,0.0,100.0,True,caught,,RK Paudel
+1420221,1,Canada,S Movva,40.0,43.0,4.0,0.0,93.02,True,caught,,Sompal Kami
+1420221,1,Canada,Saad Bin Zafar,1.0,6.0,0.0,0.0,16.67,True,caught,,Kushal Malla
+1420221,1,Canada,Shahid Ahmadzai,13.0,19.0,1.0,0.0,68.42,True,bowled,,P Sarraf
+1420221,1,Canada,U Bhagwan,20.0,15.0,1.0,1.0,133.33,False,not out,['-'],
+1420221,2,Nepal,AK Sah,50.0,22.0,7.0,3.0,227.27,True,lbw,,IS Sohi
+1420221,2,Nepal,Aasif Sheikh,10.0,16.0,1.0,0.0,62.5,True,caught,,IS Sohi
+1420221,2,Nepal,B Sharki,23.0,22.0,4.0,0.0,104.55,True,caught,,DS Bajwa
+1420221,2,Nepal,D Khanal,76.0,82.0,7.0,2.0,92.68,True,caught and bowled,,H Thaker
+1420221,2,Nepal,Kushal Malla,9.0,15.0,0.0,1.0,60.0,False,not out,['-'],
+1420221,2,Nepal,P Sarraf,14.0,8.0,2.0,1.0,175.0,True,caught,,H Thaker
+1420221,2,Nepal,RK Paudel,87.0,103.0,8.0,4.0,84.47,True,caught,,Saad Bin Zafar
+1420221,2,Nepal,Sompal Kami,9.0,10.0,1.0,0.0,90.0,False,not out,['-'],
+1420221,1,Canada,IS Sohi,,,,,,False,DNB,,
+1420221,2,Nepal,Aakash Chand,,,,,,False,DNB,,
+1420221,2,Nepal,Surya Tamang,,,,,,False,DNB,,
+1420221,2,Nepal,R Dhakal,,,,,,False,DNB,,
+1420222,1,Canada,A Johnson,4.0,11.0,1.0,0.0,36.36,True,caught,,H Dhami
+1420222,1,Canada,D Heyliger,4.0,3.0,1.0,0.0,133.33,True,caught,,H Dhami
+1420222,1,Canada,H Thaker,29.0,58.0,2.0,0.0,50.0,True,lbw,,Kushal Malla
+1420222,1,Canada,N Dutta,45.0,62.0,2.0,1.0,72.58,False,not out,['-'],
+1420222,1,Canada,NR Kirton,3.0,12.0,0.0,0.0,25.0,True,caught,,Kushal Malla
+1420222,1,Canada,NS Dhaliwal,50.0,83.0,5.0,0.0,60.24,True,caught,,LN Rajbanshi
+1420222,1,Canada,S Movva,25.0,30.0,1.0,0.0,83.33,True,caught,,H Dhami
+1420222,1,Canada,SA Wijeratne,22.0,28.0,2.0,0.0,78.57,True,caught,,Aakash Chand
+1420222,1,Canada,Saad Bin Zafar,31.0,16.0,3.0,2.0,193.75,True,run out,,P Sarraf
+1420222,1,Canada,Shahid Ahmadzai,5.0,4.0,0.0,0.0,125.0,False,not out,['-'],
+1420222,2,Nepal,AK Sah,112.0,125.0,12.0,2.0,89.6,False,not out,['-'],
+1420222,2,Nepal,B Sharki,101.0,129.0,11.0,1.0,78.29,False,not out,['-'],
+1420222,2,Nepal,K Bhurtel,13.0,15.0,3.0,0.0,86.67,True,bowled,,D Heyliger
+1420222,1,Canada,U Bhagwan,,,,,,False,DNB,,
+1420222,2,Nepal,D Khanal,,,,,,False,DNB,,
+1420222,2,Nepal,RK Paudel,,,,,,False,DNB,,
+1420222,2,Nepal,P Sarraf,,,,,,False,DNB,,
+1420222,2,Nepal,Aarif Sheikh,,,,,,False,DNB,,
+1420222,2,Nepal,Kushal Malla,,,,,,False,DNB,,
+1420222,2,Nepal,LN Rajbanshi,,,,,,False,DNB,,
+1420222,2,Nepal,Aakash Chand,,,,,,False,DNB,,
+1420222,2,Nepal,H Dhami,,,,,,False,DNB,,
+1420529,1,Nepal,AK Sah,8.0,6.0,2.0,0.0,133.33,True,lbw,,R Trumpelmann
+1420529,1,Nepal,Aasif Sheikh,4.0,11.0,1.0,0.0,36.36,True,caught,,JT Brassell
+1420529,1,Nepal,B Sharki,44.0,86.0,2.0,1.0,51.16,True,lbw,,MG Erasmus
+1420529,1,Nepal,Gulsan Jha,21.0,32.0,3.0,0.0,65.62,True,bowled,,MG Erasmus
+1420529,1,Nepal,K Bhurtel,0.0,1.0,0.0,0.0,0.0,True,caught,,R Trumpelmann
+1420529,1,Nepal,Karan KC,16.0,38.0,3.0,0.0,42.11,True,lbw,,MG Erasmus
+1420529,1,Nepal,Kushal Malla,15.0,22.0,1.0,1.0,68.18,True,caught,,MG Erasmus
+1420529,1,Nepal,LN Rajbanshi,0.0,11.0,0.0,0.0,0.0,False,not out,['-'],
+1420529,1,Nepal,P Sarraf,12.0,22.0,0.0,1.0,54.55,True,caught,,JN Loftie-Eaton
+1420529,1,Nepal,RK Paudel,1.0,15.0,0.0,0.0,6.67,True,bowled,,JT Brassell
+1420529,1,Nepal,Sompal Kami,2.0,6.0,0.0,0.0,33.33,True,caught,,MG Erasmus
+1420529,2,Namibia,JJ Smit,17.0,37.0,1.0,1.0,45.95,False,not out,['-'],
+1420529,2,Namibia,JN Frylinck,34.0,53.0,4.0,0.0,64.15,True,caught,,Sompal Kami
+1420529,2,Namibia,JN Loftie-Eaton,31.0,30.0,5.0,0.0,103.33,True,lbw,,RK Paudel
+1420529,2,Namibia,M van Lingen,23.0,33.0,3.0,0.0,69.7,True,caught,,LN Rajbanshi
+1420529,2,Namibia,MG Erasmus,8.0,22.0,0.0,0.0,36.36,True,caught,,Sompal Kami
+1420529,2,Namibia,N Davin,15.0,17.0,2.0,0.0,88.24,True,caught,,LN Rajbanshi
+1420529,2,Namibia,R Trumpelmann,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1420529,2,Namibia,ZE Green,2.0,9.0,0.0,0.0,22.22,True,caught,,Sompal Kami
+1420529,2,Namibia,JT Brassell,,,,,,False,DNB,,
+1420529,2,Namibia,BM Scholtz,,,,,,False,DNB,,
+1420529,2,Namibia,T Lungameni,,,,,,False,DNB,,
+1420530,1,Netherlands,A Dutt,10.0,20.0,1.0,0.0,50.0,True,caught,,K Bhurtel
+1420530,1,Netherlands,BFW de Leede,27.0,45.0,3.0,1.0,60.0,True,bowled,,LN Rajbanshi
+1420530,1,Netherlands,K Klein,11.0,16.0,1.0,0.0,68.75,False,not out,['-'],
+1420530,1,Netherlands,M Levitt,0.0,3.0,0.0,0.0,0.0,True,caught,,Sompal Kami
+1420530,1,Netherlands,MP O'Dowd,10.0,21.0,0.0,1.0,47.62,True,run out,,LN Rajbanshi
+1420530,1,Netherlands,NRJ Croes,12.0,25.0,1.0,0.0,48.0,False,not out,['-'],
+1420530,1,Netherlands,SA Edwards,33.0,49.0,1.0,0.0,67.35,True,run out,,Kushal Malla
+1420530,1,Netherlands,SA Engelbrecht,23.0,36.0,3.0,0.0,63.89,True,caught,,LN Rajbanshi
+1420530,1,Netherlands,Shariz Ahmad,1.0,4.0,0.0,0.0,25.0,True,bowled,,RK Paudel
+1420530,1,Netherlands,VJ Kingma,2.0,17.0,0.0,0.0,11.76,True,caught,,K Bhurtel
+1420530,1,Netherlands,W Barresi,0.0,2.0,0.0,0.0,0.0,True,caught,,K Bhurtel
+1420530,2,Nepal,AK Sah,57.0,37.0,6.0,4.0,154.05,False,not out,['-'],
+1420530,2,Nepal,Aasif Sheikh,54.0,46.0,8.0,1.0,117.39,False,not out,['-'],
+1420530,2,Nepal,K Bhurtel,28.0,11.0,2.0,3.0,254.55,True,caught,,VJ Kingma
+1420530,2,Nepal,RK Paudel,,,,,,False,DNB,,
+1420530,2,Nepal,B Sharki,,,,,,False,DNB,,
+1420530,2,Nepal,Kushal Malla,,,,,,False,DNB,,
+1420530,2,Nepal,Sompal Kami,,,,,,False,DNB,,
+1420530,2,Nepal,Gulsan Jha,,,,,,False,DNB,,
+1420530,2,Nepal,D Khanal,,,,,,False,DNB,,
+1420530,2,Nepal,DS Airee,,,,,,False,DNB,,
+1420530,2,Nepal,LN Rajbanshi,,,,,,False,DNB,,
+1420531,1,Namibia,BM Scholtz,12.0,23.0,2.0,0.0,52.17,True,bowled,,K Klein
+1420531,1,Namibia,JJ Smit,26.0,48.0,1.0,2.0,54.17,True,caught,,MP O'Dowd
+1420531,1,Namibia,JN Frylinck,0.0,3.0,0.0,0.0,0.0,True,lbw,,A Dutt
+1420531,1,Namibia,JN Loftie-Eaton,0.0,4.0,0.0,0.0,0.0,True,bowled,,A Dutt
+1420531,1,Namibia,JP Kotze,5.0,31.0,0.0,0.0,16.13,True,bowled,,A Dutt
+1420531,1,Namibia,M van Lingen,4.0,4.0,1.0,0.0,100.0,True,lbw,,A Dutt
+1420531,1,Namibia,MG Erasmus,13.0,11.0,3.0,0.0,118.18,True,caught,,A Dutt
+1420531,1,Namibia,N Davin,13.0,19.0,2.0,0.0,68.42,True,caught,,K Klein
+1420531,1,Namibia,R Trumpelmann,20.0,40.0,0.0,1.0,50.0,True,stumped,,RE van der Merwe
+1420531,1,Namibia,T Lungameni,0.0,5.0,0.0,0.0,0.0,False,not out,['-'],
+1420531,1,Namibia,ZE Green,19.0,29.0,3.0,0.0,65.52,True,caught,,A Dutt
+1420531,2,Netherlands,BFW de Leede,21.0,20.0,1.0,2.0,105.0,False,not out,['-'],
+1420531,2,Netherlands,M Levitt,57.0,82.0,8.0,2.0,69.51,True,caught,,MG Erasmus
+1420531,2,Netherlands,MP O'Dowd,28.0,43.0,2.0,2.0,65.12,True,bowled,,MG Erasmus
+1420531,2,Netherlands,SA Edwards,4.0,7.0,0.0,0.0,57.14,False,not out,['-'],
+1420531,2,Netherlands,SA Engelbrecht,6.0,14.0,1.0,0.0,42.86,True,lbw,,MG Erasmus
+1420531,2,Netherlands,NRJ Croes,,,,,,False,DNB,,
+1420531,2,Netherlands,RE van der Merwe,,,,,,False,DNB,,
+1420531,2,Netherlands,AT Nidamanuru,,,,,,False,DNB,,
+1420531,2,Netherlands,A Dutt,,,,,,False,DNB,,
+1420531,2,Netherlands,K Klein,,,,,,False,DNB,,
+1420531,2,Netherlands,VJ Kingma,,,,,,False,DNB,,
+1420532,1,Nepal,AK Sah,0.0,2.0,0.0,0.0,0.0,True,caught,,BM Scholtz
+1420532,1,Nepal,Aasif Sheikh,58.0,64.0,8.0,1.0,90.62,True,lbw,,BM Scholtz
+1420532,1,Nepal,B Sharki,26.0,36.0,3.0,0.0,72.22,True,bowled,,BM Scholtz
+1420532,1,Nepal,D Khanal,0.0,5.0,0.0,0.0,0.0,True,caught,,JT Brassell
+1420532,1,Nepal,DS Airee,6.0,18.0,0.0,0.0,33.33,True,stumped,,JN Loftie-Eaton
+1420532,1,Nepal,K Bhurtel,18.0,18.0,3.0,0.0,100.0,True,lbw,,BM Scholtz
+1420532,1,Nepal,Karan KC,12.0,12.0,1.0,1.0,100.0,True,caught,,JN Loftie-Eaton
+1420532,1,Nepal,Kushal Malla,36.0,52.0,1.0,3.0,69.23,True,caught,,MG Erasmus
+1420532,1,Nepal,LN Rajbanshi,0.0,7.0,0.0,0.0,0.0,False,not out,['-'],
+1420532,1,Nepal,RK Paudel,0.0,9.0,0.0,0.0,0.0,True,caught,,JN Loftie-Eaton
+1420532,1,Nepal,Sompal Kami,4.0,3.0,1.0,0.0,133.33,True,caught,,JN Loftie-Eaton
+1420532,2,Namibia,BM Scholtz,8.0,5.0,2.0,0.0,160.0,False,not out,['-'],
+1420532,2,Namibia,JJ Smit,34.0,66.0,1.0,2.0,51.52,False,not out,['-'],
+1420532,2,Namibia,JN Frylinck,4.0,16.0,0.0,0.0,25.0,True,lbw,,DS Airee
+1420532,2,Namibia,JN Loftie-Eaton,5.0,17.0,0.0,0.0,29.41,True,caught,,K Bhurtel
+1420532,2,Namibia,JP Kotze,3.0,9.0,0.0,0.0,33.33,True,bowled,,RK Paudel
+1420532,2,Namibia,M van Lingen,31.0,34.0,4.0,2.0,91.18,True,stumped,,Kushal Malla
+1420532,2,Namibia,MG Erasmus,52.0,58.0,8.0,2.0,89.66,True,caught,,K Bhurtel
+1420532,2,Namibia,N Davin,8.0,5.0,2.0,0.0,160.0,True,run out,,DS Airee
+1420532,2,Namibia,R Trumpelmann,16.0,13.0,2.0,1.0,123.08,True,caught,,K Bhurtel
+1420532,2,Namibia,ZE Green,6.0,21.0,0.0,0.0,28.57,True,bowled,,LN Rajbanshi
+1420532,2,Namibia,JT Brassell,,,,,,False,DNB,,
+1420533,1,Namibia,BM Scholtz,0.0,4.0,0.0,0.0,0.0,True,caught,,RE van der Merwe
+1420533,1,Namibia,JJ Smit,0.0,2.0,0.0,0.0,0.0,True,caught,,A Dutt
+1420533,1,Namibia,JN Frylinck,34.0,58.0,4.0,0.0,58.62,True,caught,,Shariz Ahmad
+1420533,1,Namibia,JN Loftie-Eaton,49.0,45.0,6.0,2.0,108.89,False,not out,['-'],
+1420533,1,Namibia,JT Brassell,1.0,5.0,0.0,0.0,20.0,True,bowled,,VJ Kingma
+1420533,1,Namibia,M van Lingen,10.0,21.0,2.0,0.0,47.62,True,caught and bowled,,VJ Kingma
+1420533,1,Namibia,MB Kruger,39.0,50.0,5.0,0.0,78.0,True,bowled,,A Dutt
+1420533,1,Namibia,MG Erasmus,12.0,22.0,2.0,0.0,54.55,True,caught,,RE van der Merwe
+1420533,1,Namibia,N Davin,0.0,2.0,0.0,0.0,0.0,True,caught,,VJ Kingma
+1420533,1,Namibia,R Trumpelmann,23.0,28.0,3.0,0.0,82.14,False,not out,['-'],
+1420533,1,Namibia,ZE Green,22.0,20.0,2.0,1.0,110.0,True,run out,,Shariz Ahmad
+1420533,2,Netherlands,A Dutt,1.0,2.0,0.0,0.0,50.0,True,caught,,JN Frylinck
+1420533,2,Netherlands,AT Nidamanuru,14.0,27.0,2.0,0.0,51.85,True,bowled,,JN Loftie-Eaton
+1420533,2,Netherlands,BFW de Leede,24.0,44.0,2.0,0.0,54.55,True,bowled,,MG Erasmus
+1420533,2,Netherlands,M Levitt,0.0,4.0,0.0,0.0,0.0,True,lbw,,R Trumpelmann
+1420533,2,Netherlands,MP O'Dowd,41.0,66.0,4.0,1.0,62.12,True,caught and bowled,,JN Frylinck
+1420533,2,Netherlands,NRJ Croes,46.0,56.0,3.0,0.0,82.14,False,not out,['-'],
+1420533,2,Netherlands,RE van der Merwe,3.0,7.0,0.0,0.0,42.86,True,bowled,,BM Scholtz
+1420533,2,Netherlands,SA Edwards,4.0,15.0,0.0,0.0,26.67,True,caught,,MG Erasmus
+1420533,2,Netherlands,SA Engelbrecht,10.0,15.0,2.0,0.0,66.67,True,stumped,,MG Erasmus
+1420533,2,Netherlands,Shariz Ahmad,19.0,29.0,2.0,0.0,65.52,True,caught,,BM Scholtz
+1420533,2,Netherlands,VJ Kingma,0.0,3.0,0.0,0.0,0.0,True,lbw,,JN Frylinck
+1420534,1,Nepal,AK Sah,7.0,11.0,0.0,1.0,63.64,True,bowled,,VJ Kingma
+1420534,1,Nepal,Aarif Sheikh,22.0,51.0,1.0,0.0,43.14,True,caught,,VJ Kingma
+1420534,1,Nepal,Aasif Sheikh,17.0,29.0,2.0,1.0,58.62,True,caught,,VJ Kingma
+1420534,1,Nepal,B Sharki,0.0,8.0,0.0,0.0,0.0,True,bowled,,BFW de Leede
+1420534,1,Nepal,DS Airee,1.0,11.0,0.0,0.0,9.09,False,not out,['-'],
+1420534,1,Nepal,Gulsan Jha,5.0,17.0,0.0,0.0,29.41,True,caught,,A Dutt
+1420534,1,Nepal,K Bhurtel,66.0,97.0,8.0,0.0,68.04,True,run out,,BFW de Leede
+1420534,1,Nepal,Karan KC,26.0,28.0,1.0,2.0,92.86,True,caught,,BFW de Leede
+1420534,1,Nepal,Kushal Malla,2.0,9.0,0.0,0.0,22.22,True,lbw,,A Dutt
+1420534,1,Nepal,LN Rajbanshi,0.0,5.0,0.0,0.0,0.0,False,not out,['-'],
+1420534,1,Nepal,RK Paudel,16.0,40.0,2.0,0.0,40.0,True,caught,,A Dutt
+1420534,2,Netherlands,M Levitt,39.0,34.0,3.0,4.0,114.71,True,bowled,,DS Airee
+1420534,2,Netherlands,MP O'Dowd,28.0,26.0,2.0,2.0,107.69,True,caught,,LN Rajbanshi
+1420534,2,Netherlands,SA Engelbrecht,46.0,75.0,3.0,0.0,61.33,False,not out,['-'],
+1420534,2,Netherlands,Vikramjit Singh,58.0,93.0,7.0,0.0,62.37,False,not out,['-'],
+1420534,2,Netherlands,SA Edwards,,,,,,False,DNB,,
+1420534,2,Netherlands,AT Nidamanuru,,,,,,False,DNB,,
+1420534,2,Netherlands,NRJ Croes,,,,,,False,DNB,,
+1420534,2,Netherlands,BFW de Leede,,,,,,False,DNB,,
+1420534,2,Netherlands,RE van der Merwe,,,,,,False,DNB,,
+1420534,2,Netherlands,A Dutt,,,,,,False,DNB,,
+1420534,2,Netherlands,VJ Kingma,,,,,,False,DNB,,
+1421069,1,United Arab Emirates,A Sharafu,15.0,24.0,3.0,0.0,62.5,True,bowled,,Kaleem Sana
+1421069,1,United Arab Emirates,Aayan Afzal Khan,38.0,50.0,3.0,0.0,76.0,True,caught,,Kaleem Sana
+1421069,1,United Arab Emirates,Asif Khan,16.0,28.0,2.0,0.0,57.14,True,caught,,D Heyliger
+1421069,1,United Arab Emirates,Basil Hameed,19.0,53.0,0.0,0.0,35.85,True,caught,,D Heyliger
+1421069,1,United Arab Emirates,Junaid Siddique,0.0,1.0,0.0,0.0,0.0,True,caught,,Kaleem Sana
+1421069,1,United Arab Emirates,R Chopra,4.0,17.0,0.0,0.0,23.53,True,lbw,,Saad Bin Zafar
+1421069,1,United Arab Emirates,SM Sharma,1.0,3.0,0.0,0.0,33.33,True,bowled,,Kaleem Sana
+1421069,1,United Arab Emirates,T Suri,0.0,3.0,0.0,0.0,0.0,False,not out,['-'],
+1421069,1,United Arab Emirates,Waseem Muhammad,49.0,85.0,6.0,0.0,57.65,True,run out,,Kaleem Sana
+1421069,1,United Arab Emirates,Zahoor Khan,3.0,3.0,0.0,0.0,100.0,False,not out,['-'],
+1421069,1,United Arab Emirates,Zuhaib Zubair,31.0,27.0,3.0,1.0,114.81,True,lbw,,Ammar Khalid
+1421069,2,Canada,A Johnson,4.0,18.0,0.0,0.0,22.22,True,lbw,,Junaid Siddique
+1421069,2,Canada,D Heyliger,10.0,6.0,2.0,0.0,166.67,False,not out,['-'],
+1421069,2,Canada,H Thaker,8.0,16.0,0.0,0.0,50.0,True,bowled,,Zahoor Khan
+1421069,2,Canada,NR Kirton,68.0,95.0,7.0,0.0,71.58,False,not out,['-'],
+1421069,2,Canada,NS Dhaliwal,5.0,16.0,0.0,0.0,31.25,True,caught,,Aayan Afzal Khan
+1421069,2,Canada,Pargat Singh,6.0,8.0,1.0,0.0,75.0,True,caught,,Junaid Siddique
+1421069,2,Canada,S Movva,3.0,8.0,0.0,0.0,37.5,True,lbw,,Aayan Afzal Khan
+1421069,2,Canada,SA Wijeratne,59.0,85.0,6.0,0.0,69.41,True,caught,,Zahoor Khan
+1421069,2,Canada,Saad Bin Zafar,21.0,41.0,1.0,0.0,51.22,True,bowled,,Zahoor Khan
+1421069,2,Canada,Kaleem Sana,,,,,,False,DNB,,
+1421069,2,Canada,Ammar Khalid,,,,,,False,DNB,,
+1421070,1,Scotland,ARI Umeed,8.0,23.0,0.0,0.0,34.78,True,caught,,Ammar Khalid
+1421070,1,Scotland,BJ McMullen,19.0,29.0,2.0,0.0,65.52,True,caught,,Saad Bin Zafar
+1421070,1,Scotland,CN Greaves,4.0,11.0,0.0,0.0,36.36,False,not out,['-'],
+1421070,1,Scotland,HG Munsey,68.0,103.0,7.0,1.0,66.02,True,caught,,NR Kirton
+1421070,1,Scotland,MA Leask,40.0,44.0,3.0,0.0,90.91,True,caught,,D Heyliger
+1421070,1,Scotland,MH Cross,30.0,41.0,2.0,0.0,73.17,True,caught,,D Heyliger
+1421070,1,Scotland,MRJ Watt,21.0,29.0,2.0,0.0,72.41,True,caught,,Kaleem Sana
+1421070,1,Scotland,RD Berrington,2.0,15.0,0.0,0.0,13.33,True,bowled,,NR Kirton
+1421070,1,Scotland,SW Currie,5.0,9.0,0.0,0.0,55.56,True,run out,,Ammar Khalid
+1421070,2,Canada,A Johnson,43.0,30.0,1.0,5.0,143.33,True,lbw,,MRJ Watt
+1421070,2,Canada,H Thaker,10.0,10.0,0.0,1.0,100.0,False,not out,['-'],
+1421070,2,Canada,NS Dhaliwal,12.0,21.0,0.0,1.0,57.14,True,caught,,CN Greaves
+1421070,2,Canada,Pargat Singh,87.0,101.0,10.0,1.0,86.14,False,not out,['-'],
+1421070,2,Canada,SA Wijeratne,56.0,90.0,4.0,0.0,62.22,True,caught,,SW Currie
+1421070,1,Scotland,SM Sharif,,,,,,False,DNB,,
+1421070,1,Scotland,BJ Currie,,,,,,False,DNB,,
+1421070,2,Canada,D Heyliger,,,,,,False,DNB,,
+1421070,2,Canada,Kaleem Sana,,,,,,False,DNB,,
+1421070,2,Canada,NR Kirton,,,,,,False,DNB,,
+1421070,2,Canada,Saad Bin Zafar,,,,,,False,DNB,,
+1421070,2,Canada,Ammar Khalid,,,,,,False,DNB,,
+1421070,2,Canada,S Movva,,,,,,False,DNB,,
+1421071,1,United Arab Emirates,A Sharafu,14.0,20.0,1.0,1.0,70.0,True,stumped,,BJ Currie
+1421071,1,United Arab Emirates,Aayan Afzal Khan,45.0,72.0,2.0,2.0,62.5,True,run out,,BJ Currie
+1421071,1,United Arab Emirates,Asif Khan,11.0,19.0,2.0,0.0,57.89,True,caught,,BJ Currie
+1421071,1,United Arab Emirates,Basil Hameed,15.0,50.0,0.0,0.0,30.0,True,bowled,,SM Sharif
+1421071,1,United Arab Emirates,R Chopra,5.0,21.0,0.0,0.0,23.81,True,lbw,,CN Greaves
+1421071,1,United Arab Emirates,RN Bhatia,2.0,10.0,0.0,0.0,20.0,True,bowled,,BJ Currie
+1421071,1,United Arab Emirates,V Aravind,26.0,61.0,1.0,0.0,42.62,True,caught,,SW Currie
+1421071,1,United Arab Emirates,Waseem Muhammad,1.0,4.0,0.0,0.0,25.0,True,run out,,SM Sharif
+1421071,1,United Arab Emirates,Zahoor Khan,0.0,8.0,0.0,0.0,0.0,True,lbw,,MRJ Watt
+1421071,1,United Arab Emirates,Zuhaib Zubair,4.0,9.0,0.0,0.0,44.44,True,caught,,SW Currie
+1421071,2,Scotland,BJ McMullen,39.0,45.0,3.0,0.0,86.67,True,bowled,,Aayan Afzal Khan
+1421071,2,Scotland,C Tear,54.0,69.0,2.0,2.0,78.26,False,not out,['-'],
+1421071,2,Scotland,HG Munsey,37.0,27.0,4.0,3.0,137.04,True,lbw,,Basil Hameed
+1421071,2,Scotland,RD Berrington,2.0,4.0,0.0,0.0,50.0,False,not out,['-'],
+1421071,1,United Arab Emirates,Junaid Siddique,,,,,,False,DNB,,
+1421071,2,Scotland,MH Cross,,,,,,False,DNB,,
+1421071,2,Scotland,MA Leask,,,,,,False,DNB,,
+1421071,2,Scotland,CN Greaves,,,,,,False,DNB,,
+1421071,2,Scotland,MRJ Watt,,,,,,False,DNB,,
+1421071,2,Scotland,SW Currie,,,,,,False,DNB,,
+1421071,2,Scotland,SM Sharif,,,,,,False,DNB,,
+1421071,2,Scotland,BJ Currie,,,,,,False,DNB,,
+1421072,1,Canada,A Johnson,29.0,39.0,4.0,1.0,74.36,True,caught,,Zahoor Khan
+1421072,1,Canada,H Thaker,111.0,116.0,6.0,2.0,95.69,False,not out,['-'],
+1421072,1,Canada,NR Kirton,26.0,58.0,0.0,1.0,44.83,True,caught,,Aayan Afzal Khan
+1421072,1,Canada,NS Dhaliwal,13.0,38.0,0.0,0.0,34.21,True,caught,,Aayan Afzal Khan
+1421072,1,Canada,Pargat Singh,6.0,13.0,1.0,0.0,46.15,True,caught,,SM Sharma
+1421072,1,Canada,S Movva,9.0,11.0,0.0,0.0,81.82,True,caught,,Junaid Siddique
+1421072,1,Canada,SA Wijeratne,19.0,17.0,3.0,0.0,111.76,True,caught,,Junaid Siddique
+1421072,1,Canada,Saad Bin Zafar,17.0,14.0,0.0,1.0,121.43,False,not out,['-'],
+1421072,2,United Arab Emirates,Aayan Afzal Khan,12.0,10.0,1.0,0.0,120.0,True,caught,,D Heyliger
+1421072,2,United Arab Emirates,Basil Hameed,27.0,23.0,2.0,1.0,117.39,True,caught,,Ammar Khalid
+1421072,2,United Arab Emirates,CP Rizwan,18.0,31.0,1.0,0.0,58.06,True,caught,,H Thaker
+1421072,2,United Arab Emirates,Junaid Siddique,8.0,4.0,0.0,1.0,200.0,False,not out,['-'],
+1421072,2,United Arab Emirates,R Chopra,29.0,38.0,2.0,0.0,76.32,True,run out,,D Heyliger
+1421072,2,United Arab Emirates,SM Sharma,3.0,4.0,0.0,0.0,75.0,False,not out,['-'],
+1421072,2,United Arab Emirates,T Suri,27.0,29.0,4.0,0.0,93.1,True,caught,,D Heyliger
+1421072,2,United Arab Emirates,V Aravind,51.0,85.0,1.0,1.0,60.0,False,not out,['-'],
+1421072,2,United Arab Emirates,Waseem Muhammad,42.0,51.0,4.0,1.0,82.35,True,caught,,Saad Bin Zafar
+1421072,2,United Arab Emirates,Zuhaib Zubair,3.0,5.0,0.0,0.0,60.0,True,bowled,,D Heyliger
+1421072,1,Canada,D Heyliger,,,,,,False,DNB,,
+1421072,1,Canada,Ammar Khalid,,,,,,False,DNB,,
+1421072,1,Canada,U Bhagwan,,,,,,False,DNB,,
+1421072,2,United Arab Emirates,Zahoor Khan,,,,,,False,DNB,,
+1421073,1,Scotland,BJ Currie,8.0,14.0,0.0,0.0,57.14,False,not out,['-'],
+1421073,1,Scotland,BJ McMullen,33.0,29.0,2.0,1.0,113.79,True,caught,,H Thaker
+1421073,1,Scotland,BTJ Wheal,24.0,37.0,2.0,0.0,64.86,True,caught,,Kaleem Sana
+1421073,1,Scotland,C Tear,18.0,39.0,1.0,0.0,46.15,True,caught,,H Thaker
+1421073,1,Scotland,HG Munsey,36.0,48.0,6.0,0.0,75.0,True,caught,,H Thaker
+1421073,1,Scotland,MA Leask,2.0,7.0,0.0,0.0,28.57,True,bowled,,Saad Bin Zafar
+1421073,1,Scotland,MH Cross,17.0,31.0,1.0,0.0,54.84,True,bowled,,Ammar Khalid
+1421073,1,Scotland,MRJ Watt,9.0,29.0,1.0,0.0,31.03,True,caught,,Saad Bin Zafar
+1421073,1,Scotland,RD Berrington,30.0,48.0,3.0,0.0,62.5,True,caught,,D Heyliger
+1421073,1,Scotland,SM Sharif,0.0,1.0,0.0,0.0,0.0,True,bowled,,Ammar Khalid
+1421073,1,Scotland,SW Currie,5.0,10.0,1.0,0.0,50.0,True,stumped,,NR Kirton
+1421073,2,Canada,A Johnson,15.0,11.0,0.0,2.0,136.36,True,run out,,BJ Currie
+1421073,2,Canada,H Thaker,105.0,151.0,8.0,1.0,69.54,False,not out,['-'],
+1421073,2,Canada,NR Kirton,44.0,66.0,3.0,0.0,66.67,True,lbw,,SM Sharif
+1421073,2,Canada,NS Dhaliwal,1.0,4.0,0.0,0.0,25.0,True,caught,,BTJ Wheal
+1421073,2,Canada,Pargat Singh,8.0,8.0,2.0,0.0,100.0,True,lbw,,BTJ Wheal
+1421073,2,Canada,S Movva,20.0,29.0,2.0,0.0,68.97,False,not out,['-'],
+1421073,2,Canada,SA Wijeratne,2.0,7.0,0.0,0.0,28.57,False,not out,['-'],
+1421073,2,Canada,D Heyliger,,,,,,False,DNB,,
+1421073,2,Canada,Kaleem Sana,,,,,,False,DNB,,
+1421073,2,Canada,Saad Bin Zafar,,,,,,False,DNB,,
+1421073,2,Canada,Ammar Khalid,,,,,,False,DNB,,
+1426549,1,Pakistan,Abdullah Shafique,12.0,26.0,1.0,0.0,46.15,True,caught,,MA Starc
+1426549,1,Pakistan,Agha Salman,12.0,30.0,1.0,0.0,40.0,True,caught,,SA Abbott
+1426549,1,Pakistan,Babar Azam,37.0,45.0,4.0,0.0,82.22,True,bowled,,A Zampa
+1426549,1,Pakistan,Haris Rauf,0.0,3.0,0.0,0.0,0.0,True,bowled,,A Zampa
+1426549,1,Pakistan,Irfan Khan,22.0,36.0,2.0,0.0,61.11,True,run out,,GJ Maxwell
+1426549,1,Pakistan,Kamran Ghulam,5.0,6.0,1.0,0.0,83.33,True,caught,,PJ Cummins
+1426549,1,Pakistan,Mohammad Hasnain,2.0,4.0,0.0,0.0,50.0,False,not out,['-'],
+1426549,1,Pakistan,Mohammad Rizwan,44.0,71.0,2.0,1.0,61.97,True,caught,,M Labuschagne
+1426549,1,Pakistan,Naseem Shah,40.0,39.0,1.0,4.0,102.56,True,caught,,PJ Cummins
+1426549,1,Pakistan,Saim Ayub,1.0,5.0,0.0,0.0,20.0,True,bowled,,MA Starc
+1426549,1,Pakistan,Shaheen Shah Afridi,24.0,19.0,3.0,1.0,126.32,True,bowled,,MA Starc
+1426549,2,Australia,AM Hardie,10.0,19.0,1.0,0.0,52.63,True,bowled,,Mohammad Hasnain
+1426549,2,Australia,GJ Maxwell,0.0,1.0,0.0,0.0,0.0,True,caught,,Haris Rauf
+1426549,2,Australia,J Fraser-McGurk,16.0,15.0,1.0,0.0,106.67,True,caught,,Naseem Shah
+1426549,2,Australia,JP Inglis,49.0,44.0,4.0,3.0,111.36,True,caught,,Shaheen Shah Afridi
+1426549,2,Australia,M Labuschagne,16.0,13.0,2.0,0.0,123.08,True,caught,,Haris Rauf
+1426549,2,Australia,MA Starc,2.0,12.0,0.0,0.0,16.67,False,not out,['-'],
+1426549,2,Australia,MW Short,1.0,4.0,0.0,0.0,25.0,True,caught,,Shaheen Shah Afridi
+1426549,2,Australia,PJ Cummins,32.0,35.0,4.0,0.0,91.43,True,run out,,Shaheen Shah Afridi
+1426549,2,Australia,SA Abbott,13.0,22.0,1.0,0.0,59.09,False,not out,['-'],
+1426549,2,Australia,SPD Smith,44.0,48.0,6.0,0.0,91.67,True,caught,,Haris Rauf
+1426549,2,Australia,A Zampa,,,,,,False,DNB,,
+1426550,1,Australia,A Zampa,18.0,22.0,1.0,1.0,81.82,True,bowled,,Shaheen Shah Afridi
+1426550,1,Australia,AM Hardie,14.0,29.0,0.0,0.0,48.28,True,caught,,Haris Rauf
+1426550,1,Australia,GJ Maxwell,16.0,22.0,0.0,1.0,72.73,True,bowled,,Haris Rauf
+1426550,1,Australia,J Fraser-McGurk,13.0,10.0,3.0,0.0,130.0,True,lbw,,Shaheen Shah Afridi
+1426550,1,Australia,JP Inglis,18.0,26.0,2.0,0.0,69.23,True,caught,,Haris Rauf
+1426550,1,Australia,JR Hazlewood,2.0,9.0,0.0,0.0,22.22,False,not out,['-'],
+1426550,1,Australia,M Labuschagne,6.0,11.0,0.0,0.0,54.55,True,caught,,Haris Rauf
+1426550,1,Australia,MA Starc,1.0,4.0,0.0,0.0,25.0,True,caught,,Naseem Shah
+1426550,1,Australia,MW Short,19.0,15.0,3.0,0.0,126.67,True,caught,,Shaheen Shah Afridi
+1426550,1,Australia,PJ Cummins,13.0,17.0,0.0,1.0,76.47,True,caught,,Haris Rauf
+1426550,1,Australia,SPD Smith,35.0,51.0,5.0,1.0,68.63,True,caught,,Mohammad Hasnain
+1426550,2,Pakistan,Abdullah Shafique,64.0,69.0,4.0,3.0,92.75,False,not out,['-'],
+1426550,2,Pakistan,Babar Azam,15.0,20.0,0.0,1.0,75.0,False,not out,['-'],
+1426550,2,Pakistan,Saim Ayub,82.0,73.0,5.0,6.0,112.33,True,caught,,A Zampa
+1426550,2,Pakistan,Mohammad Rizwan,,,,,,False,DNB,,
+1426550,2,Pakistan,Kamran Ghulam,,,,,,False,DNB,,
+1426550,2,Pakistan,Agha Salman,,,,,,False,DNB,,
+1426550,2,Pakistan,Irfan Khan,,,,,,False,DNB,,
+1426550,2,Pakistan,Shaheen Shah Afridi,,,,,,False,DNB,,
+1426550,2,Pakistan,Naseem Shah,,,,,,False,DNB,,
+1426550,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1426550,2,Pakistan,Mohammad Hasnain,,,,,,False,DNB,,
+1426551,1,Australia,A Zampa,13.0,24.0,1.0,0.0,54.17,True,caught,,Naseem Shah
+1426551,1,Australia,AM Hardie,12.0,13.0,2.0,0.0,92.31,True,caught,,Shaheen Shah Afridi
+1426551,1,Australia,C Connolly,7.0,19.0,0.0,0.0,36.84,True,retired hurt,,Mohammad Hasnain
+1426551,1,Australia,GJ Maxwell,0.0,2.0,0.0,0.0,0.0,True,caught,,Haris Rauf
+1426551,1,Australia,J Fraser-McGurk,7.0,11.0,1.0,0.0,63.64,True,caught,,Naseem Shah
+1426551,1,Australia,JP Inglis,7.0,21.0,1.0,0.0,33.33,True,caught,,Naseem Shah
+1426551,1,Australia,LR Morris,0.0,2.0,0.0,0.0,0.0,True,bowled,,Shaheen Shah Afridi
+1426551,1,Australia,MP Stoinis,8.0,26.0,1.0,0.0,30.77,True,caught,,Mohammad Hasnain
+1426551,1,Australia,MW Short,22.0,32.0,2.0,0.0,68.75,True,caught,,Haris Rauf
+1426551,1,Australia,SA Abbott,30.0,41.0,2.0,1.0,73.17,True,caught,,Shaheen Shah Afridi
+1426551,1,Australia,SH Johnson,12.0,12.0,2.0,0.0,100.0,False,not out,['-'],
+1426551,2,Pakistan,Abdullah Shafique,37.0,55.0,1.0,1.0,67.27,True,caught and bowled,,LR Morris
+1426551,2,Pakistan,Babar Azam,28.0,30.0,4.0,0.0,93.33,False,not out,['-'],
+1426551,2,Pakistan,Mohammad Rizwan,30.0,27.0,1.0,2.0,111.11,False,not out,['-'],
+1426551,2,Pakistan,Saim Ayub,42.0,53.0,4.0,1.0,79.25,True,bowled,,LR Morris
+1426551,2,Pakistan,Kamran Ghulam,,,,,,False,DNB,,
+1426551,2,Pakistan,Agha Salman,,,,,,False,DNB,,
+1426551,2,Pakistan,Irfan Khan,,,,,,False,DNB,,
+1426551,2,Pakistan,Shaheen Shah Afridi,,,,,,False,DNB,,
+1426551,2,Pakistan,Naseem Shah,,,,,,False,DNB,,
+1426551,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1426551,2,Pakistan,Mohammad Hasnain,,,,,,False,DNB,,
+1428956,1,Oman,Aqib Ilyas,23.0,40.0,1.0,2.0,57.5,True,caught,,J Jarvis
+1428956,1,Oman,Ayan Khan,14.0,28.0,2.0,0.0,50.0,True,bowled,,BJ McMullen
+1428956,1,Oman,Bilal Khan,0.0,2.0,0.0,0.0,0.0,True,caught,,JJ Davidson
+1428956,1,Oman,Fayyaz Butt,1.0,9.0,0.0,0.0,11.11,True,bowled,,MRJ Watt
+1428956,1,Oman,KH Prajapati,9.0,19.0,1.0,0.0,47.37,False,not out,['-'],
+1428956,1,Oman,Kaleemullah,5.0,7.0,1.0,0.0,71.43,True,caught,,JJ Davidson
+1428956,1,Oman,Khalid Kail,6.0,13.0,1.0,0.0,46.15,True,lbw,,MRJ Watt
+1428956,1,Oman,Mehran Khan,0.0,7.0,0.0,0.0,0.0,True,caught,,JJ Davidson
+1428956,1,Oman,PS Athavale,12.0,18.0,3.0,0.0,66.67,True,run out,,BJ McMullen
+1428956,1,Oman,Shoaib Khan,1.0,4.0,0.0,0.0,25.0,True,lbw,,JJ Davidson
+1428956,1,Oman,Zeeshan Maqsood,40.0,86.0,4.0,0.0,46.51,False,not out,['-'],
+1428956,2,Scotland,BJ McMullen,1.0,7.0,0.0,0.0,14.29,True,caught,,Kaleemullah
+1428956,2,Scotland,C Tear,39.0,34.0,4.0,2.0,114.71,False,not out,['-'],
+1428956,2,Scotland,HG Munsey,47.0,35.0,6.0,1.0,134.29,True,caught,,Kaleemullah
+1428956,2,Scotland,RD Berrington,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1428956,2,Scotland,MH Cross,,,,,,False,DNB,,
+1428956,2,Scotland,MA Leask,,,,,,False,DNB,,
+1428956,2,Scotland,CN Greaves,,,,,,False,DNB,,
+1428956,2,Scotland,MRJ Watt,,,,,,False,DNB,,
+1428956,2,Scotland,J Jarvis,,,,,,False,DNB,,
+1428956,2,Scotland,SM Sharif,,,,,,False,DNB,,
+1428956,2,Scotland,JJ Davidson,,,,,,False,DNB,,
+1428957,1,Oman,Aqib Ilyas,39.0,80.0,3.0,0.0,48.75,True,lbw,,BM Scholtz
+1428957,1,Oman,Ayan Khan,17.0,27.0,2.0,0.0,62.96,True,bowled,,JT Brassell
+1428957,1,Oman,KH Prajapati,2.0,2.0,0.0,0.0,100.0,True,caught,,MG Kariata
+1428957,1,Oman,Kaleemullah,1.0,2.0,0.0,0.0,50.0,False,not out,['-'],
+1428957,1,Oman,Khalid Kail,51.0,67.0,6.0,0.0,76.12,True,caught,,B Shikongo
+1428957,1,Oman,PS Athavale,6.0,11.0,1.0,0.0,54.55,True,caught,,B Shikongo
+1428957,1,Oman,Shoaib Khan,30.0,19.0,3.0,1.0,157.89,True,run out,,B Shikongo
+1428957,1,Oman,Zeeshan Maqsood,51.0,106.0,4.0,0.0,48.11,True,caught,,B Shikongo
+1428957,2,Namibia,JJ Smit,44.0,37.0,4.0,2.0,118.92,False,not out,['-'],
+1428957,2,Namibia,JN Frylinck,73.0,81.0,8.0,0.0,90.12,True,caught,,Bilal Khan
+1428957,2,Namibia,JP Kotze,16.0,17.0,0.0,1.0,94.12,False,not out,['-'],
+1428957,2,Namibia,L Louwrens,29.0,65.0,3.0,0.0,44.62,True,caught,,Zeeshan Maqsood
+1428957,2,Namibia,M van Lingen,30.0,42.0,3.0,0.0,71.43,True,caught,,Jay Odedra
+1428957,2,Namibia,MG Erasmus,36.0,49.0,2.0,1.0,73.47,True,caught,,Bilal Khan
+1428957,1,Oman,Fayyaz Butt,,,,,,False,DNB,,
+1428957,1,Oman,Jay Odedra,,,,,,False,DNB,,
+1428957,1,Oman,Bilal Khan,,,,,,False,DNB,,
+1428957,2,Namibia,MB Kruger,,,,,,False,DNB,,
+1428957,2,Namibia,BM Scholtz,,,,,,False,DNB,,
+1428957,2,Namibia,JT Brassell,,,,,,False,DNB,,
+1428957,2,Namibia,B Shikongo,,,,,,False,DNB,,
+1428957,2,Namibia,MG Kariata,,,,,,False,DNB,,
+1428958,1,Scotland,BJ McMullen,37.0,59.0,4.0,1.0,62.71,True,caught,,T Lungameni
+1428958,1,Scotland,C Tear,12.0,20.0,2.0,0.0,60.0,True,bowled,,BM Scholtz
+1428958,1,Scotland,CN Greaves,11.0,16.0,1.0,0.0,68.75,True,caught,,B Shikongo
+1428958,1,Scotland,HG Munsey,91.0,64.0,13.0,3.0,142.19,True,bowled,,T Lungameni
+1428958,1,Scotland,J Jarvis,0.0,2.0,0.0,0.0,0.0,True,bowled,,MG Erasmus
+1428958,1,Scotland,JJ Davidson,1.0,2.0,0.0,0.0,50.0,False,not out,['-'],
+1428958,1,Scotland,MA Leask,6.0,10.0,1.0,0.0,60.0,True,bowled,,BM Scholtz
+1428958,1,Scotland,MH Cross,3.0,16.0,0.0,0.0,18.75,True,bowled,,BM Scholtz
+1428958,1,Scotland,MRJ Watt,1.0,6.0,0.0,0.0,16.67,True,bowled,,MG Erasmus
+1428958,1,Scotland,RD Berrington,79.0,81.0,4.0,4.0,97.53,False,not out,['-'],
+1428958,1,Scotland,SM Sharif,23.0,34.0,1.0,1.0,67.65,True,caught,,B Shikongo
+1428958,2,Namibia,B Shikongo,3.0,5.0,0.0,0.0,60.0,False,not out,['-'],
+1428958,2,Namibia,BM Scholtz,8.0,10.0,1.0,0.0,80.0,True,caught,,MA Leask
+1428958,2,Namibia,JJ Smit,18.0,14.0,1.0,1.0,128.57,True,caught,,MA Leask
+1428958,2,Namibia,JN Frylinck,34.0,40.0,5.0,0.0,85.0,True,caught,,MRJ Watt
+1428958,2,Namibia,JP Kotze,12.0,12.0,2.0,0.0,100.0,True,caught,,MA Leask
+1428958,2,Namibia,JT Brassell,0.0,3.0,0.0,0.0,0.0,True,bowled,,MA Leask
+1428958,2,Namibia,L Louwrens,0.0,24.0,0.0,0.0,0.0,True,caught,,BJ McMullen
+1428958,2,Namibia,M van Lingen,60.0,91.0,9.0,0.0,65.93,True,caught,,J Jarvis
+1428958,2,Namibia,MB Kruger,13.0,19.0,1.0,0.0,68.42,True,bowled,,MRJ Watt
+1428958,2,Namibia,MG Erasmus,63.0,51.0,8.0,2.0,123.53,True,caught,,JJ Davidson
+1428958,2,Namibia,T Lungameni,7.0,5.0,0.0,0.0,140.0,False,not out,['-'],
+1428959,1,Oman,Aqib Ilyas,0.0,3.0,0.0,0.0,0.0,True,caught,,BJ Currie
+1428959,1,Oman,Ayan Khan,0.0,1.0,0.0,0.0,0.0,True,bowled,,C Cassell
+1428959,1,Oman,Bilal Khan,0.0,2.0,0.0,0.0,0.0,True,caught,,C Cassell
+1428959,1,Oman,Fayyaz Butt,5.0,16.0,0.0,0.0,31.25,False,not out,['-'],
+1428959,1,Oman,K Sonavale,3.0,10.0,0.0,0.0,30.0,True,bowled,,BJ McMullen
+1428959,1,Oman,Kaleemullah,4.0,5.0,1.0,0.0,80.0,True,caught,,GT Main
+1428959,1,Oman,Khalid Kail,0.0,2.0,0.0,0.0,0.0,True,caught,,C Cassell
+1428959,1,Oman,Mehran Khan,17.0,9.0,1.0,2.0,188.89,True,caught,,C Cassell
+1428959,1,Oman,PS Athavale,34.0,57.0,4.0,0.0,59.65,True,caught,,C Cassell
+1428959,1,Oman,Shoaib Khan,1.0,6.0,0.0,0.0,16.67,True,caught,,C Cassell
+1428959,1,Oman,Zeeshan Maqsood,10.0,25.0,1.0,0.0,40.0,True,lbw,,C Cassell
+1428959,2,Scotland,BJ McMullen,37.0,43.0,6.0,0.0,86.05,False,not out,['-'],
+1428959,2,Scotland,C Tear,4.0,7.0,1.0,0.0,57.14,True,caught,,Fayyaz Butt
+1428959,2,Scotland,HG Munsey,23.0,28.0,4.0,0.0,82.14,True,bowled,,Bilal Khan
+1428959,2,Scotland,RD Berrington,24.0,32.0,2.0,0.0,75.0,False,not out,['-'],
+1428959,2,Scotland,MH Cross,,,,,,False,DNB,,
+1428959,2,Scotland,MA Leask,,,,,,False,DNB,,
+1428959,2,Scotland,CN Greaves,,,,,,False,DNB,,
+1428959,2,Scotland,J Jarvis,,,,,,False,DNB,,
+1428959,2,Scotland,C Cassell,,,,,,False,DNB,,
+1428959,2,Scotland,GT Main,,,,,,False,DNB,,
+1428959,2,Scotland,BJ Currie,,,,,,False,DNB,,
+1428960,1,Namibia,BM Scholtz,3.0,6.0,0.0,0.0,50.0,True,caught,,Fayyaz Butt
+1428960,1,Namibia,JJ Smit,41.0,76.0,2.0,1.0,53.95,True,bowled,,Shoaib Khan
+1428960,1,Namibia,JN Frylinck,12.0,36.0,1.0,0.0,33.33,True,lbw,,Bilal Khan
+1428960,1,Namibia,JP Kotze,5.0,10.0,0.0,0.0,50.0,True,caught,,Bilal Khan
+1428960,1,Namibia,JT Brassell,1.0,2.0,0.0,0.0,50.0,True,run out,,Fayyaz Butt
+1428960,1,Namibia,L Louwrens,4.0,16.0,1.0,0.0,25.0,True,caught,,Kaleemullah
+1428960,1,Namibia,M van Lingen,40.0,57.0,7.0,0.0,70.18,True,caught,,Jay Odedra
+1428960,1,Namibia,MB Kruger,73.0,92.0,6.0,0.0,79.35,True,lbw,,Fayyaz Butt
+1428960,1,Namibia,MG Erasmus,8.0,10.0,1.0,0.0,80.0,True,caught,,Bilal Khan
+1428960,1,Namibia,T Lungameni,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1428960,2,Oman,Aqib Ilyas,68.0,129.0,5.0,1.0,52.71,True,run out,,BM Scholtz
+1428960,2,Oman,Fayyaz Butt,8.0,14.0,0.0,0.0,57.14,False,not out,['-'],
+1428960,2,Oman,KH Prajapati,0.0,1.0,0.0,0.0,0.0,True,caught,,B Shikongo
+1428960,2,Oman,Khalid Kail,43.0,55.0,4.0,1.0,78.18,False,not out,['-'],
+1428960,2,Oman,PS Athavale,18.0,29.0,3.0,0.0,62.07,True,caught,,T Lungameni
+1428960,2,Oman,Shoaib Khan,26.0,38.0,4.0,0.0,68.42,False,not out,['-'],
+1428960,2,Oman,Zeeshan Maqsood,15.0,33.0,1.0,0.0,45.45,True,lbw,,JT Brassell
+1428960,1,Namibia,B Shikongo,,,,,,False,DNB,,
+1428960,2,Oman,Ayan Khan,,,,,,False,DNB,,
+1428960,2,Oman,Jay Odedra,,,,,,False,DNB,,
+1428960,2,Oman,Kaleemullah,,,,,,False,DNB,,
+1428960,2,Oman,Bilal Khan,,,,,,False,DNB,,
+1428961,1,Scotland,BJ McMullen,15.0,18.0,2.0,1.0,83.33,True,bowled,,S Fouché
+1428961,1,Scotland,C Tear,16.0,21.0,3.0,0.0,76.19,True,bowled,,B Shikongo
+1428961,1,Scotland,CN Greaves,31.0,26.0,2.0,1.0,119.23,False,not out,['-'],
+1428961,1,Scotland,MA Leask,9.0,15.0,0.0,0.0,60.0,True,run out,,S Fouché
+1428961,1,Scotland,MH Cross,7.0,7.0,1.0,0.0,100.0,True,caught,,S Fouché
+1428961,1,Scotland,MM English,107.0,124.0,9.0,2.0,86.29,False,not out,['-'],
+1428961,1,Scotland,MRJ Watt,10.0,13.0,0.0,0.0,76.92,False,not out,['-'],
+1428961,1,Scotland,RD Berrington,89.0,83.0,11.0,1.0,107.23,True,caught,,S Fouché
+1428961,2,Namibia,B Shikongo,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1428961,2,Namibia,BM Scholtz,1.0,5.0,0.0,0.0,20.0,True,caught,,GT Main
+1428961,2,Namibia,JJ Smit,11.0,21.0,1.0,0.0,52.38,True,caught,,BJ Currie
+1428961,2,Namibia,JN Frylinck,6.0,19.0,1.0,0.0,31.58,True,lbw,,BJ McMullen
+1428961,2,Namibia,JP Kotze,0.0,1.0,0.0,0.0,0.0,True,lbw,,BJ Currie
+1428961,2,Namibia,M van Lingen,1.0,10.0,0.0,0.0,10.0,True,caught,,BJ McMullen
+1428961,2,Namibia,MB Kruger,27.0,43.0,4.0,0.0,62.79,True,caught,,GT Main
+1428961,2,Namibia,MG Erasmus,53.0,76.0,6.0,0.0,69.74,True,caught,,BJ Currie
+1428961,2,Namibia,S Fouché,18.0,19.0,2.0,0.0,94.74,True,bowled,,MA Leask
+1428961,2,Namibia,T Lungameni,3.0,15.0,0.0,0.0,20.0,True,caught,,GT Main
+1428961,2,Namibia,ZE Green,28.0,36.0,4.0,0.0,77.78,True,bowled,,MA Leask
+1428961,1,Scotland,C Cassell,,,,,,False,DNB,,
+1428961,1,Scotland,GT Main,,,,,,False,DNB,,
+1428961,1,Scotland,BJ Currie,,,,,,False,DNB,,
+1428961,2,Namibia,S FouchÃ©,,,,,,False,DNB,,
+1431088,1,South Africa,AL Phehlukwayo,1.0,8.0,0.0,0.0,12.5,True,caught,,MR Adair
+1431088,1,South Africa,BC Fortuin,28.0,34.0,2.0,0.0,82.35,True,caught,,GI Hume
+1431088,1,South Africa,HE van der Dussen,0.0,4.0,0.0,0.0,0.0,True,caught,,MR Adair
+1431088,1,South Africa,L Ngidi,20.0,18.0,1.0,1.0,111.11,False,not out,['-'],
+1431088,1,South Africa,LB Williams,13.0,11.0,2.0,0.0,118.18,True,caught,,CA Young
+1431088,1,South Africa,OEG Baartman,3.0,3.0,0.0,0.0,100.0,False,not out,['-'],
+1431088,1,South Africa,PWA Mulder,11.0,19.0,1.0,0.0,57.89,True,caught,,CA Young
+1431088,1,South Africa,RD Rickelton,91.0,103.0,7.0,3.0,88.35,True,bowled,,AR McBrine
+1431088,1,South Africa,T Bavuma,4.0,4.0,1.0,0.0,100.0,True,bowled,,CA Young
+1431088,1,South Africa,T Stubbs,79.0,88.0,2.0,4.0,89.77,True,caught,,MR Adair
+1431088,1,South Africa,T de Zorzi,12.0,14.0,1.0,0.0,85.71,True,caught,,MR Adair
+1431088,2,Ireland,A Balbirnie,20.0,31.0,2.0,1.0,64.52,True,bowled,,LB Williams
+1431088,2,Ireland,AR McBrine,14.0,20.0,0.0,0.0,70.0,True,caught,,LB Williams
+1431088,2,Ireland,C Campher,20.0,36.0,2.0,1.0,55.56,True,caught,,LB Williams
+1431088,2,Ireland,CA Young,12.0,10.0,1.0,1.0,120.0,False,not out,['-'],
+1431088,2,Ireland,G Hoey,1.0,3.0,0.0,0.0,33.33,True,lbw,,BC Fortuin
+1431088,2,Ireland,GH Dockrell,21.0,32.0,2.0,0.0,65.62,True,bowled,,PWA Mulder
+1431088,2,Ireland,GI Hume,9.0,22.0,2.0,0.0,40.91,True,caught,,BC Fortuin
+1431088,2,Ireland,HT Tector,12.0,9.0,3.0,0.0,133.33,True,lbw,,LB Williams
+1431088,2,Ireland,MR Adair,12.0,22.0,1.0,0.0,54.55,True,caught,,L Ngidi
+1431088,2,Ireland,PR Stirling,2.0,2.0,0.0,0.0,100.0,True,bowled,,L Ngidi
+1431088,2,Ireland,ST Doheny,3.0,8.0,0.0,0.0,37.5,True,bowled,,OEG Baartman
+1431089,1,South Africa,AL Phehlukwayo,4.0,4.0,0.0,0.0,100.0,False,not out,['-'],
+1431089,1,South Africa,HE van der Dussen,35.0,39.0,3.0,0.0,89.74,True,bowled,,G Hoey
+1431089,1,South Africa,K Verreynne,67.0,65.0,5.0,0.0,103.08,True,stumped,,AR McBrine
+1431089,1,South Africa,PWA Mulder,43.0,35.0,3.0,1.0,122.86,True,caught,,CA Young
+1431089,1,South Africa,RD Rickelton,40.0,40.0,3.0,1.0,100.0,True,retired hurt,,C Campher
+1431089,1,South Africa,T Bavuma,35.0,39.0,4.0,1.0,89.74,False,not out,['-'],
+1431089,1,South Africa,T Stubbs,112.0,83.0,8.0,3.0,134.94,False,not out,['-'],
+1431089,2,Ireland,A Balbirnie,1.0,7.0,0.0,0.0,14.29,True,bowled,,LB Williams
+1431089,2,Ireland,AR McBrine,10.0,20.0,1.0,0.0,50.0,True,lbw,,BC Fortuin
+1431089,2,Ireland,C Campher,17.0,14.0,2.0,0.0,121.43,True,caught,,LB Williams
+1431089,2,Ireland,CA Young,29.0,21.0,3.0,1.0,138.1,False,not out,['-'],
+1431089,2,Ireland,G Hoey,23.0,27.0,2.0,1.0,85.19,True,caught,,L Ngidi
+1431089,2,Ireland,GH Dockrell,11.0,10.0,2.0,0.0,110.0,True,caught,,AL Phehlukwayo
+1431089,2,Ireland,GI Hume,21.0,23.0,0.0,2.0,91.3,True,bowled,,BC Fortuin
+1431089,2,Ireland,HT Tector,20.0,30.0,2.0,0.0,66.67,True,caught,,OEG Baartman
+1431089,2,Ireland,MR Adair,21.0,32.0,2.0,1.0,65.62,True,caught,,PWA Mulder
+1431089,2,Ireland,PR Stirling,5.0,7.0,1.0,0.0,71.43,True,bowled,,L Ngidi
+1431089,2,Ireland,ST Doheny,0.0,1.0,0.0,0.0,0.0,True,lbw,,LB Williams
+1431089,1,South Africa,BC Fortuin,,,,,,False,DNB,,
+1431089,1,South Africa,L Ngidi,,,,,,False,DNB,,
+1431089,1,South Africa,OEG Baartman,,,,,,False,DNB,,
+1431089,1,South Africa,LB Williams,,,,,,False,DNB,,
+1431090,1,Ireland,A Balbirnie,45.0,75.0,4.0,1.0,60.0,True,caught,,LB Williams
+1431090,1,Ireland,C Campher,34.0,37.0,4.0,1.0,91.89,True,bowled,,OEG Baartman
+1431090,1,Ireland,CA Young,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1431090,1,Ireland,F Hand,0.0,1.0,0.0,0.0,0.0,True,lbw,,LB Williams
+1431090,1,Ireland,GH Dockrell,6.0,7.0,1.0,0.0,85.71,True,caught,,AL Phehlukwayo
+1431090,1,Ireland,GI Hume,1.0,2.0,0.0,0.0,50.0,True,bowled,,LB Williams
+1431090,1,Ireland,HT Tector,60.0,49.0,4.0,1.0,122.45,True,run out,,AL Phehlukwayo
+1431090,1,Ireland,L Tucker,26.0,29.0,3.0,0.0,89.66,True,caught,,AL Phehlukwayo
+1431090,1,Ireland,MJ Humphreys,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1431090,1,Ireland,MR Adair,8.0,12.0,0.0,0.0,66.67,True,bowled,,LB Williams
+1431090,1,Ireland,PR Stirling,88.0,93.0,8.0,3.0,94.62,True,bowled,,OEG Baartman
+1431090,2,South Africa,AL Phehlukwayo,23.0,28.0,4.0,0.0,82.14,True,caught,,F Hand
+1431090,2,South Africa,BC Fortuin,11.0,19.0,1.0,0.0,57.89,True,bowled,,MJ Humphreys
+1431090,2,South Africa,HE van der Dussen,3.0,9.0,0.0,0.0,33.33,True,lbw,,MR Adair
+1431090,2,South Africa,JF Smith,91.0,95.0,9.0,4.0,95.79,True,caught,,GI Hume
+1431090,2,South Africa,K Verreynne,38.0,38.0,6.0,0.0,100.0,True,lbw,,CA Young
+1431090,2,South Africa,L Ngidi,9.0,22.0,2.0,0.0,40.91,True,caught,,GI Hume
+1431090,2,South Africa,LB Williams,2.0,9.0,0.0,0.0,22.22,True,caught,,CA Young
+1431090,2,South Africa,OEG Baartman,0.0,5.0,0.0,0.0,0.0,False,not out,['-'],
+1431090,2,South Africa,RD Rickelton,4.0,5.0,0.0,0.0,80.0,True,caught,,MR Adair
+1431090,2,South Africa,RR Hendricks,1.0,7.0,0.0,0.0,14.29,True,caught,,GI Hume
+1431090,2,South Africa,T Stubbs,20.0,49.0,1.0,0.0,40.82,True,caught,,CA Young
+1432214,1,South Africa,AK Markram,35.0,54.0,1.0,0.0,64.81,True,caught,,Saim Ayub
+1432214,1,South Africa,AL Phehlukwayo,1.0,6.0,0.0,0.0,16.67,True,caught,,Abrar Ahmed
+1432214,1,South Africa,H Klaasen,86.0,97.0,7.0,2.0,88.66,True,bowled,,Shaheen Shah Afridi
+1432214,1,South Africa,HE van der Dussen,8.0,14.0,1.0,0.0,57.14,True,bowled,,Agha Salman
+1432214,1,South Africa,K Rabada,11.0,22.0,1.0,0.0,50.0,True,run out,,Haris Rauf
+1432214,1,South Africa,M Jansen,10.0,27.0,0.0,0.0,37.04,True,caught,,Abrar Ahmed
+1432214,1,South Africa,OEG Baartman,10.0,16.0,0.0,0.0,62.5,False,not out,['-'],
+1432214,1,South Africa,RD Rickelton,36.0,38.0,7.0,0.0,94.74,True,bowled,,Agha Salman
+1432214,1,South Africa,T Stubbs,1.0,2.0,0.0,0.0,50.0,True,bowled,,Agha Salman
+1432214,1,South Africa,T de Zorzi,33.0,28.0,6.0,0.0,117.86,True,lbw,,Agha Salman
+1432214,2,Pakistan,Abdullah Shafique,0.0,4.0,0.0,0.0,0.0,True,bowled,,M Jansen
+1432214,2,Pakistan,Agha Salman,82.0,92.0,4.0,2.0,89.13,False,not out,['-'],
+1432214,2,Pakistan,Babar Azam,23.0,39.0,3.0,0.0,58.97,True,caught,,OEG Baartman
+1432214,2,Pakistan,Irfan Khan,1.0,2.0,0.0,0.0,50.0,True,caught and bowled,,K Rabada
+1432214,2,Pakistan,Kamran Ghulam,4.0,14.0,0.0,0.0,28.57,True,run out,,AK Markram
+1432214,2,Pakistan,Mohammad Rizwan,1.0,5.0,0.0,0.0,20.0,True,bowled,,OEG Baartman
+1432214,2,Pakistan,Naseem Shah,9.0,17.0,0.0,0.0,52.94,False,not out,['-'],
+1432214,2,Pakistan,Saim Ayub,109.0,124.0,10.0,3.0,87.9,True,caught,,K Rabada
+1432214,2,Pakistan,Shaheen Shah Afridi,0.0,8.0,0.0,0.0,0.0,True,bowled,,T Shamsi
+1432214,1,South Africa,T Shamsi,,,,,,False,DNB,,
+1432214,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1432214,2,Pakistan,Abrar Ahmed,,,,,,False,DNB,,
+1432215,1,Pakistan,Abdullah Shafique,0.0,2.0,0.0,0.0,0.0,True,caught,,M Jansen
+1432215,1,Pakistan,Abrar Ahmed,4.0,2.0,1.0,0.0,200.0,False,not out,['-'],
+1432215,1,Pakistan,Agha Salman,33.0,30.0,3.0,1.0,110.0,True,caught,,BC Fortuin
+1432215,1,Pakistan,Babar Azam,73.0,98.0,7.0,0.0,74.49,True,caught,,AL Phehlukwayo
+1432215,1,Pakistan,Haris Rauf,6.0,2.0,0.0,1.0,300.0,True,caught,,KT Maphaka
+1432215,1,Pakistan,Irfan Khan,15.0,16.0,0.0,1.0,93.75,True,caught,,M Jansen
+1432215,1,Pakistan,Kamran Ghulam,63.0,32.0,4.0,5.0,196.88,True,caught,,KT Maphaka
+1432215,1,Pakistan,Mohammad Rizwan,80.0,83.0,7.0,3.0,96.39,True,caught and bowled,,KT Maphaka
+1432215,1,Pakistan,Naseem Shah,0.0,1.0,0.0,0.0,0.0,True,run out,,KT Maphaka
+1432215,1,Pakistan,Saim Ayub,25.0,33.0,5.0,0.0,75.76,True,caught,,KT Maphaka
+1432215,1,Pakistan,Shaheen Shah Afridi,16.0,9.0,2.0,1.0,177.78,True,caught,,M Jansen
+1432215,2,South Africa,AK Markram,21.0,30.0,1.0,1.0,70.0,True,lbw,,Abrar Ahmed
+1432215,2,South Africa,AL Phehlukwayo,1.0,6.0,0.0,0.0,16.67,True,lbw,,Shaheen Shah Afridi
+1432215,2,South Africa,BC Fortuin,9.0,13.0,0.0,0.0,69.23,True,caught,,Naseem Shah
+1432215,2,South Africa,DA Miller,29.0,39.0,1.0,1.0,74.36,True,caught,,Shaheen Shah Afridi
+1432215,2,South Africa,H Klaasen,97.0,75.0,8.0,4.0,129.33,True,caught,,Naseem Shah
+1432215,2,South Africa,HE van der Dussen,23.0,31.0,1.0,1.0,74.19,True,caught,,Agha Salman
+1432215,2,South Africa,KT Maphaka,1.0,2.0,0.0,0.0,50.0,True,caught,,Shaheen Shah Afridi
+1432215,2,South Africa,M Jansen,3.0,6.0,0.0,0.0,50.0,True,bowled,,Shaheen Shah Afridi
+1432215,2,South Africa,T Bavuma,12.0,17.0,1.0,0.0,70.59,True,caught,,Naseem Shah
+1432215,2,South Africa,T Shamsi,1.0,2.0,0.0,0.0,50.0,False,not out,['-'],
+1432215,2,South Africa,T de Zorzi,34.0,42.0,3.0,1.0,80.95,True,bowled,,Abrar Ahmed
+1432216,1,Pakistan,Abdullah Shafique,0.0,1.0,0.0,0.0,0.0,True,caught,,K Rabada
+1432216,1,Pakistan,Agha Salman,48.0,36.0,3.0,2.0,133.33,True,caught,,K Rabada
+1432216,1,Pakistan,Babar Azam,52.0,76.0,7.0,0.0,68.42,True,caught,,KT Maphaka
+1432216,1,Pakistan,Kamran Ghulam,0.0,1.0,0.0,0.0,0.0,True,caught,,BC Fortuin
+1432216,1,Pakistan,Mohammad Hasnain,4.0,2.0,1.0,0.0,200.0,True,caught,,M Jansen
+1432216,1,Pakistan,Mohammad Rizwan,53.0,53.0,5.0,1.0,100.0,True,caught,,BC Fortuin
+1432216,1,Pakistan,Naseem Shah,5.0,2.0,1.0,0.0,250.0,False,not out,['-'],
+1432216,1,Pakistan,Saim Ayub,101.0,98.0,13.0,2.0,103.06,True,caught,,C Bosch
+1432216,1,Pakistan,Shaheen Shah Afridi,0.0,1.0,0.0,0.0,0.0,True,caught,,K Rabada
+1432216,1,Pakistan,Sufiyan Muqeem,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1432216,1,Pakistan,Tayyab Tahir,28.0,26.0,2.0,1.0,107.69,True,caught and bowled,,M Jansen
+1432216,2,South Africa,AK Markram,19.0,28.0,3.0,0.0,67.86,True,caught,,Sufiyan Muqeem
+1432216,2,South Africa,BC Fortuin,8.0,17.0,0.0,1.0,47.06,True,caught,,Naseem Shah
+1432216,2,South Africa,C Bosch,40.0,44.0,5.0,0.0,90.91,False,not out,['-'],
+1432216,2,South Africa,DA Miller,3.0,6.0,0.0,0.0,50.0,True,caught,,Saim Ayub
+1432216,2,South Africa,H Klaasen,81.0,43.0,12.0,2.0,188.37,True,caught,,Shaheen Shah Afridi
+1432216,2,South Africa,HE van der Dussen,35.0,54.0,4.0,1.0,64.81,True,lbw,,Mohammad Hasnain
+1432216,2,South Africa,K Rabada,14.0,13.0,1.0,1.0,107.69,True,lbw,,Sufiyan Muqeem
+1432216,2,South Africa,KT Maphaka,0.0,1.0,0.0,0.0,0.0,True,bowled,,Sufiyan Muqeem
+1432216,2,South Africa,M Jansen,26.0,22.0,2.0,2.0,118.18,True,caught,,Sufiyan Muqeem
+1432216,2,South Africa,T Bavuma,8.0,6.0,2.0,0.0,133.33,True,caught,,Naseem Shah
+1432216,2,South Africa,T de Zorzi,26.0,25.0,2.0,2.0,104.0,True,caught and bowled,,Shaheen Shah Afridi
+1433370,1,England,AU Rashid,15.0,20.0,2.0,0.0,75.0,True,caught,,AS Joseph
+1433370,1,England,DR Mousley,8.0,12.0,0.0,0.0,66.67,True,caught,,G Motie
+1433370,1,England,J Overton,0.0,1.0,0.0,0.0,0.0,True,lbw,,G Motie
+1433370,1,England,JA Turner,2.0,5.0,0.0,0.0,40.0,False,not out,['-'],
+1433370,1,England,JC Archer,7.0,10.0,1.0,0.0,70.0,True,caught,,AS Joseph
+1433370,1,England,JG Bethell,27.0,33.0,3.0,0.0,81.82,True,caught,,MW Forde
+1433370,1,England,JM Cox,17.0,32.0,2.0,0.0,53.12,True,caught,,MW Forde
+1433370,1,England,LS Livingstone,48.0,49.0,3.0,2.0,97.96,True,caught and bowled,,G Motie
+1433370,1,England,PD Salt,18.0,30.0,3.0,0.0,60.0,True,caught,,JNT Seales
+1433370,1,England,SM Curran,37.0,57.0,2.0,0.0,64.91,True,caught,,G Motie
+1433370,1,England,WG Jacks,19.0,28.0,3.0,0.0,67.86,True,caught,,JNT Seales
+1433370,2,West Indies,BA King,30.0,57.0,3.0,0.0,52.63,True,caught,,LS Livingstone
+1433370,2,West Indies,E Lewis,94.0,73.0,5.0,8.0,128.77,True,caught,,AU Rashid
+1433370,2,West Indies,KU Carty,19.0,20.0,2.0,0.0,95.0,False,not out,['-'],
+1433370,2,West Indies,SD Hope,6.0,10.0,0.0,0.0,60.0,False,not out,['-'],
+1433370,2,West Indies,SE Rutherford,,,,,,False,DNB,,
+1433370,2,West Indies,SO Hetmyer,,,,,,False,DNB,,
+1433370,2,West Indies,RL Chase,,,,,,False,DNB,,
+1433370,2,West Indies,G Motie,,,,,,False,DNB,,
+1433370,2,West Indies,AS Joseph,,,,,,False,DNB,,
+1433370,2,West Indies,MW Forde,,,,,,False,DNB,,
+1433370,2,West Indies,JNT Seales,,,,,,False,DNB,,
+1433371,1,West Indies,BA King,7.0,10.0,1.0,0.0,70.0,True,caught,,JA Turner
+1433371,1,West Indies,E Lewis,4.0,6.0,0.0,0.0,66.67,True,caught,,JA Turner
+1433371,1,West Indies,KU Carty,71.0,77.0,5.0,1.0,92.21,True,bowled,,AU Rashid
+1433371,1,West Indies,MW Forde,23.0,11.0,0.0,3.0,209.09,False,not out,['-'],
+1433371,1,West Indies,RL Chase,20.0,22.0,2.0,0.0,90.91,False,not out,['-'],
+1433371,1,West Indies,SD Hope,117.0,129.0,8.0,4.0,90.7,True,caught,,JC Archer
+1433371,1,West Indies,SE Rutherford,54.0,38.0,4.0,3.0,142.11,True,caught,,LS Livingstone
+1433371,1,West Indies,SO Hetmyer,24.0,13.0,0.0,3.0,184.62,True,caught,,AU Rashid
+1433371,2,England,DR Mousley,4.0,4.0,0.0,0.0,100.0,False,not out,['-'],
+1433371,2,England,JG Bethell,55.0,57.0,4.0,2.0,96.49,True,caught,,RL Chase
+1433371,2,England,JM Cox,4.0,19.0,0.0,0.0,21.05,True,caught,,S Joseph
+1433371,2,England,LS Livingstone,124.0,90.0,5.0,9.0,137.78,False,not out,['-'],
+1433371,2,England,PD Salt,59.0,60.0,8.0,0.0,98.33,True,caught,,MW Forde
+1433371,2,England,SM Curran,52.0,53.0,3.0,1.0,98.11,True,caught,,MW Forde
+1433371,2,England,WG Jacks,12.0,11.0,1.0,0.0,109.09,True,caught,,MW Forde
+1433371,1,West Indies,G Motie,,,,,,False,DNB,,
+1433371,1,West Indies,JNT Seales,,,,,,False,DNB,,
+1433371,1,West Indies,S Joseph,,,,,,False,DNB,,
+1433371,2,England,AU Rashid,,,,,,False,DNB,,
+1433371,2,England,JC Archer,,,,,,False,DNB,,
+1433371,2,England,S Mahmood,,,,,,False,DNB,,
+1433371,2,England,JA Turner,,,,,,False,DNB,,
+1433372,1,England,DR Mousley,57.0,72.0,5.0,1.0,79.17,True,caught,,AS Joseph
+1433372,1,England,J Overton,32.0,21.0,4.0,1.0,152.38,True,caught,,MW Forde
+1433372,1,England,JC Archer,38.0,19.0,2.0,3.0,200.0,False,not out,['-'],
+1433372,1,England,JG Bethell,0.0,3.0,0.0,0.0,0.0,True,caught,,R Shepherd
+1433372,1,England,JM Cox,1.0,6.0,0.0,0.0,16.67,True,caught,,AS Joseph
+1433372,1,England,LS Livingstone,6.0,14.0,1.0,0.0,42.86,True,caught,,R Shepherd
+1433372,1,England,PD Salt,74.0,108.0,4.0,1.0,68.52,True,caught,,MW Forde
+1433372,1,England,SM Curran,40.0,52.0,4.0,0.0,76.92,True,caught,,RL Chase
+1433372,1,England,WG Jacks,5.0,10.0,1.0,0.0,50.0,True,caught,,MW Forde
+1433372,2,West Indies,BA King,102.0,120.0,13.0,1.0,85.0,True,bowled,,RJW Topley
+1433372,2,West Indies,E Lewis,19.0,18.0,2.0,1.0,105.56,True,caught,,J Overton
+1433372,2,West Indies,KU Carty,128.0,118.0,15.0,2.0,108.47,False,not out,['-'],
+1433372,2,West Indies,SD Hope,5.0,10.0,0.0,0.0,50.0,False,not out,['-'],
+1433372,1,England,AU Rashid,,,,,,False,DNB,,
+1433372,1,England,RJW Topley,,,,,,False,DNB,,
+1433372,2,West Indies,SE Rutherford,,,,,,False,DNB,,
+1433372,2,West Indies,SO Hetmyer,,,,,,False,DNB,,
+1433372,2,West Indies,RL Chase,,,,,,False,DNB,,
+1433372,2,West Indies,R Shepherd,,,,,,False,DNB,,
+1433372,2,West Indies,MW Forde,,,,,,False,DNB,,
+1433372,2,West Indies,G Motie,,,,,,False,DNB,,
+1433372,2,West Indies,AS Joseph,,,,,,False,DNB,,
+1433380,1,Bangladesh,Afif Hossain,28.0,29.0,4.0,0.0,96.55,True,caught,,R Shepherd
+1433380,1,Bangladesh,Jaker Ali,48.0,40.0,3.0,3.0,120.0,True,caught,,R Shepherd
+1433380,1,Bangladesh,Liton Das,2.0,7.0,0.0,0.0,28.57,True,caught,,R Shepherd
+1433380,1,Bangladesh,Mahmudullah,50.0,46.0,3.0,3.0,108.7,False,not out,['-'],
+1433380,1,Bangladesh,Mehedi Hasan Miraz,74.0,105.0,6.0,1.0,70.48,True,caught,,JNT Seales
+1433380,1,Bangladesh,Rishad Hossain,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1433380,1,Bangladesh,Soumya Sarkar,19.0,18.0,3.0,0.0,105.56,True,caught,,AS Joseph
+1433380,1,Bangladesh,Tanzid Hasan,60.0,62.0,6.0,3.0,96.77,True,caught,,AS Joseph
+1433380,2,West Indies,BA King,9.0,17.0,2.0,0.0,52.94,True,lbw,,Tanzim Hasan Sakib
+1433380,2,West Indies,E Lewis,16.0,31.0,3.0,0.0,51.61,True,lbw,,Nahid Rana
+1433380,2,West Indies,JP Greaves,41.0,31.0,5.0,0.0,132.26,False,not out,['-'],
+1433380,2,West Indies,KU Carty,21.0,38.0,2.0,0.0,55.26,True,caught,,Rishad Hossain
+1433380,2,West Indies,RL Chase,2.0,3.0,0.0,0.0,66.67,False,not out,['-'],
+1433380,2,West Indies,SD Hope,86.0,89.0,3.0,4.0,96.63,True,caught,,Mehedi Hasan Miraz
+1433380,2,West Indies,SE Rutherford,113.0,81.0,7.0,9.0,139.51,True,caught,,Soumya Sarkar
+1433380,1,Bangladesh,Taskin Ahmed,,,,,,False,DNB,,
+1433380,1,Bangladesh,Nahid Rana,,,,,,False,DNB,,
+1433380,1,Bangladesh,Tanzim Hasan Sakib,,,,,,False,DNB,,
+1433380,2,West Indies,R Shepherd,,,,,,False,DNB,,
+1433380,2,West Indies,G Motie,,,,,,False,DNB,,
+1433380,2,West Indies,JNT Seales,,,,,,False,DNB,,
+1433380,2,West Indies,AS Joseph,,,,,,False,DNB,,
+1433381,1,Bangladesh,Afif Hossain,24.0,30.0,4.0,0.0,80.0,True,caught,,G Motie
+1433381,1,Bangladesh,Jaker Ali,3.0,9.0,0.0,0.0,33.33,True,lbw,,G Motie
+1433381,1,Bangladesh,Liton Das,4.0,19.0,0.0,0.0,21.05,True,caught,,JNT Seales
+1433381,1,Bangladesh,Mahmudullah,62.0,94.0,2.0,4.0,65.96,True,caught,,JNT Seales
+1433381,1,Bangladesh,Mehedi Hasan Miraz,1.0,6.0,0.0,0.0,16.67,True,bowled,,JNT Seales
+1433381,1,Bangladesh,Nahid Rana,4.0,5.0,1.0,0.0,80.0,False,not out,['-'],
+1433381,1,Bangladesh,Rishad Hossain,0.0,9.0,0.0,0.0,0.0,True,caught,,MJ Mindley
+1433381,1,Bangladesh,Shoriful Islam,15.0,8.0,2.0,1.0,187.5,True,caught,,R Shepherd
+1433381,1,Bangladesh,Soumya Sarkar,2.0,5.0,0.0,0.0,40.0,True,caught,,JNT Seales
+1433381,1,Bangladesh,Tanzid Hasan,46.0,36.0,4.0,2.0,127.78,True,caught,,JP Greaves
+1433381,1,Bangladesh,Tanzim Hasan Sakib,45.0,63.0,4.0,2.0,71.43,True,caught and bowled,,RL Chase
+1433381,2,West Indies,BA King,82.0,80.0,8.0,3.0,102.5,True,bowled,,Nahid Rana
+1433381,2,West Indies,E Lewis,49.0,64.0,2.0,4.0,76.56,True,caught and bowled,,Rishad Hossain
+1433381,2,West Indies,KU Carty,45.0,48.0,7.0,0.0,93.75,True,caught,,Afif Hossain
+1433381,2,West Indies,SD Hope,17.0,21.0,1.0,1.0,80.95,False,not out,['-'],
+1433381,2,West Indies,SE Rutherford,24.0,15.0,1.0,2.0,160.0,False,not out,['-'],
+1433381,2,West Indies,JP Greaves,,,,,,False,DNB,,
+1433381,2,West Indies,RL Chase,,,,,,False,DNB,,
+1433381,2,West Indies,R Shepherd,,,,,,False,DNB,,
+1433381,2,West Indies,MJ Mindley,,,,,,False,DNB,,
+1433381,2,West Indies,G Motie,,,,,,False,DNB,,
+1433381,2,West Indies,JNT Seales,,,,,,False,DNB,,
+1433382,1,Bangladesh,Afif Hossain,15.0,29.0,2.0,0.0,51.72,True,run out,,R Shepherd
+1433382,1,Bangladesh,Jaker Ali,62.0,58.0,5.0,2.0,106.9,False,not out,['-'],
+1433382,1,Bangladesh,Liton Das,0.0,2.0,0.0,0.0,0.0,True,caught,,AS Joseph
+1433382,1,Bangladesh,Mahmudullah,84.0,66.0,7.0,4.0,127.27,False,not out,['-'],
+1433382,1,Bangladesh,Mehedi Hasan Miraz,77.0,74.0,8.0,2.0,104.05,False,not out,['-'],
+1433382,1,Bangladesh,Soumya Sarkar,73.0,74.0,6.0,4.0,98.65,True,lbw,,G Motie
+1433382,1,Bangladesh,Tanzid Hasan,0.0,6.0,0.0,0.0,0.0,True,caught,,AS Joseph
+1433382,2,West Indies,A Athanaze,7.0,8.0,1.0,0.0,87.5,True,bowled,,Nasum Ahmed
+1433382,2,West Indies,AA Jangoo,104.0,85.0,6.0,4.0,122.35,False,not out,['-'],
+1433382,2,West Indies,BA King,15.0,10.0,2.0,1.0,150.0,True,run out,,Nasum Ahmed
+1433382,2,West Indies,G Motie,44.0,31.0,3.0,3.0,141.94,False,not out,['-'],
+1433382,2,West Indies,KU Carty,95.0,89.0,10.0,2.0,106.74,True,caught,,Rishad Hossain
+1433382,2,West Indies,RL Chase,12.0,17.0,1.0,0.0,70.59,True,caught and bowled,,Rishad Hossain
+1433382,2,West Indies,SD Hope,3.0,6.0,0.0,0.0,50.0,True,caught,,Hasan Mahmud
+1433382,2,West Indies,SE Rutherford,30.0,33.0,5.0,0.0,90.91,True,caught,,Taskin Ahmed
+1433382,1,Bangladesh,Rishad Hossain,,,,,,False,DNB,,
+1433382,1,Bangladesh,Taskin Ahmed,,,,,,False,DNB,,
+1433382,1,Bangladesh,Hasan Mahmud,,,,,,False,DNB,,
+1433382,1,Bangladesh,Nasum Ahmed,,,,,,False,DNB,,
+1433382,2,West Indies,R Shepherd,,,,,,False,DNB,,
+1433382,2,West Indies,AS Joseph,,,,,,False,DNB,,
+1433382,2,West Indies,J Blades,,,,,,False,DNB,,
+1439904,1,England,AU Rashid,8.0,16.0,0.0,0.0,50.0,True,bowled,,RA Jadeja
+1439904,1,England,BA Carse,10.0,19.0,1.0,0.0,52.63,True,bowled,,Mohammed Shami
+1439904,1,England,BM Duckett,32.0,30.0,6.0,0.0,106.67,True,caught,,Harshit Rana
+1439904,1,England,HC Brook,0.0,3.0,0.0,0.0,0.0,True,caught,,Harshit Rana
+1439904,1,England,JC Archer,21.0,18.0,3.0,1.0,116.67,False,not out,['-'],
+1439904,1,England,JC Buttler,52.0,67.0,4.0,0.0,77.61,True,caught,,AR Patel
+1439904,1,England,JE Root,19.0,31.0,1.0,0.0,61.29,True,lbw,,RA Jadeja
+1439904,1,England,JG Bethell,51.0,64.0,3.0,1.0,79.69,True,lbw,,RA Jadeja
+1439904,1,England,LS Livingstone,5.0,10.0,0.0,0.0,50.0,True,caught,,Harshit Rana
+1439904,1,England,PD Salt,43.0,26.0,5.0,3.0,165.38,True,run out,,HH Pandya
+1439904,1,England,S Mahmood,2.0,4.0,0.0,0.0,50.0,True,stumped,,Kuldeep Yadav
+1439904,2,India,AR Patel,52.0,48.0,6.0,1.0,108.33,True,bowled,,AU Rashid
+1439904,2,India,HH Pandya,9.0,6.0,0.0,1.0,150.0,False,not out,['-'],
+1439904,2,India,KL Rahul,2.0,9.0,0.0,0.0,22.22,True,caught and bowled,,AU Rashid
+1439904,2,India,RA Jadeja,12.0,10.0,2.0,0.0,120.0,False,not out,['-'],
+1439904,2,India,RG Sharma,2.0,7.0,0.0,0.0,28.57,True,caught,,S Mahmood
+1439904,2,India,SS Iyer,59.0,36.0,9.0,2.0,163.89,True,lbw,,JG Bethell
+1439904,2,India,Shubman Gill,87.0,98.0,14.0,0.0,88.78,True,caught,,S Mahmood
+1439904,2,India,YBK Jaiswal,15.0,23.0,3.0,0.0,65.22,True,caught,,JC Archer
+1439904,2,India,Harshit Rana,,,,,,False,DNB,,
+1439904,2,India,Kuldeep Yadav,,,,,,False,DNB,,
+1439904,2,India,Mohammed Shami,,,,,,False,DNB,,
+1439905,1,England,AAP Atkinson,3.0,7.0,0.0,0.0,42.86,True,caught,,Mohammed Shami
+1439905,1,England,AU Rashid,14.0,6.0,3.0,0.0,233.33,False,not out,['-'],
+1439905,1,England,BM Duckett,65.0,59.0,10.0,0.0,110.17,True,caught,,RA Jadeja
+1439905,1,England,HC Brook,31.0,53.0,3.0,1.0,58.49,True,caught,,Harshit Rana
+1439905,1,England,J Overton,6.0,10.0,0.0,0.0,60.0,True,caught,,RA Jadeja
+1439905,1,England,JC Buttler,34.0,35.0,3.0,0.0,97.14,True,caught,,HH Pandya
+1439905,1,England,JE Root,69.0,73.0,6.0,0.0,94.52,True,caught,,RA Jadeja
+1439905,1,England,LS Livingstone,41.0,34.0,2.0,2.0,120.59,True,run out,,Harshit Rana
+1439905,1,England,MA Wood,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1439905,1,England,PD Salt,26.0,29.0,2.0,1.0,89.66,True,caught,,CV Varun
+1439905,1,England,S Mahmood,0.0,1.0,0.0,0.0,0.0,True,run out,,Mohammed Shami
+1439905,2,India,AR Patel,41.0,44.0,4.0,0.0,93.18,True,run out,,AU Rashid
+1439905,2,India,HH Pandya,10.0,6.0,2.0,0.0,166.67,True,caught,,AAP Atkinson
+1439905,2,India,KL Rahul,10.0,14.0,1.0,0.0,71.43,True,caught,,J Overton
+1439905,2,India,RA Jadeja,11.0,8.0,2.0,0.0,137.5,False,not out,['-'],
+1439905,2,India,RG Sharma,119.0,92.0,12.0,7.0,129.35,True,caught,,LS Livingstone
+1439905,2,India,SS Iyer,44.0,47.0,3.0,1.0,93.62,False,not out,['-'],
+1439905,2,India,Shubman Gill,60.0,54.0,9.0,1.0,111.11,True,bowled,,J Overton
+1439905,2,India,V Kohli,5.0,9.0,1.0,0.0,55.56,True,caught,,AU Rashid
+1439905,2,India,Harshit Rana,,,,,,False,DNB,,
+1439905,2,India,Mohammed Shami,,,,,,False,DNB,,
+1439905,2,India,CV Varun,,,,,,False,DNB,,
+1439906,1,India,AR Patel,13.0,13.0,2.0,0.0,100.0,True,caught,,JE Root
+1439906,1,India,Arshdeep Singh,2.0,2.0,0.0,0.0,100.0,True,run out,,MA Wood
+1439906,1,India,HH Pandya,17.0,9.0,0.0,2.0,188.89,True,bowled,,AU Rashid
+1439906,1,India,Harshit Rana,13.0,10.0,1.0,1.0,130.0,True,caught,,AAP Atkinson
+1439906,1,India,KL Rahul,40.0,29.0,3.0,1.0,137.93,True,lbw,,S Mahmood
+1439906,1,India,Kuldeep Yadav,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1439906,1,India,RG Sharma,1.0,2.0,0.0,0.0,50.0,True,caught,,MA Wood
+1439906,1,India,SS Iyer,78.0,67.0,8.0,2.0,116.42,True,caught,,AU Rashid
+1439906,1,India,Shubman Gill,112.0,104.0,14.0,3.0,107.69,True,bowled,,AU Rashid
+1439906,1,India,V Kohli,52.0,57.0,7.0,1.0,91.23,True,caught,,AU Rashid
+1439906,1,India,Washington Sundar,14.0,14.0,1.0,0.0,100.0,True,caught,,MA Wood
+1439906,2,England,AAP Atkinson,38.0,19.0,6.0,1.0,200.0,True,bowled,,AR Patel
+1439906,2,England,AU Rashid,0.0,5.0,0.0,0.0,0.0,True,bowled,,HH Pandya
+1439906,2,England,BM Duckett,34.0,22.0,8.0,0.0,154.55,True,caught,,Arshdeep Singh
+1439906,2,England,HC Brook,19.0,26.0,1.0,1.0,73.08,True,bowled,,Harshit Rana
+1439906,2,England,JC Buttler,6.0,9.0,0.0,0.0,66.67,True,bowled,,Harshit Rana
+1439906,2,England,JE Root,24.0,29.0,2.0,0.0,82.76,True,bowled,,AR Patel
+1439906,2,England,LS Livingstone,9.0,24.0,1.0,0.0,37.5,True,stumped,,Washington Sundar
+1439906,2,England,MA Wood,9.0,7.0,2.0,0.0,128.57,True,caught,,HH Pandya
+1439906,2,England,PD Salt,23.0,23.0,4.0,0.0,100.0,True,caught,,Arshdeep Singh
+1439906,2,England,S Mahmood,2.0,4.0,0.0,0.0,50.0,False,not out,['-'],
+1439906,2,England,T Banton,38.0,41.0,4.0,2.0,92.68,True,caught,,Kuldeep Yadav
+1442220,1,New Zealand,DJ Mitchell,81.0,86.0,2.0,4.0,94.19,True,caught,,Abrar Ahmed
+1442220,1,New Zealand,GD Phillips,106.0,76.0,6.0,7.0,139.47,False,not out,['-'],
+1442220,1,New Zealand,KS Williamson,58.0,90.0,7.0,0.0,64.44,True,caught,,Shaheen Shah Afridi
+1442220,1,New Zealand,MG Bracewell,31.0,23.0,1.0,3.0,134.78,True,caught,,Shaheen Shah Afridi
+1442220,1,New Zealand,MJ Santner,8.0,5.0,1.0,0.0,160.0,False,not out,['-'],
+1442220,1,New Zealand,R Ravindra,25.0,19.0,5.0,0.0,131.58,True,caught and bowled,,Abrar Ahmed
+1442220,1,New Zealand,TWM Latham,0.0,3.0,0.0,0.0,0.0,True,caught,,Haris Rauf
+1442220,1,New Zealand,WA Young,4.0,4.0,1.0,0.0,100.0,True,caught,,Shaheen Shah Afridi
+1442220,2,Pakistan,Abrar Ahmed,23.0,16.0,4.0,0.0,143.75,False,not out,['-'],
+1442220,2,Pakistan,Agha Salman,40.0,54.0,2.0,1.0,74.07,True,caught,,MG Bracewell
+1442220,2,Pakistan,Babar Azam,10.0,24.0,1.0,0.0,41.67,True,caught,,MG Bracewell
+1442220,2,Pakistan,Fakhar Zaman,84.0,70.0,7.0,4.0,120.0,True,lbw,,GD Phillips
+1442220,2,Pakistan,Kamran Ghulam,18.0,32.0,1.0,0.0,56.25,True,caught,,MJ Santner
+1442220,2,Pakistan,Khushdil Shah,15.0,18.0,1.0,0.0,83.33,True,stumped,,MJ Santner
+1442220,2,Pakistan,Mohammad Rizwan,3.0,11.0,0.0,0.0,27.27,True,lbw,,MJ Santner
+1442220,2,Pakistan,Naseem Shah,13.0,23.0,0.0,0.0,56.52,True,caught,,MJ Henry
+1442220,2,Pakistan,Shaheen Shah Afridi,10.0,16.0,1.0,0.0,62.5,True,caught,,MJ Henry
+1442220,2,Pakistan,Tayyab Tahir,30.0,29.0,4.0,0.0,103.45,True,caught,,MJ Henry
+1442220,1,New Zealand,MJ Henry,,,,,,False,DNB,,
+1442220,1,New Zealand,BV Sears,,,,,,False,DNB,,
+1442220,1,New Zealand,W O'Rourke,,,,,,False,DNB,,
+1442220,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1442221,1,South Africa,E Bosch,7.0,9.0,0.0,0.0,77.78,False,not out,['-'],
+1442221,1,South Africa,JF Smith,41.0,56.0,1.0,2.0,73.21,True,run out,,MG Bracewell
+1442221,1,South Africa,K Verreynne,1.0,4.0,0.0,0.0,25.0,True,bowled,,MG Bracewell
+1442221,1,South Africa,M Mpongwana,1.0,2.0,0.0,0.0,50.0,False,not out,['-'],
+1442221,1,South Africa,MP Breetzke,150.0,153.0,11.0,5.0,98.04,True,caught,,MJ Henry
+1442221,1,South Africa,PWA Mulder,64.0,62.0,5.0,1.0,103.23,True,caught,,W O'Rourke
+1442221,1,South Africa,S Muthusamy,2.0,3.0,0.0,0.0,66.67,True,caught,,MJ Henry
+1442221,1,South Africa,T Bavuma,20.0,26.0,3.0,0.0,76.92,True,caught,,W O'Rourke
+1442221,2,New Zealand,DJ Mitchell,10.0,11.0,0.0,1.0,90.91,True,caught,,S Muthusamy
+1442221,2,New Zealand,DP Conway,97.0,112.0,9.0,1.0,86.61,True,caught,,CJ Dala
+1442221,2,New Zealand,GD Phillips,28.0,32.0,1.0,1.0,87.5,False,not out,['-'],
+1442221,2,New Zealand,KS Williamson,133.0,115.0,13.0,2.0,115.65,False,not out,['-'],
+1442221,2,New Zealand,TWM Latham,0.0,1.0,0.0,0.0,0.0,True,lbw,,S Muthusamy
+1442221,2,New Zealand,WA Young,19.0,33.0,2.0,0.0,57.58,True,caught,,E Bosch
+1442221,1,South Africa,CJ Dala,,,,,,False,DNB,,
+1442221,1,South Africa,T Shamsi,,,,,,False,DNB,,
+1442221,1,South Africa,L Ngidi,,,,,,False,DNB,,
+1442221,2,New Zealand,MG Bracewell,,,,,,False,DNB,,
+1442221,2,New Zealand,MJ Santner,,,,,,False,DNB,,
+1442221,2,New Zealand,MJ Henry,,,,,,False,DNB,,
+1442221,2,New Zealand,BV Sears,,,,,,False,DNB,,
+1442221,2,New Zealand,W O'Rourke,,,,,,False,DNB,,
+1442222,1,South Africa,C Bosch,15.0,9.0,1.0,1.0,166.67,False,not out,['-'],
+1442222,1,South Africa,H Klaasen,87.0,56.0,11.0,3.0,155.36,True,caught,,Naseem Shah
+1442222,1,South Africa,K Verreynne,44.0,32.0,3.0,1.0,137.5,False,not out,['-'],
+1442222,1,South Africa,MP Breetzke,83.0,85.0,10.0,1.0,97.65,True,caught,,Khushdil Shah
+1442222,1,South Africa,PWA Mulder,2.0,6.0,0.0,0.0,33.33,True,caught,,Shaheen Shah Afridi
+1442222,1,South Africa,T Bavuma,82.0,98.0,13.0,0.0,83.67,True,run out,,Mohammad Hasnain
+1442222,1,South Africa,T de Zorzi,22.0,20.0,3.0,1.0,110.0,True,caught,,Shaheen Shah Afridi
+1442222,2,Pakistan,Agha Salman,134.0,106.0,16.0,2.0,126.42,True,caught,,L Ngidi
+1442222,2,Pakistan,Babar Azam,23.0,21.0,4.0,0.0,109.52,True,lbw,,PWA Mulder
+1442222,2,Pakistan,Fakhar Zaman,41.0,28.0,6.0,1.0,146.43,True,caught,,PWA Mulder
+1442222,2,Pakistan,Mohammad Rizwan,122.0,129.0,9.0,3.0,94.57,False,not out,['-'],
+1442222,2,Pakistan,Saud Shakeel,15.0,16.0,2.0,0.0,93.75,True,caught,,C Bosch
+1442222,2,Pakistan,Tayyab Tahir,4.0,1.0,1.0,0.0,400.0,False,not out,['-'],
+1442222,1,South Africa,S Muthusamy,,,,,,False,DNB,,
+1442222,1,South Africa,KA Maharaj,,,,,,False,DNB,,
+1442222,1,South Africa,L Ngidi,,,,,,False,DNB,,
+1442222,1,South Africa,T Shamsi,,,,,,False,DNB,,
+1442222,2,Pakistan,Khushdil Shah,,,,,,False,DNB,,
+1442222,2,Pakistan,Shaheen Shah Afridi,,,,,,False,DNB,,
+1442222,2,Pakistan,Mohammad Hasnain,,,,,,False,DNB,,
+1442222,2,Pakistan,Naseem Shah,,,,,,False,DNB,,
+1442222,2,Pakistan,Abrar Ahmed,,,,,,False,DNB,,
+1442990,1,Sri Lanka,A Dananjaya,17.0,22.0,2.0,0.0,77.27,True,caught,,Arshdeep Singh
+1442990,1,Sri Lanka,BKG Mendis,14.0,33.0,1.0,0.0,42.42,True,lbw,,S Dube
+1442990,1,Sri Lanka,DN Wellalage,67.0,65.0,7.0,2.0,103.08,False,not out,['-'],
+1442990,1,Sri Lanka,J Liyanage,20.0,26.0,1.0,1.0,76.92,True,caught,,AR Patel
+1442990,1,Sri Lanka,KIC Asalanka,14.0,21.0,2.0,0.0,66.67,True,caught,,Kuldeep Yadav
+1442990,1,Sri Lanka,M Shiraz,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1442990,1,Sri Lanka,P Nissanka,56.0,78.0,9.0,0.0,71.79,True,lbw,,Washington Sundar
+1442990,1,Sri Lanka,PWH de Silva,24.0,35.0,1.0,2.0,68.57,True,caught,,Arshdeep Singh
+1442990,1,Sri Lanka,S Samarawickrama,8.0,18.0,0.0,0.0,44.44,True,caught,,AR Patel
+1442990,1,Sri Lanka,WIA Fernando,1.0,7.0,0.0,0.0,14.29,True,caught,,Mohammed Siraj
+1442990,2,India,AR Patel,33.0,58.0,2.0,1.0,56.9,True,caught,,KIC Asalanka
+1442990,2,India,Arshdeep Singh,0.0,1.0,0.0,0.0,0.0,True,lbw,,KIC Asalanka
+1442990,2,India,KL Rahul,31.0,43.0,2.0,0.0,72.09,True,caught,,PWH de Silva
+1442990,2,India,Kuldeep Yadav,2.0,10.0,0.0,0.0,20.0,True,bowled,,PWH de Silva
+1442990,2,India,Mohammed Siraj,5.0,12.0,0.0,0.0,41.67,False,not out,['-'],
+1442990,2,India,RG Sharma,58.0,49.0,7.0,3.0,118.37,True,lbw,,DN Wellalage
+1442990,2,India,S Dube,25.0,24.0,1.0,2.0,104.17,True,lbw,,KIC Asalanka
+1442990,2,India,SS Iyer,23.0,23.0,4.0,0.0,100.0,True,bowled,,AM Fernando
+1442990,2,India,Shubman Gill,16.0,35.0,2.0,0.0,45.71,True,caught,,DN Wellalage
+1442990,2,India,V Kohli,24.0,32.0,2.0,0.0,75.0,True,lbw,,PWH de Silva
+1442990,2,India,Washington Sundar,5.0,4.0,1.0,0.0,125.0,True,lbw,,A Dananjaya
+1442990,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1442991,1,Sri Lanka,A Dananjaya,15.0,13.0,2.0,0.0,115.38,False,not out,['-'],
+1442991,1,Sri Lanka,BKG Mendis,30.0,43.0,3.0,0.0,69.77,True,lbw,,Washington Sundar
+1442991,1,Sri Lanka,DN Wellalage,39.0,37.0,1.0,2.0,105.41,True,caught,,Kuldeep Yadav
+1442991,1,Sri Lanka,J Liyanage,12.0,29.0,0.0,0.0,41.38,True,caught and bowled,,Kuldeep Yadav
+1442991,1,Sri Lanka,JDF Vandersay,1.0,1.0,0.0,0.0,100.0,True,run out,,Arshdeep Singh
+1442991,1,Sri Lanka,KIC Asalanka,25.0,42.0,3.0,0.0,59.52,True,caught,,Washington Sundar
+1442991,1,Sri Lanka,P Nissanka,0.0,1.0,0.0,0.0,0.0,True,caught,,Mohammed Siraj
+1442991,1,Sri Lanka,PHKD Mendis,40.0,45.0,4.0,0.0,88.89,True,run out,,Arshdeep Singh
+1442991,1,Sri Lanka,S Samarawickrama,14.0,32.0,1.0,0.0,43.75,True,caught,,AR Patel
+1442991,1,Sri Lanka,WIA Fernando,40.0,64.0,5.0,0.0,62.5,True,caught and bowled,,Washington Sundar
+1442991,2,India,AR Patel,44.0,44.0,4.0,2.0,100.0,True,caught and bowled,,KIC Asalanka
+1442991,2,India,Arshdeep Singh,3.0,4.0,0.0,0.0,75.0,False,not out,['-'],
+1442991,2,India,KL Rahul,0.0,2.0,0.0,0.0,0.0,True,bowled,,JDF Vandersay
+1442991,2,India,Kuldeep Yadav,7.0,29.0,0.0,0.0,24.14,True,run out,,KIC Asalanka
+1442991,2,India,Mohammed Siraj,4.0,18.0,0.0,0.0,22.22,True,lbw,,KIC Asalanka
+1442991,2,India,RG Sharma,64.0,44.0,5.0,4.0,145.45,True,caught,,JDF Vandersay
+1442991,2,India,S Dube,0.0,4.0,0.0,0.0,0.0,True,lbw,,JDF Vandersay
+1442991,2,India,SS Iyer,7.0,9.0,1.0,0.0,77.78,True,lbw,,JDF Vandersay
+1442991,2,India,Shubman Gill,35.0,46.0,3.0,0.0,76.09,True,caught,,JDF Vandersay
+1442991,2,India,V Kohli,14.0,19.0,2.0,0.0,73.68,True,lbw,,JDF Vandersay
+1442991,2,India,Washington Sundar,15.0,40.0,0.0,0.0,37.5,True,lbw,,KIC Asalanka
+1442991,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1442992,1,Sri Lanka,BKG Mendis,59.0,83.0,4.0,0.0,71.08,True,caught,,Kuldeep Yadav
+1442992,1,Sri Lanka,DN Wellalage,2.0,3.0,0.0,0.0,66.67,True,bowled,,R Parag
+1442992,1,Sri Lanka,J Liyanage,8.0,12.0,1.0,0.0,66.67,True,bowled,,Washington Sundar
+1442992,1,Sri Lanka,KIC Asalanka,10.0,12.0,0.0,1.0,83.33,True,lbw,,R Parag
+1442992,1,Sri Lanka,M Theekshana,3.0,4.0,0.0,0.0,75.0,False,not out,['-'],
+1442992,1,Sri Lanka,P Nissanka,45.0,65.0,5.0,2.0,69.23,True,caught,,AR Patel
+1442992,1,Sri Lanka,PHKD Mendis,23.0,19.0,0.0,1.0,121.05,False,not out,['-'],
+1442992,1,Sri Lanka,S Samarawickrama,0.0,1.0,0.0,0.0,0.0,True,lbw,,Mohammed Siraj
+1442992,1,Sri Lanka,WIA Fernando,96.0,102.0,9.0,2.0,94.12,True,lbw,,R Parag
+1442992,2,India,AR Patel,2.0,7.0,0.0,0.0,28.57,True,bowled,,DN Wellalage
+1442992,2,India,Kuldeep Yadav,6.0,30.0,0.0,0.0,20.0,True,lbw,,DN Wellalage
+1442992,2,India,R Parag,15.0,13.0,2.0,0.0,115.38,True,bowled,,JDF Vandersay
+1442992,2,India,RG Sharma,35.0,20.0,6.0,1.0,175.0,True,caught,,DN Wellalage
+1442992,2,India,RR Pant,6.0,9.0,1.0,0.0,66.67,True,stumped,,M Theekshana
+1442992,2,India,S Dube,9.0,14.0,1.0,0.0,64.29,True,lbw,,JDF Vandersay
+1442992,2,India,SS Iyer,8.0,7.0,2.0,0.0,114.29,True,lbw,,DN Wellalage
+1442992,2,India,Shubman Gill,6.0,14.0,0.0,0.0,42.86,True,bowled,,AM Fernando
+1442992,2,India,V Kohli,20.0,18.0,4.0,0.0,111.11,True,lbw,,DN Wellalage
+1442992,2,India,Washington Sundar,30.0,25.0,2.0,3.0,120.0,True,caught,,M Theekshana
+1442992,1,Sri Lanka,JDF Vandersay,,,,,,False,DNB,,
+1442992,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1442992,2,India,Mohammed Siraj,,,,,,False,DNB,,
+1443546,1,Sri Lanka,AM Fernando,2.0,8.0,0.0,0.0,25.0,True,caught,,JA Duffy
+1443546,1,Sri Lanka,BKG Mendis,2.0,8.0,0.0,0.0,25.0,True,bowled,,JA Duffy
+1443546,1,Sri Lanka,C Wickramasinghe,22.0,46.0,2.0,0.0,47.83,True,caught,,MJ Henry
+1443546,1,Sri Lanka,CBRLS Kumara,1.0,10.0,0.0,0.0,10.0,False,not out,['-'],
+1443546,1,Sri Lanka,E Malinga,4.0,12.0,1.0,0.0,33.33,True,caught,,MJ Henry
+1443546,1,Sri Lanka,J Liyanage,36.0,56.0,4.0,1.0,64.29,True,caught,,MJ Santner
+1443546,1,Sri Lanka,KIC Asalanka,0.0,5.0,0.0,0.0,0.0,True,caught,,NG Smith
+1443546,1,Sri Lanka,P Nissanka,9.0,19.0,0.0,1.0,47.37,True,caught,,MJ Henry
+1443546,1,Sri Lanka,PHKD Mendis,3.0,9.0,0.0,0.0,33.33,True,run out,,MJ Henry
+1443546,1,Sri Lanka,PWH de Silva,35.0,33.0,4.0,1.0,106.06,True,caught,,MJ Henry
+1443546,1,Sri Lanka,WIA Fernando,56.0,64.0,6.0,1.0,87.5,True,caught,,NG Smith
+1443546,2,New Zealand,MS Chapman,29.0,39.0,3.0,0.0,74.36,False,not out,['-'],
+1443546,2,New Zealand,R Ravindra,45.0,40.0,6.0,1.0,112.5,True,caught,,C Wickramasinghe
+1443546,2,New Zealand,WA Young,90.0,89.0,12.0,0.0,101.12,False,not out,['-'],
+1443546,2,New Zealand,DJ Mitchell,,,,,,False,DNB,,
+1443546,2,New Zealand,GD Phillips,,,,,,False,DNB,,
+1443546,2,New Zealand,MJ Hay,,,,,,False,DNB,,
+1443546,2,New Zealand,MJ Santner,,,,,,False,DNB,,
+1443546,2,New Zealand,NG Smith,,,,,,False,DNB,,
+1443546,2,New Zealand,MJ Henry,,,,,,False,DNB,,
+1443546,2,New Zealand,JA Duffy,,,,,,False,DNB,,
+1443546,2,New Zealand,W O'Rourke,,,,,,False,DNB,,
+1443547,1,New Zealand,DJ Mitchell,38.0,38.0,3.0,1.0,100.0,True,caught,,E Malinga
+1443547,1,New Zealand,GD Phillips,22.0,26.0,1.0,1.0,84.62,True,caught,,PWH de Silva
+1443547,1,New Zealand,MJ Henry,1.0,3.0,0.0,0.0,33.33,True,caught,,M Theekshana
+1443547,1,New Zealand,MJ Santner,20.0,15.0,2.0,1.0,133.33,True,caught,,M Theekshana
+1443547,1,New Zealand,MS Chapman,62.0,52.0,5.0,2.0,119.23,True,caught,,M Theekshana
+1443547,1,New Zealand,NG Smith,0.0,1.0,0.0,0.0,0.0,True,caught,,M Theekshana
+1443547,1,New Zealand,R Ravindra,79.0,65.0,9.0,1.0,121.54,True,caught,,PWH de Silva
+1443547,1,New Zealand,TWM Latham,1.0,1.0,0.0,0.0,100.0,True,run out,,J Liyanage
+1443547,1,New Zealand,W O'Rourke,3.0,6.0,0.0,0.0,50.0,False,not out,['-'],
+1443547,1,New Zealand,WA Young,16.0,19.0,2.0,0.0,84.21,True,bowled,,AM Fernando
+1443547,2,Sri Lanka,AM Fernando,0.0,2.0,0.0,0.0,0.0,False,not out,['-'],
+1443547,2,Sri Lanka,BKG Mendis,2.0,4.0,0.0,0.0,50.0,True,caught,,JA Duffy
+1443547,2,Sri Lanka,C Wickramasinghe,17.0,28.0,2.0,0.0,60.71,False,not out,['-'],
+1443547,2,Sri Lanka,E Malinga,4.0,6.0,1.0,0.0,66.67,True,caught,,W O'Rourke
+1443547,2,Sri Lanka,J Liyanage,22.0,31.0,2.0,1.0,70.97,True,caught,,NG Smith
+1443547,2,Sri Lanka,KIC Asalanka,4.0,3.0,1.0,0.0,133.33,True,run out,,MJ Henry
+1443547,2,Sri Lanka,M Theekshana,6.0,21.0,1.0,0.0,28.57,True,caught,,W O'Rourke
+1443547,2,Sri Lanka,P Nissanka,1.0,7.0,0.0,0.0,14.29,True,caught,,JA Duffy
+1443547,2,Sri Lanka,PHKD Mendis,64.0,68.0,5.0,3.0,94.12,True,run out,,NG Smith
+1443547,2,Sri Lanka,PWH de Silva,1.0,3.0,0.0,0.0,33.33,True,bowled,,MJ Santner
+1443547,2,Sri Lanka,WIA Fernando,10.0,15.0,2.0,0.0,66.67,True,caught,,MJ Henry
+1443547,1,New Zealand,JA Duffy,,,,,,False,DNB,,
+1443548,1,Sri Lanka,BKG Mendis,54.0,48.0,5.0,2.0,112.5,True,caught,,MJ Santner
+1443548,1,Sri Lanka,C Wickramasinghe,19.0,32.0,0.0,1.0,59.38,True,caught,,MJ Henry
+1443548,1,Sri Lanka,E Malinga,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1443548,1,Sri Lanka,J Liyanage,53.0,52.0,3.0,2.0,101.92,True,caught,,MJ Henry
+1443548,1,Sri Lanka,KIC Asalanka,0.0,5.0,0.0,0.0,0.0,True,caught,,MG Bracewell
+1443548,1,Sri Lanka,M Theekshana,11.0,8.0,2.0,0.0,137.5,False,not out,['-'],
+1443548,1,Sri Lanka,P Nissanka,66.0,44.0,6.0,5.0,150.0,True,caught,,MJ Santner
+1443548,1,Sri Lanka,PHKD Mendis,46.0,71.0,2.0,3.0,64.79,True,caught,,MJ Henry
+1443548,1,Sri Lanka,PWH de Silva,15.0,9.0,0.0,2.0,166.67,True,bowled,,MJ Henry
+1443548,1,Sri Lanka,WIA Fernando,17.0,34.0,2.0,0.0,50.0,True,caught,,NG Smith
+1443548,2,New Zealand,DJ Mitchell,2.0,5.0,0.0,0.0,40.0,True,caught,,E Malinga
+1443548,2,New Zealand,GD Phillips,0.0,3.0,0.0,0.0,0.0,True,caught,,AM Fernando
+1443548,2,New Zealand,MG Bracewell,13.0,22.0,1.0,1.0,59.09,True,caught,,J Liyanage
+1443548,2,New Zealand,MJ Henry,12.0,6.0,1.0,1.0,200.0,True,bowled,,E Malinga
+1443548,2,New Zealand,MJ Santner,2.0,17.0,0.0,0.0,11.76,True,caught,,M Theekshana
+1443548,2,New Zealand,MS Chapman,81.0,87.0,10.0,1.0,93.1,True,bowled,,M Theekshana
+1443548,2,New Zealand,NG Smith,17.0,30.0,1.0,0.0,56.67,True,caught,,E Malinga
+1443548,2,New Zealand,R Ravindra,1.0,6.0,0.0,0.0,16.67,True,bowled,,AM Fernando
+1443548,2,New Zealand,TWM Latham,0.0,4.0,0.0,0.0,0.0,True,caught,,AM Fernando
+1443548,2,New Zealand,W O'Rourke,1.0,4.0,0.0,0.0,25.0,False,not out,['-'],
+1443548,2,New Zealand,WA Young,0.0,9.0,0.0,0.0,0.0,True,caught,,M Theekshana
+1443548,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1444649,1,Zimbabwe,B Mavuta,1.0,7.0,0.0,0.0,14.29,True,caught,,Faisal Akram
+1444649,1,Zimbabwe,B Muzarabani,0.0,3.0,0.0,0.0,0.0,True,bowled,,Faisal Akram
+1444649,1,Zimbabwe,BJ Bennett,20.0,20.0,3.0,0.0,100.0,True,caught,,Aamer Jamal
+1444649,1,Zimbabwe,CR Ervine,6.0,12.0,1.0,0.0,50.0,True,caught,,Haris Rauf
+1444649,1,Zimbabwe,D Myers,8.0,12.0,1.0,0.0,66.67,True,caught,,Agha Salman
+1444649,1,Zimbabwe,J Gumbie,15.0,17.0,3.0,0.0,88.24,False,not out,['-'],
+1444649,1,Zimbabwe,R Ngarava,48.0,53.0,5.0,1.0,90.57,True,bowled,,Mohammad Hasnain
+1444649,1,Zimbabwe,SC Williams,23.0,17.0,2.0,2.0,135.29,True,caught,,Agha Salman
+1444649,1,Zimbabwe,Sikandar Raza,39.0,57.0,6.0,0.0,68.42,True,caught,,Faisal Akram
+1444649,1,Zimbabwe,T Gwandu,3.0,5.0,0.0,0.0,60.0,False,not out,['-'],
+1444649,1,Zimbabwe,T Marumani,29.0,46.0,2.0,1.0,63.04,True,run out,,Mohammad Hasnain
+1444649,2,Pakistan,Aamer Jamal,0.0,5.0,0.0,0.0,0.0,False,not out,['-'],
+1444649,2,Pakistan,Abdullah Shafique,1.0,5.0,0.0,0.0,20.0,True,caught,,B Muzarabani
+1444649,2,Pakistan,Agha Salman,4.0,11.0,0.0,0.0,36.36,True,lbw,,Sikandar Raza
+1444649,2,Pakistan,Haseebullah Khan,0.0,2.0,0.0,0.0,0.0,True,bowled,,Sikandar Raza
+1444649,2,Pakistan,Irfan Khan,7.0,15.0,1.0,0.0,46.67,True,bowled,,SC Williams
+1444649,2,Pakistan,Kamran Ghulam,17.0,28.0,3.0,0.0,60.71,True,caught,,SC Williams
+1444649,2,Pakistan,Mohammad Rizwan,19.0,43.0,1.0,0.0,44.19,False,not out,['-'],
+1444649,2,Pakistan,Saim Ayub,11.0,18.0,2.0,0.0,61.11,True,caught,,B Muzarabani
+1444649,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1444649,2,Pakistan,Mohammad Hasnain,,,,,,False,DNB,,
+1444649,2,Pakistan,Faisal Akram,,,,,,False,DNB,,
+1444650,1,Zimbabwe,B Mavuta,3.0,12.0,0.0,0.0,25.0,True,lbw,,Abrar Ahmed
+1444650,1,Zimbabwe,B Muzarabani,11.0,11.0,1.0,1.0,100.0,True,caught,,Faisal Akram
+1444650,1,Zimbabwe,BJ Bennett,14.0,28.0,0.0,0.0,50.0,True,caught,,Abrar Ahmed
+1444650,1,Zimbabwe,CR Ervine,18.0,35.0,1.0,0.0,51.43,True,caught,,Agha Salman
+1444650,1,Zimbabwe,D Myers,33.0,32.0,6.0,0.0,103.12,True,lbw,,Agha Salman
+1444650,1,Zimbabwe,J Gumbie,5.0,14.0,1.0,0.0,35.71,True,run out,,Abrar Ahmed
+1444650,1,Zimbabwe,R Ngarava,2.0,5.0,0.0,0.0,40.0,True,bowled,,Abrar Ahmed
+1444650,1,Zimbabwe,SC Williams,31.0,40.0,2.0,0.0,77.5,True,lbw,,Saim Ayub
+1444650,1,Zimbabwe,Sikandar Raza,17.0,17.0,0.0,2.0,100.0,True,caught,,Agha Salman
+1444650,1,Zimbabwe,T Gwandu,1.0,3.0,0.0,0.0,33.33,False,not out,['-'],
+1444650,1,Zimbabwe,T Marumani,4.0,3.0,1.0,0.0,133.33,False,not out,['-'],
+1444650,2,Pakistan,Abdullah Shafique,32.0,50.0,4.0,0.0,64.0,False,not out,['-'],
+1444650,2,Pakistan,Saim Ayub,113.0,63.0,17.0,3.0,179.37,False,not out,['-'],
+1444650,2,Pakistan,Kamran Ghulam,,,,,,False,DNB,,
+1444650,2,Pakistan,Mohammad Rizwan,,,,,,False,DNB,,
+1444650,2,Pakistan,Agha Salman,,,,,,False,DNB,,
+1444650,2,Pakistan,Tayyab Tahir,,,,,,False,DNB,,
+1444650,2,Pakistan,Irfan Khan,,,,,,False,DNB,,
+1444650,2,Pakistan,Aamer Jamal,,,,,,False,DNB,,
+1444650,2,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1444650,2,Pakistan,Faisal Akram,,,,,,False,DNB,,
+1444650,2,Pakistan,Abrar Ahmed,,,,,,False,DNB,,
+1444651,1,Pakistan,Aamer Jamal,5.0,4.0,1.0,0.0,125.0,False,not out,['-'],
+1444651,1,Pakistan,Abdullah Shafique,50.0,68.0,5.0,1.0,73.53,True,lbw,,Sikandar Raza
+1444651,1,Pakistan,Agha Salman,30.0,26.0,3.0,1.0,115.38,True,caught,,R Ngarava
+1444651,1,Pakistan,Irfan Khan,3.0,5.0,0.0,0.0,60.0,True,caught,,B Muzarabani
+1444651,1,Pakistan,Kamran Ghulam,103.0,100.0,10.0,4.0,103.0,True,caught,,R Ngarava
+1444651,1,Pakistan,Mohammad Rizwan,37.0,48.0,4.0,1.0,77.08,True,caught,,Sikandar Raza
+1444651,1,Pakistan,Saim Ayub,31.0,37.0,3.0,1.0,83.78,True,caught,,M Faraz Akram
+1444651,1,Pakistan,Tayyab Tahir,29.0,20.0,4.0,0.0,145.0,False,not out,['-'],
+1444651,2,Zimbabwe,BJ Bennett,37.0,27.0,4.0,2.0,137.04,True,caught,,Abrar Ahmed
+1444651,2,Zimbabwe,C Madande,20.0,33.0,1.0,0.0,60.61,True,lbw,,Haris Rauf
+1444651,2,Zimbabwe,CR Ervine,51.0,63.0,5.0,1.0,80.95,True,bowled,,Aamer Jamal
+1444651,2,Zimbabwe,D Myers,4.0,4.0,1.0,0.0,100.0,True,caught,,Saim Ayub
+1444651,2,Zimbabwe,J Gumbie,5.0,9.0,1.0,0.0,55.56,True,caught,,Saim Ayub
+1444651,2,Zimbabwe,M Faraz Akram,5.0,6.0,1.0,0.0,83.33,True,caught,,Kamran Ghulam
+1444651,2,Zimbabwe,R Ngarava,17.0,16.0,2.0,1.0,106.25,True,bowled,,Faisal Akram
+1444651,2,Zimbabwe,SC Williams,24.0,29.0,3.0,1.0,82.76,True,bowled,,Haris Rauf
+1444651,2,Zimbabwe,Sikandar Raza,16.0,25.0,1.0,0.0,64.0,True,caught,,Aamer Jamal
+1444651,2,Zimbabwe,T Marumani,24.0,30.0,4.0,0.0,80.0,True,lbw,,Abrar Ahmed
+1444651,1,Pakistan,Haris Rauf,,,,,,False,DNB,,
+1444651,1,Pakistan,Faisal Akram,,,,,,False,DNB,,
+1444651,1,Pakistan,Abrar Ahmed,,,,,,False,DNB,,
+1444651,2,Zimbabwe,B Muzarabani,,,,,,False,DNB,,
+1445034,1,Canada,A Johnson,1.0,7.0,0.0,0.0,14.29,True,bowled,,K Klein
+1445034,1,Canada,Aaditya Varadarajan,7.0,10.0,1.0,0.0,70.0,True,caught,,K Klein
+1445034,1,Canada,D Heyliger,12.0,10.0,2.0,0.0,120.0,True,caught,,PA van Meekeren
+1445034,1,Canada,DS Bajwa,25.0,47.0,2.0,0.0,53.19,True,caught,,A Dutt
+1445034,1,Canada,H Thaker,35.0,79.0,2.0,0.0,44.3,True,bowled,,M Levitt
+1445034,1,Canada,JOA Gordon,6.0,4.0,1.0,0.0,150.0,False,not out,['-'],
+1445034,1,Canada,Junaid Siddiqui,2.0,4.0,0.0,0.0,50.0,True,lbw,,VJ Kingma
+1445034,1,Canada,Kaleem Sana,7.0,3.0,0.0,1.0,233.33,True,bowled,,K Klein
+1445034,1,Canada,NR Kirton,1.0,4.0,0.0,0.0,25.0,True,caught,,PA van Meekeren
+1445034,1,Canada,S Movva,65.0,91.0,6.0,0.0,71.43,True,caught,,K Klein
+1445034,1,Canada,Saad Bin Zafar,22.0,36.0,1.0,0.0,61.11,True,caught,,PA van Meekeren
+1445034,2,Netherlands,M Levitt,45.0,50.0,8.0,0.0,90.0,True,caught,,D Heyliger
+1445034,2,Netherlands,MP O'Dowd,79.0,127.0,8.0,0.0,62.2,False,not out,['-'],
+1445034,2,Netherlands,NRJ Croes,6.0,15.0,0.0,0.0,40.0,True,bowled,,Saad Bin Zafar
+1445034,2,Netherlands,SA Edwards,1.0,7.0,0.0,0.0,14.29,True,lbw,,Saad Bin Zafar
+1445034,2,Netherlands,Shariz Ahmad,8.0,17.0,1.0,0.0,47.06,False,not out,['-'],
+1445034,2,Netherlands,Vikramjit Singh,29.0,50.0,0.0,0.0,58.0,True,caught,,JOA Gordon
+1445034,2,Netherlands,W Barresi,8.0,18.0,1.0,0.0,44.44,True,bowled,,Saad Bin Zafar
+1445034,2,Netherlands,K Klein,,,,,,False,DNB,,
+1445034,2,Netherlands,A Dutt,,,,,,False,DNB,,
+1445034,2,Netherlands,PA van Meekeren,,,,,,False,DNB,,
+1445034,2,Netherlands,VJ Kingma,,,,,,False,DNB,,
+1445035,1,United States of America,Aaron Jones,15.0,28.0,1.0,0.0,53.57,True,stumped,,H Thaker
+1445035,1,United States of America,MD Patel,121.0,96.0,7.0,5.0,126.04,False,not out,['-'],
+1445035,1,United States of America,Milind Kumar,0.0,1.0,0.0,0.0,0.0,True,lbw,,Saad Bin Zafar
+1445035,1,United States of America,SK Patel,63.0,86.0,5.0,1.0,73.26,True,bowled,,Pargat Singh
+1445035,1,United States of America,SR Taylor,27.0,50.0,5.0,0.0,54.0,True,caught,,D Heyliger
+1445035,1,United States of America,Shayan Jahangir,57.0,48.0,6.0,0.0,118.75,False,not out,['-'],
+1445035,2,Canada,A Johnson,55.0,42.0,7.0,4.0,130.95,True,caught,,Harmeet Singh
+1445035,2,Canada,Aaditya Varadarajan,4.0,22.0,0.0,0.0,18.18,True,lbw,,Jasdeep Singh
+1445035,2,Canada,D Heyliger,56.0,65.0,6.0,1.0,86.15,True,caught,,SC van Schalkwyk
+1445035,2,Canada,DS Bajwa,2.0,9.0,0.0,0.0,22.22,True,caught,,NP Kenjige
+1445035,2,Canada,H Thaker,77.0,80.0,7.0,1.0,96.25,True,caught,,SC van Schalkwyk
+1445035,2,Canada,JOA Gordon,7.0,2.0,0.0,1.0,350.0,False,not out,['-'],
+1445035,2,Canada,Kaleem Sana,10.0,9.0,0.0,1.0,111.11,False,not out,['-'],
+1445035,2,Canada,NR Kirton,14.0,18.0,2.0,0.0,77.78,True,caught,,Jasdeep Singh
+1445035,2,Canada,Pargat Singh,42.0,52.0,5.0,1.0,80.77,True,lbw,,NP Kenjige
+1445035,2,Canada,S Movva,1.0,3.0,0.0,0.0,33.33,True,caught,,NP Kenjige
+1445035,2,Canada,Saad Bin Zafar,7.0,7.0,1.0,0.0,100.0,True,caught,,SR Taylor
+1445035,1,United States of America,SC van Schalkwyk,,,,,,False,DNB,,
+1445035,1,United States of America,Harmeet Singh,,,,,,False,DNB,,
+1445035,1,United States of America,AA Paradkar,,,,,,False,DNB,,
+1445035,1,United States of America,NP Kenjige,,,,,,False,DNB,,
+1445035,1,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1445036,1,Netherlands,K Klein,18.0,13.0,1.0,1.0,138.46,False,not out,['-'],
+1445036,1,Netherlands,M Levitt,10.0,18.0,1.0,0.0,55.56,True,bowled,,J Drysdale
+1445036,1,Netherlands,MP O'Dowd,49.0,68.0,6.0,0.0,72.06,True,bowled,,SR Taylor
+1445036,1,Netherlands,NRJ Croes,4.0,1.0,1.0,0.0,400.0,False,not out,['-'],
+1445036,1,Netherlands,SA Edwards,65.0,55.0,6.0,0.0,118.18,True,run out,,Harmeet Singh
+1445036,1,Netherlands,Shariz Ahmad,16.0,41.0,0.0,0.0,39.02,True,bowled,,Milind Kumar
+1445036,1,Netherlands,Vikramjit Singh,59.0,84.0,4.0,0.0,70.24,False,not out,['-'],
+1445036,1,Netherlands,W Barresi,6.0,22.0,0.0,0.0,27.27,True,run out,,Milind Kumar
+1445036,2,United States of America,Aaron Jones,47.0,73.0,6.0,0.0,64.38,True,caught,,Shariz Ahmad
+1445036,2,United States of America,Harmeet Singh,1.0,13.0,0.0,0.0,7.69,True,caught,,PA van Meekeren
+1445036,2,United States of America,Jasdeep Singh,1.0,2.0,0.0,0.0,50.0,True,caught,,PA van Meekeren
+1445036,2,United States of America,MD Patel,0.0,4.0,0.0,0.0,0.0,True,caught,,VJ Kingma
+1445036,2,United States of America,Milind Kumar,69.0,83.0,4.0,1.0,83.13,True,caught,,K Klein
+1445036,2,United States of America,NP Kenjige,4.0,10.0,0.0,0.0,40.0,True,bowled,,VJ Kingma
+1445036,2,United States of America,SC van Schalkwyk,21.0,49.0,1.0,0.0,42.86,True,caught,,A Dutt
+1445036,2,United States of America,SK Patel,38.0,47.0,6.0,0.0,80.85,True,lbw,,Shariz Ahmad
+1445036,2,United States of America,SR Taylor,0.0,3.0,0.0,0.0,0.0,True,lbw,,VJ Kingma
+1445036,2,United States of America,Shayan Jahangir,20.0,25.0,2.0,0.0,80.0,True,caught and bowled,,A Dutt
+1445036,1,Netherlands,A Dutt,,,,,,False,DNB,,
+1445036,1,Netherlands,PA van Meekeren,,,,,,False,DNB,,
+1445036,1,Netherlands,VJ Kingma,,,,,,False,DNB,,
+1445036,2,United States of America,J Drysdale,,,,,,False,DNB,,
+1445037,1,Netherlands,A Dutt,6.0,11.0,0.0,0.0,54.55,False,not out,['-'],
+1445037,1,Netherlands,K Klein,10.0,18.0,0.0,0.0,55.56,True,caught,,D Heyliger
+1445037,1,Netherlands,M Levitt,0.0,6.0,0.0,0.0,0.0,True,caught,,Kaleem Sana
+1445037,1,Netherlands,MP O'Dowd,18.0,30.0,3.0,0.0,60.0,True,lbw,,H Thaker
+1445037,1,Netherlands,Musa Ahmed,8.0,23.0,0.0,0.0,34.78,True,caught,,Kaleem Sana
+1445037,1,Netherlands,NRJ Croes,31.0,45.0,3.0,0.0,68.89,True,caught,,Junaid Siddiqui
+1445037,1,Netherlands,PA van Meekeren,7.0,16.0,0.0,0.0,43.75,True,bowled,,Kaleem Sana
+1445037,1,Netherlands,SA Edwards,72.0,94.0,3.0,0.0,76.6,True,caught,,NR Kirton
+1445037,1,Netherlands,Shariz Ahmad,19.0,29.0,2.0,0.0,65.52,True,caught,,H Thaker
+1445037,1,Netherlands,VJ Kingma,0.0,1.0,0.0,0.0,0.0,True,bowled,,Kaleem Sana
+1445037,1,Netherlands,Vikramjit Singh,25.0,27.0,5.0,0.0,92.59,True,caught,,D Heyliger
+1445037,2,Canada,A Johnson,32.0,32.0,6.0,1.0,100.0,True,caught,,VJ Kingma
+1445037,2,Canada,D Heyliger,14.0,20.0,2.0,0.0,70.0,True,lbw,,Shariz Ahmad
+1445037,2,Canada,DS Bajwa,20.0,28.0,3.0,0.0,71.43,True,bowled,,VJ Kingma
+1445037,2,Canada,H Thaker,0.0,3.0,0.0,0.0,0.0,True,caught,,PA van Meekeren
+1445037,2,Canada,Junaid Siddiqui,5.0,19.0,0.0,0.0,26.32,True,lbw,,PA van Meekeren
+1445037,2,Canada,Kaleem Sana,4.0,7.0,1.0,0.0,57.14,True,caught,,PA van Meekeren
+1445037,2,Canada,NR Kirton,0.0,4.0,0.0,0.0,0.0,True,caught,,VJ Kingma
+1445037,2,Canada,Pargat Singh,5.0,6.0,1.0,0.0,83.33,True,caught,,PA van Meekeren
+1445037,2,Canada,Ravinderpal Singh,1.0,8.0,0.0,0.0,12.5,True,caught,,PA van Meekeren
+1445037,2,Canada,S Movva,47.0,77.0,4.0,0.0,61.04,False,not out,['-'],
+1445037,2,Canada,Saad Bin Zafar,12.0,24.0,0.0,0.0,50.0,True,lbw,,A Dutt
+1445038,1,United States of America,Aaron Jones,50.0,53.0,3.0,1.0,94.34,True,caught,,D Heyliger
+1445038,1,United States of America,Harmeet Singh,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1445038,1,United States of America,Jasdeep Singh,3.0,2.0,0.0,0.0,150.0,True,run out,,RR Joshi
+1445038,1,United States of America,MD Patel,26.0,35.0,2.0,0.0,74.29,True,bowled,,Saad Bin Zafar
+1445038,1,United States of America,Milind Kumar,47.0,33.0,5.0,0.0,142.42,True,caught,,Kaleem Sana
+1445038,1,United States of America,SC van Schalkwyk,6.0,3.0,1.0,0.0,200.0,True,run out,,RR Joshi
+1445038,1,United States of America,SK Patel,70.0,85.0,11.0,0.0,82.35,True,lbw,,Saad Bin Zafar
+1445038,1,United States of America,Shayan Jahangir,10.0,14.0,0.0,0.0,71.43,True,caught,,Kaleem Sana
+1445038,1,United States of America,Steven Ryan Taylor,46.0,81.0,5.0,0.0,56.79,True,caught,,Saad Bin Zafar
+1445038,2,Canada,A Johnson,10.0,17.0,2.0,0.0,58.82,True,lbw,,NP Kenjige
+1445038,2,Canada,Aaditya Varadarajan,25.0,34.0,0.0,0.0,73.53,True,caught,,Jasdeep Singh
+1445038,2,Canada,D Heyliger,2.0,6.0,0.0,0.0,33.33,True,bowled,,Harmeet Singh
+1445038,2,Canada,DS Bajwa,8.0,18.0,1.0,0.0,44.44,True,bowled,,Jasdeep Singh
+1445038,2,Canada,H Thaker,0.0,4.0,0.0,0.0,0.0,True,caught and bowled,,SC van Schalkwyk
+1445038,2,Canada,Kaleem Sana,4.0,4.0,0.0,0.0,100.0,True,caught,,SC van Schalkwyk
+1445038,2,Canada,NR Kirton,9.0,18.0,1.0,0.0,50.0,True,caught,,SC van Schalkwyk
+1445038,2,Canada,Pargat Singh,72.0,83.0,7.0,1.0,86.75,True,caught,,Yasir Mohammad
+1445038,2,Canada,RR Joshi,3.0,4.0,0.0,0.0,75.0,True,bowled,,SC van Schalkwyk
+1445038,2,Canada,S Movva,68.0,97.0,6.0,0.0,70.1,True,caught,,Harmeet Singh
+1445038,2,Canada,Saad Bin Zafar,5.0,6.0,0.0,0.0,83.33,False,not out,['-'],
+1445038,1,United States of America,NP Kenjige,,,,,,False,DNB,,
+1445038,1,United States of America,Yasir Mohammad,,,,,,False,DNB,,
+1445038,2,Canada,K Tathgur,,,,,,False,DNB,,
+1445039,1,Netherlands,A Dutt,10.0,21.0,0.0,0.0,47.62,True,caught,,SC van Schalkwyk
+1445039,1,Netherlands,C Floyd,1.0,6.0,0.0,0.0,16.67,True,lbw,,NP Kenjige
+1445039,1,Netherlands,K Klein,6.0,18.0,0.0,0.0,33.33,True,caught,,Harmeet Singh
+1445039,1,Netherlands,M Levitt,33.0,40.0,4.0,1.0,82.5,True,bowled,,AA Paradkar
+1445039,1,Netherlands,MP O'Dowd,77.0,129.0,6.0,0.0,59.69,True,caught,,SC van Schalkwyk
+1445039,1,Netherlands,Musa Ahmed,6.0,21.0,0.0,0.0,28.57,True,bowled,,SR Taylor
+1445039,1,Netherlands,NRJ Croes,27.0,34.0,4.0,0.0,79.41,True,caught,,Harmeet Singh
+1445039,1,Netherlands,PA van Meekeren,2.0,6.0,0.0,0.0,33.33,False,not out,['-'],
+1445039,1,Netherlands,SA Edwards,2.0,6.0,0.0,0.0,33.33,True,caught,,J Drysdale
+1445039,1,Netherlands,VJ Kingma,1.0,2.0,0.0,0.0,50.0,True,caught,,NP Kenjige
+1445039,1,Netherlands,Vikramjit Singh,18.0,22.0,2.0,0.0,81.82,True,caught,,Milind Kumar
+1445039,2,United States of America,AA Paradkar,12.0,31.0,0.0,0.0,38.71,True,caught,,PA van Meekeren
+1445039,2,United States of America,Aaron Jones,8.0,11.0,2.0,0.0,72.73,True,lbw,,K Klein
+1445039,2,United States of America,Harmeet Singh,20.0,18.0,1.0,2.0,111.11,True,caught,,PA van Meekeren
+1445039,2,United States of America,J Drysdale,2.0,6.0,0.0,0.0,33.33,False,not out,['-'],
+1445039,2,United States of America,MD Patel,66.0,81.0,8.0,1.0,81.48,True,caught and bowled,,A Dutt
+1445039,2,United States of America,Milind Kumar,9.0,18.0,1.0,0.0,50.0,True,bowled,,PA van Meekeren
+1445039,2,United States of America,NP Kenjige,17.0,21.0,1.0,0.0,80.95,True,lbw,,K Klein
+1445039,2,United States of America,SC van Schalkwyk,12.0,41.0,0.0,0.0,29.27,True,lbw,,K Klein
+1445039,2,United States of America,SK Patel,3.0,10.0,0.0,0.0,30.0,True,lbw,,K Klein
+1445039,2,United States of America,SR Taylor,0.0,6.0,0.0,0.0,0.0,True,caught,,VJ Kingma
+1445039,2,United States of America,Shayan Jahangir,20.0,39.0,2.0,0.0,51.28,True,run out,,K Klein
+1450690,1,Namibia,B Shikongo,3.0,9.0,0.0,0.0,33.33,False,not out,['-'],
+1450690,1,Namibia,BM Scholtz,0.0,1.0,0.0,0.0,0.0,True,caught,,SN Netravalkar
+1450690,1,Namibia,JI de Villiers,5.0,8.0,1.0,0.0,62.5,True,caught and bowled,,Harmeet Singh
+1450690,1,Namibia,JJ Smit,49.0,79.0,3.0,3.0,62.03,True,bowled,,SN Netravalkar
+1450690,1,Namibia,JN Frylinck,70.0,89.0,7.0,0.0,78.65,True,bowled,,Jasdeep Singh
+1450690,1,Namibia,JN Loftie-Eaton,17.0,29.0,2.0,0.0,58.62,True,caught,,NP Kenjige
+1450690,1,Namibia,JP Kotze,8.0,15.0,1.0,0.0,53.33,True,lbw,,J Drysdale
+1450690,1,Namibia,M van Lingen,5.0,23.0,0.0,0.0,21.74,True,caught,,J Drysdale
+1450690,1,Namibia,MB Kruger,1.0,5.0,0.0,0.0,20.0,True,lbw,,Milind Kumar
+1450690,1,Namibia,MG Erasmus,27.0,49.0,4.0,0.0,55.1,True,bowled,,Milind Kumar
+1450690,1,Namibia,T Lungameni,0.0,3.0,0.0,0.0,0.0,False,not out,['-'],
+1450690,2,United States of America,MD Patel,72.0,83.0,7.0,1.0,86.75,True,run out,,T Lungameni
+1450690,2,United States of America,Milind Kumar,0.0,1.0,0.0,0.0,0.0,True,lbw,,MG Erasmus
+1450690,2,United States of America,SJ Modani,36.0,36.0,2.0,2.0,100.0,False,not out,['-'],
+1450690,2,United States of America,SK Patel,9.0,25.0,0.0,0.0,36.0,True,caught,,T Lungameni
+1450690,2,United States of America,SR Mukkamalla,59.0,71.0,3.0,1.0,83.1,False,not out,['-'],
+1450690,2,United States of America,Shayan Jahangir,21.0,34.0,1.0,0.0,61.76,False,not out,['-'],
+1450690,2,United States of America,Harmeet Singh,,,,,,False,DNB,,
+1450690,2,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1450690,2,United States of America,NP Kenjige,,,,,,False,DNB,,
+1450690,2,United States of America,J Drysdale,,,,,,False,DNB,,
+1450690,2,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1450691,1,United Arab Emirates,A Sharafu,0.0,2.0,0.0,0.0,0.0,True,caught,,SN Netravalkar
+1450691,1,United Arab Emirates,A Sharma,31.0,39.0,4.0,1.0,79.49,True,caught,,NP Kenjige
+1450691,1,United Arab Emirates,Aayan Afzal Khan,0.0,1.0,0.0,0.0,0.0,True,bowled,,Jasdeep Singh
+1450691,1,United Arab Emirates,Ali Naseer,23.0,31.0,5.0,0.0,74.19,True,caught,,Milind Kumar
+1450691,1,United Arab Emirates,Basil Hameed,0.0,1.0,0.0,0.0,0.0,True,caught,,Jasdeep Singh
+1450691,1,United Arab Emirates,Junaid Siddique,0.0,3.0,0.0,0.0,0.0,True,bowled,,Jasdeep Singh
+1450691,1,United Arab Emirates,Muhammad Jawadullah,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1450691,1,United Arab Emirates,R Chopra,32.0,66.0,3.0,0.0,48.48,True,caught,,Milind Kumar
+1450691,1,United Arab Emirates,RN Bhatia,8.0,27.0,0.0,0.0,29.63,True,lbw,,Jasdeep Singh
+1450691,1,United Arab Emirates,V Sukumaran,2.0,16.0,0.0,0.0,12.5,True,caught,,NP Kenjige
+1450691,1,United Arab Emirates,Waseem Muhammad,2.0,7.0,0.0,0.0,28.57,True,caught,,SN Netravalkar
+1450691,2,United States of America,AGS Gous,66.0,55.0,12.0,1.0,120.0,False,not out,['-'],
+1450691,2,United States of America,SK Patel,38.0,43.0,5.0,0.0,88.37,False,not out,['-'],
+1450691,2,United States of America,MD Patel,,,,,,False,DNB,,
+1450691,2,United States of America,SR Mukkamalla,,,,,,False,DNB,,
+1450691,2,United States of America,Milind Kumar,,,,,,False,DNB,,
+1450691,2,United States of America,Shayan Jahangir,,,,,,False,DNB,,
+1450691,2,United States of America,Harmeet Singh,,,,,,False,DNB,,
+1450691,2,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1450691,2,United States of America,NP Kenjige,,,,,,False,DNB,,
+1450691,2,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1450691,2,United States of America,J Drysdale,,,,,,False,DNB,,
+1450692,1,Namibia,BM Scholtz,24.0,28.0,2.0,0.0,85.71,True,caught,,Ali Naseer
+1450692,1,Namibia,JI de Villiers,3.0,6.0,0.0,0.0,50.0,True,caught,,RN Bhatia
+1450692,1,Namibia,JJ Smit,14.0,27.0,1.0,0.0,51.85,True,bowled,,Junaid Siddique
+1450692,1,Namibia,JN Frylinck,8.0,20.0,0.0,0.0,40.0,True,bowled,,V Sukumaran
+1450692,1,Namibia,JN Loftie-Eaton,54.0,65.0,2.0,3.0,83.08,True,run out,,Ali Naseer
+1450692,1,Namibia,JP Kotze,64.0,57.0,6.0,4.0,112.28,True,bowled,,Muhammad Jawadullah
+1450692,1,Namibia,JT Brassell,0.0,5.0,0.0,0.0,0.0,True,run out,,Ali Naseer
+1450692,1,Namibia,M van Lingen,107.0,88.0,9.0,4.0,121.59,True,caught,,Basil Hameed
+1450692,1,Namibia,MB Kruger,0.0,2.0,0.0,0.0,0.0,True,caught,,Ali Naseer
+1450692,1,Namibia,MG Erasmus,19.0,13.0,2.0,1.0,146.15,True,lbw,,Ali Naseer
+1450692,2,United Arab Emirates,A Sharafu,30.0,43.0,4.0,1.0,69.77,True,caught,,MG Erasmus
+1450692,2,United Arab Emirates,A Sharma,30.0,44.0,2.0,1.0,68.18,True,bowled,,BM Scholtz
+1450692,2,United Arab Emirates,Ali Naseer,38.0,21.0,2.0,3.0,180.95,False,not out,['-'],
+1450692,2,United Arab Emirates,Asif Khan,2.0,6.0,0.0,0.0,33.33,True,bowled,,BM Scholtz
+1450692,2,United Arab Emirates,Basil Hameed,71.0,48.0,6.0,4.0,147.92,True,caught,,JN Loftie-Eaton
+1450692,2,United Arab Emirates,Junaid Siddique,0.0,1.0,0.0,0.0,0.0,True,caught and bowled,,T Lungameni
+1450692,2,United Arab Emirates,Muhammad Jawadullah,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1450692,2,United Arab Emirates,R Chopra,8.0,14.0,1.0,0.0,57.14,True,lbw,,JN Loftie-Eaton
+1450692,2,United Arab Emirates,RN Bhatia,1.0,6.0,0.0,0.0,16.67,True,bowled,,JN Loftie-Eaton
+1450692,2,United Arab Emirates,V Sukumaran,97.0,93.0,8.0,5.0,104.3,True,caught,,JN Loftie-Eaton
+1450692,2,United Arab Emirates,Waseem Muhammad,19.0,32.0,3.0,0.0,59.38,True,caught,,T Lungameni
+1450692,1,Namibia,T Lungameni,,,,,,False,DNB,,
+1450693,1,Namibia,BM Scholtz,31.0,19.0,1.0,2.0,163.16,True,run out,,Jasdeep Singh
+1450693,1,Namibia,DO Leicher,32.0,31.0,2.0,2.0,103.23,True,run out,,Milind Kumar
+1450693,1,Namibia,JJ Smit,60.0,87.0,3.0,3.0,68.97,False,not out,['-'],
+1450693,1,Namibia,JN Loftie-Eaton,49.0,50.0,4.0,3.0,98.0,True,caught,,SC van Schalkwyk
+1450693,1,Namibia,JP Kotze,0.0,5.0,0.0,0.0,0.0,True,lbw,,SC van Schalkwyk
+1450693,1,Namibia,M van Lingen,67.0,44.0,12.0,2.0,152.27,True,caught,,NP Kenjige
+1450693,1,Namibia,MB Kruger,1.0,6.0,0.0,0.0,16.67,True,lbw,,SC van Schalkwyk
+1450693,1,Namibia,MG Erasmus,14.0,35.0,0.0,0.0,40.0,True,lbw,,Yasir Mohammad
+1450693,1,Namibia,T Lungameni,1.0,1.0,0.0,0.0,100.0,False,not out,['-'],
+1450693,1,Namibia,ZE Green,17.0,30.0,3.0,0.0,56.67,True,bowled,,SC van Schalkwyk
+1450693,2,United States of America,AGS Gous,81.0,68.0,6.0,5.0,119.12,True,caught,,JN Loftie-Eaton
+1450693,2,United States of America,MD Patel,31.0,44.0,1.0,1.0,70.45,True,caught,,PD Blignaut
+1450693,2,United States of America,Milind Kumar,74.0,67.0,5.0,5.0,110.45,False,not out,['-'],
+1450693,2,United States of America,SK Patel,9.0,24.0,1.0,0.0,37.5,True,caught,,DO Leicher
+1450693,2,United States of America,SR Mukkamalla,79.0,74.0,4.0,3.0,106.76,False,not out,['-'],
+1450693,1,Namibia,PD Blignaut,,,,,,False,DNB,,
+1450693,2,United States of America,Shayan Jahangir,,,,,,False,DNB,,
+1450693,2,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1450693,2,United States of America,NP Kenjige,,,,,,False,DNB,,
+1450693,2,United States of America,Yasir Mohammad,,,,,,False,DNB,,
+1450693,2,United States of America,SC van Schalkwyk,,,,,,False,DNB,,
+1450693,2,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1450694,1,United States of America,AGS Gous,5.0,9.0,1.0,0.0,55.56,True,caught,,Junaid Siddique
+1450694,1,United States of America,MD Patel,5.0,11.0,0.0,0.0,45.45,True,caught,,Ali Naseer
+1450694,1,United States of America,Milind Kumar,155.0,113.0,16.0,5.0,137.17,False,not out,['-'],
+1450694,1,United States of America,SK Patel,48.0,59.0,7.0,0.0,81.36,True,lbw,,Aayan Afzal Khan
+1450694,1,United States of America,SR Mukkamalla,107.0,100.0,15.0,1.0,107.0,True,caught,,Aayan Afzal Khan
+1450694,1,United States of America,Shayan Jahangir,12.0,14.0,1.0,0.0,85.71,False,not out,['-'],
+1450694,2,United Arab Emirates,A Sharma,11.0,16.0,2.0,0.0,68.75,True,caught,,SN Netravalkar
+1450694,2,United Arab Emirates,Aayan Afzal Khan,10.0,26.0,0.0,0.0,38.46,True,caught,,NP Kenjige
+1450694,2,United Arab Emirates,Ali Naseer,0.0,4.0,0.0,0.0,0.0,True,caught,,SC van Schalkwyk
+1450694,2,United Arab Emirates,Asif Khan,51.0,49.0,7.0,1.0,104.08,True,caught,,Jasdeep Singh
+1450694,2,United Arab Emirates,Basil Hameed,50.0,46.0,3.0,4.0,108.7,False,not out,['-'],
+1450694,2,United Arab Emirates,Junaid Siddique,0.0,1.0,0.0,0.0,0.0,True,caught and bowled,,NP Kenjige
+1450694,2,United Arab Emirates,Omid Shafi Rahman,1.0,5.0,0.0,0.0,20.0,True,caught,,Jasdeep Singh
+1450694,2,United Arab Emirates,R Chopra,52.0,44.0,7.0,1.0,118.18,True,lbw,,Milind Kumar
+1450694,2,United Arab Emirates,RN Bhatia,3.0,7.0,0.0,0.0,42.86,True,stumped,,NP Kenjige
+1450694,2,United Arab Emirates,V Sukumaran,7.0,13.0,1.0,0.0,53.85,True,caught,,SN Netravalkar
+1450694,2,United Arab Emirates,Waseem Muhammad,12.0,11.0,1.0,1.0,109.09,True,caught,,SN Netravalkar
+1450694,1,United States of America,SC van Schalkwyk,,,,,,False,DNB,,
+1450694,1,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1450694,1,United States of America,NP Kenjige,,,,,,False,DNB,,
+1450694,1,United States of America,Yasir Mohammad,,,,,,False,DNB,,
+1450694,1,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1450695,1,United Arab Emirates,A Sharafu,31.0,27.0,6.0,0.0,114.81,True,caught,,B Shikongo
+1450695,1,United Arab Emirates,A Sharma,0.0,2.0,0.0,0.0,0.0,True,lbw,,JJ Smit
+1450695,1,United Arab Emirates,Ali Naseer,61.0,65.0,7.0,2.0,93.85,True,caught,,JJ Smit
+1450695,1,United Arab Emirates,Asif Khan,26.0,63.0,3.0,0.0,41.27,True,caught,,MG Erasmus
+1450695,1,United Arab Emirates,Basil Hameed,13.0,15.0,1.0,1.0,86.67,True,caught,,BM Scholtz
+1450695,1,United Arab Emirates,Junaid Siddique,7.0,13.0,0.0,1.0,53.85,True,caught,,T Lungameni
+1450695,1,United Arab Emirates,Muhammad Farooq,4.0,10.0,1.0,0.0,40.0,True,caught,,S Fouché
+1450695,1,United Arab Emirates,Omid Shafi Rahman,0.0,2.0,0.0,0.0,0.0,False,not out,['-'],
+1450695,1,United Arab Emirates,R Chopra,9.0,22.0,0.0,0.0,40.91,True,caught,,JJ Smit
+1450695,1,United Arab Emirates,V Sukumaran,30.0,45.0,3.0,1.0,66.67,True,lbw,,BM Scholtz
+1450695,1,United Arab Emirates,Waseem Muhammad,1.0,4.0,0.0,0.0,25.0,True,caught,,T Lungameni
+1450695,2,Namibia,JP Kotze,40.0,63.0,6.0,0.0,63.49,True,caught,,V Sukumaran
+1450695,2,Namibia,M van Lingen,67.0,44.0,12.0,2.0,152.27,True,bowled,,Basil Hameed
+1450695,2,Namibia,MG Erasmus,59.0,48.0,6.0,3.0,122.92,False,not out,['-'],
+1450695,2,Namibia,ZE Green,21.0,21.0,3.0,0.0,100.0,False,not out,['-'],
+1450695,2,Namibia,DO Leicher,,,,,,False,DNB,,
+1450695,2,Namibia,JJ Smit,,,,,,False,DNB,,
+1450695,2,Namibia,JN Loftie-Eaton,,,,,,False,DNB,,
+1450695,2,Namibia,BM Scholtz,,,,,,False,DNB,,
+1450695,2,Namibia,T Lungameni,,,,,,False,DNB,,
+1450695,2,Namibia,B Shikongo,,,,,,False,DNB,,
+1450695,2,Namibia,S FouchÃ©,,,,,,False,DNB,,
+1450696,1,Canada,A Johnson,10.0,17.0,2.0,0.0,58.82,True,caught and bowled,,LN Rajbanshi
+1450696,1,Canada,Akhil Kumar,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1450696,1,Canada,D Heyliger,30.0,27.0,2.0,2.0,111.11,True,caught,,LN Rajbanshi
+1450696,1,Canada,H Thaker,27.0,64.0,1.0,0.0,42.19,False,not out,['-'],
+1450696,1,Canada,Kaleem Sana,10.0,8.0,0.0,1.0,125.0,True,caught,,Sompal Kami
+1450696,1,Canada,NR Kirton,73.0,44.0,3.0,6.0,165.91,True,run out,,DS Airee
+1450696,1,Canada,NS Dhaliwal,48.0,95.0,4.0,0.0,50.53,True,caught,,Gulsan Jha
+1450696,1,Canada,Pargat Singh,17.0,36.0,0.0,1.0,47.22,True,lbw,,S Lamichhane
+1450696,1,Canada,S Movva,4.0,6.0,0.0,0.0,66.67,True,caught,,RK Paudel
+1450696,1,Canada,Saad Bin Zafar,17.0,13.0,1.0,0.0,130.77,True,caught,,Sompal Kami
+1450696,2,Nepal,Aasif Sheikh,20.0,32.0,3.0,0.0,62.5,True,caught,,D Heyliger
+1450696,2,Nepal,B Sharki,18.0,31.0,2.0,0.0,58.06,True,lbw,,Akhil Kumar
+1450696,2,Nepal,DS Airee,8.0,10.0,0.0,0.0,80.0,True,caught,,Ansh Patel
+1450696,2,Nepal,Gulsan Jha,15.0,28.0,1.0,0.0,53.57,True,lbw,,D Heyliger
+1450696,2,Nepal,K Bhurtel,1.0,10.0,0.0,0.0,10.0,True,lbw,,D Heyliger
+1450696,2,Nepal,Karan KC,27.0,24.0,2.0,2.0,112.5,True,caught,,Akhil Kumar
+1450696,2,Nepal,Kushal Malla,12.0,43.0,0.0,0.0,27.91,True,caught,,Saad Bin Zafar
+1450696,2,Nepal,LN Rajbanshi,0.0,23.0,0.0,0.0,0.0,False,not out,['-'],
+1450696,2,Nepal,RK Paudel,5.0,6.0,1.0,0.0,83.33,True,caught,,D Heyliger
+1450696,2,Nepal,S Lamichhane,22.0,17.0,1.0,2.0,129.41,True,bowled,,D Heyliger
+1450696,2,Nepal,Sompal Kami,6.0,26.0,0.0,0.0,23.08,True,lbw,,Ansh Patel
+1450696,1,Canada,Ansh Patel,,,,,,False,DNB,,
+1450697,1,Nepal,A Saud,5.0,12.0,1.0,0.0,41.67,True,caught,,Kaleemullah
+1450697,1,Nepal,AK Sah,3.0,10.0,0.0,0.0,30.0,True,caught,,Aqib Ilyas
+1450697,1,Nepal,Aarif Sheikh,35.0,89.0,1.0,0.0,39.33,True,caught,,Shakeel Ahmed
+1450697,1,Nepal,Aasif Sheikh,11.0,28.0,2.0,0.0,39.29,True,caught,,Shoaib Khan
+1450697,1,Nepal,B Sharki,11.0,32.0,1.0,0.0,34.38,True,caught,,Fayyaz Butt
+1450697,1,Nepal,Gulsan Jha,53.0,35.0,3.0,5.0,151.43,True,caught,,Fayyaz Butt
+1450697,1,Nepal,Karan KC,1.0,3.0,0.0,0.0,33.33,True,bowled,,Kaleemullah
+1450697,1,Nepal,RK Paudel,60.0,75.0,2.0,4.0,80.0,True,caught,,Aqib Ilyas
+1450697,1,Nepal,S Lamichhane,11.0,15.0,0.0,0.0,73.33,False,not out,['-'],
+1450697,1,Nepal,Sompal Kami,20.0,8.0,0.0,2.0,250.0,True,run out,,Kaleemullah
+1450697,2,Oman,Aqib Ilyas,29.0,33.0,5.0,0.0,87.88,True,caught,,Gulsan Jha
+1450697,2,Oman,Ayan Khan,9.0,13.0,2.0,0.0,69.23,True,caught,,Gulsan Jha
+1450697,2,Oman,Fayyaz Butt,8.0,25.0,0.0,0.0,32.0,True,caught,,Gulsan Jha
+1450697,2,Oman,Jatinder Singh,41.0,49.0,3.0,1.0,83.67,True,lbw,,S Lamichhane
+1450697,2,Oman,Jay Odedra,5.0,12.0,0.0,0.0,41.67,True,caught,,Gulsan Jha
+1450697,2,Oman,KH Prajapati,36.0,52.0,4.0,0.0,69.23,True,caught,,Aarif Sheikh
+1450697,2,Oman,Kaleemullah,6.0,8.0,1.0,0.0,75.0,False,not out,['-'],
+1450697,2,Oman,Khalid Kail,17.0,21.0,3.0,0.0,80.95,True,caught,,Karan KC
+1450697,2,Oman,PS Athavale,26.0,38.0,3.0,0.0,68.42,True,caught,,Karan KC
+1450697,2,Oman,Shakeel Ahmed,17.0,25.0,3.0,0.0,68.0,False,not out,['-'],
+1450697,2,Oman,Shoaib Khan,26.0,26.0,4.0,0.0,100.0,True,caught,,Gulsan Jha
+1450697,1,Nepal,LN Rajbanshi,,,,,,False,DNB,,
+1450698,1,Canada,A Johnson,0.0,1.0,0.0,0.0,0.0,True,caught,,Shakeel Ahmed
+1450698,1,Canada,D Heyliger,37.0,15.0,1.0,4.0,246.67,True,run out,,Kaleemullah
+1450698,1,Canada,H Thaker,93.0,106.0,4.0,4.0,87.74,True,caught,,Fayyaz Butt
+1450698,1,Canada,Kaleem Sana,4.0,11.0,0.0,0.0,36.36,False,not out,['-'],
+1450698,1,Canada,NR Kirton,57.0,51.0,2.0,4.0,111.76,True,caught and bowled,,Zeeshan Maqsood
+1450698,1,Canada,NS Dhaliwal,2.0,21.0,0.0,0.0,9.52,True,lbw,,Kaleemullah
+1450698,1,Canada,Pargat Singh,42.0,79.0,4.0,2.0,53.16,True,caught,,Fayyaz Butt
+1450698,1,Canada,S Movva,3.0,8.0,0.0,0.0,37.5,True,lbw,,Shakeel Ahmed
+1450698,1,Canada,Saad Bin Zafar,22.0,15.0,4.0,0.0,146.67,True,lbw,,Kaleemullah
+1450698,2,Oman,Aqib Ilyas,10.0,12.0,2.0,0.0,83.33,True,caught,,D Heyliger
+1450698,2,Oman,Ayan Khan,30.0,49.0,2.0,1.0,61.22,True,caught,,Ansh Patel
+1450698,2,Oman,Fayyaz Butt,44.0,53.0,5.0,1.0,83.02,True,caught,,D Heyliger
+1450698,2,Oman,Jatinder Singh,5.0,13.0,1.0,0.0,38.46,True,caught,,Kaleem Sana
+1450698,2,Oman,KH Prajapati,0.0,6.0,0.0,0.0,0.0,True,caught,,Kaleem Sana
+1450698,2,Oman,Kaleemullah,0.0,2.0,0.0,0.0,0.0,True,caught,,D Heyliger
+1450698,2,Oman,Mehran Khan,37.0,41.0,2.0,3.0,90.24,True,caught,,Akhil Kumar
+1450698,2,Oman,PS Athavale,0.0,4.0,0.0,0.0,0.0,True,caught,,D Heyliger
+1450698,2,Oman,Shakeel Ahmed,21.0,44.0,0.0,0.0,47.73,False,not out,['-'],
+1450698,2,Oman,Shoaib Khan,24.0,30.0,3.0,0.0,80.0,True,lbw,,Saad Bin Zafar
+1450698,2,Oman,Zeeshan Maqsood,27.0,36.0,4.0,0.0,75.0,True,lbw,,H Thaker
+1450698,1,Canada,Akhil Kumar,,,,,,False,DNB,,
+1450698,1,Canada,Ansh Patel,,,,,,False,DNB,,
+1450699,1,Nepal,A Saud,10.0,28.0,1.0,0.0,35.71,True,caught,,D Heyliger
+1450699,1,Nepal,AK Sah,1.0,5.0,0.0,0.0,20.0,True,caught,,Parveen Kumar
+1450699,1,Nepal,Aarif Sheikh,10.0,35.0,0.0,0.0,28.57,True,caught,,Kaleem Sana
+1450699,1,Nepal,Aasif Sheikh,2.0,14.0,0.0,0.0,14.29,True,bowled,,Kaleem Sana
+1450699,1,Nepal,B Sharki,4.0,8.0,0.0,0.0,50.0,True,caught,,Kaleem Sana
+1450699,1,Nepal,Gulsan Jha,34.0,59.0,2.0,2.0,57.63,True,caught,,H Thaker
+1450699,1,Nepal,Karan KC,24.0,29.0,2.0,1.0,82.76,True,caught,,D Heyliger
+1450699,1,Nepal,LN Rajbanshi,0.0,2.0,0.0,0.0,0.0,False,not out,['-'],
+1450699,1,Nepal,RK Paudel,4.0,14.0,1.0,0.0,28.57,True,run out,,Akhil Kumar
+1450699,1,Nepal,S Lamichhane,49.0,48.0,5.0,1.0,102.08,True,caught,,H Thaker
+1450699,1,Nepal,Sompal Kami,21.0,50.0,2.0,0.0,42.0,True,lbw,,Saad Bin Zafar
+1450699,2,Canada,A Johnson,0.0,12.0,0.0,0.0,0.0,True,caught,,Karan KC
+1450699,2,Canada,Akhil Kumar,2.0,10.0,0.0,0.0,20.0,True,caught,,S Lamichhane
+1450699,2,Canada,H Thaker,13.0,24.0,1.0,0.0,54.17,True,bowled,,S Lamichhane
+1450699,2,Canada,NR Kirton,11.0,8.0,1.0,1.0,137.5,False,not out,['-'],
+1450699,2,Canada,NS Dhaliwal,87.0,113.0,8.0,4.0,76.99,True,caught,,LN Rajbanshi
+1450699,2,Canada,Pargat Singh,64.0,85.0,7.0,2.0,75.29,True,caught,,Gulsan Jha
+1450699,2,Canada,S Movva,2.0,5.0,0.0,0.0,40.0,False,not out,['-'],
+1450699,2,Canada,D Heyliger,,,,,,False,DNB,,
+1450699,2,Canada,Kaleem Sana,,,,,,False,DNB,,
+1450699,2,Canada,Saad Bin Zafar,,,,,,False,DNB,,
+1450699,2,Canada,Parveen Kumar,,,,,,False,DNB,,
+1450701,1,Oman,Aqib Ilyas,61.0,101.0,4.0,2.0,60.4,True,caught,,Kaleem Sana
+1450701,1,Oman,Ayan Khan,1.0,10.0,0.0,0.0,10.0,True,caught,,Pargat Singh
+1450701,1,Oman,Fayyaz Butt,3.0,5.0,0.0,0.0,60.0,False,not out,['-'],
+1450701,1,Oman,Jatinder Singh,7.0,17.0,1.0,0.0,41.18,False,not out,['-'],
+1450701,1,Oman,KH Prajapati,52.0,102.0,3.0,0.0,50.98,True,run out,,Parveen Kumar
+1450701,1,Oman,Mehran Khan,12.0,13.0,0.0,1.0,92.31,True,caught,,Pargat Singh
+1450701,1,Oman,PS Athavale,7.0,19.0,0.0,0.0,36.84,True,run out,,Pargat Singh
+1450701,1,Oman,Shakeel Ahmed,29.0,25.0,1.0,2.0,116.0,False,not out,['-'],
+1450701,1,Oman,Shoaib Khan,9.0,7.0,0.0,1.0,128.57,True,caught,,Saad Bin Zafar
+1450701,1,Oman,Zeeshan Maqsood,3.0,8.0,0.0,0.0,37.5,False,not out,['-'],
+1450701,2,Canada,A Johnson,31.0,27.0,2.0,3.0,114.81,True,caught,,Shakeel Ahmed
+1450701,2,Canada,H Thaker,10.0,27.0,1.0,0.0,37.04,True,lbw,,Ayan Khan
+1450701,2,Canada,NR Kirton,4.0,5.0,1.0,0.0,80.0,True,caught,,Aqib Ilyas
+1450701,2,Canada,NS Dhaliwal,25.0,61.0,2.0,0.0,40.98,True,bowled,,Zeeshan Maqsood
+1450701,2,Canada,Pargat Singh,83.0,98.0,9.0,1.0,84.69,True,bowled,,Ayan Khan
+1450701,2,Canada,S Movva,36.0,61.0,1.0,0.0,59.02,False,not out,['-'],
+1450701,2,Canada,Saad Bin Zafar,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1450701,1,Oman,Kaleemullah,,,,,,False,DNB,,
+1450701,2,Canada,DS Bajwa,,,,,,False,DNB,,
+1450701,2,Canada,Kaleem Sana,,,,,,False,DNB,,
+1450701,2,Canada,D Heyliger,,,,,,False,DNB,,
+1450701,2,Canada,Parveen Kumar,,,,,,False,DNB,,
+1450701,2,Canada,G Bajwa,,,,,,False,DNB,,
+1450702,1,United States of America,AGS Gous,5.0,10.0,1.0,0.0,50.0,True,lbw,,BJ Currie
+1450702,1,United States of America,Harmeet Singh,22.0,28.0,3.0,0.0,78.57,True,caught,,BTJ Wheal
+1450702,1,United States of America,Jasdeep Singh,0.0,4.0,0.0,0.0,0.0,True,bowled,,BJ Currie
+1450702,1,United States of America,MD Patel,0.0,6.0,0.0,0.0,0.0,True,bowled,,BJ McMullen
+1450702,1,United States of America,Milind Kumar,5.0,23.0,0.0,0.0,21.74,True,caught,,BTJ Wheal
+1450702,1,United States of America,NP Kenjige,21.0,50.0,1.0,0.0,42.0,True,bowled,,BJ McMullen
+1450702,1,United States of America,SC van Schalkwyk,58.0,96.0,10.0,0.0,60.42,True,lbw,,MRJ Watt
+1450702,1,United States of America,SJ Modani,8.0,16.0,0.0,0.0,50.0,True,caught,,BJ McMullen
+1450702,1,United States of America,SN Netravalkar,0.0,5.0,0.0,0.0,0.0,False,not out,['-'],
+1450702,1,United States of America,SR Mukkamalla,0.0,5.0,0.0,0.0,0.0,True,bowled,,BJ Currie
+1450702,1,United States of America,Shayan Jahangir,0.0,1.0,0.0,0.0,0.0,True,lbw,,BJ Currie
+1450702,2,Scotland,ARI Umeed,98.0,79.0,13.0,2.0,124.05,False,not out,['-'],
+1450702,2,Scotland,C Tear,43.0,70.0,3.0,0.0,61.43,False,not out,['-'],
+1450702,2,Scotland,BJ McMullen,,,,,,False,DNB,,
+1450702,2,Scotland,RD Berrington,,,,,,False,DNB,,
+1450702,2,Scotland,MA Jones,,,,,,False,DNB,,
+1450702,2,Scotland,MH Cross,,,,,,False,DNB,,
+1450702,2,Scotland,MA Leask,,,,,,False,DNB,,
+1450702,2,Scotland,MRJ Watt,,,,,,False,DNB,,
+1450702,2,Scotland,CB Sole,,,,,,False,DNB,,
+1450702,2,Scotland,BTJ Wheal,,,,,,False,DNB,,
+1450702,2,Scotland,BJ Currie,,,,,,False,DNB,,
+1450704,1,Scotland,ARI Umeed,14.0,19.0,3.0,0.0,73.68,True,bowled,,Sompal Kami
+1450704,1,Scotland,BJ Currie,1.0,8.0,0.0,0.0,12.5,False,not out,['-'],
+1450704,1,Scotland,BJ McMullen,16.0,37.0,2.0,0.0,43.24,True,lbw,,S Lamichhane
+1450704,1,Scotland,BTJ Wheal,9.0,11.0,1.0,0.0,81.82,True,caught,,S Lamichhane
+1450704,1,Scotland,C Tear,0.0,5.0,0.0,0.0,0.0,True,bowled,,Karan KC
+1450704,1,Scotland,J Jarvis,0.0,8.0,0.0,0.0,0.0,True,caught,,Gulsan Jha
+1450704,1,Scotland,MA Jones,19.0,29.0,2.0,0.0,65.52,True,caught,,Aarif Sheikh
+1450704,1,Scotland,MA Leask,14.0,17.0,2.0,0.0,82.35,True,lbw,,Karan KC
+1450704,1,Scotland,MH Cross,15.0,36.0,0.0,0.0,41.67,True,lbw,,S Lamichhane
+1450704,1,Scotland,MRJ Watt,34.0,41.0,0.0,3.0,82.93,True,bowled,,Sompal Kami
+1450704,1,Scotland,RD Berrington,19.0,45.0,2.0,0.0,42.22,True,caught,,Gulsan Jha
+1450704,2,Nepal,AK Sah,13.0,21.0,0.0,1.0,61.9,True,lbw,,BJ McMullen
+1450704,2,Nepal,Aarif Sheikh,51.0,43.0,8.0,0.0,118.6,False,not out,['-'],
+1450704,2,Nepal,Aasif Sheikh,21.0,34.0,1.0,0.0,61.76,True,bowled,,MRJ Watt
+1450704,2,Nepal,Gulsan Jha,25.0,32.0,3.0,1.0,78.12,False,not out,['-'],
+1450704,2,Nepal,K Bhurtel,25.0,35.0,2.0,0.0,71.43,True,lbw,,J Jarvis
+1450704,2,Nepal,Kushal Malla,7.0,18.0,0.0,0.0,38.89,True,lbw,,BJ Currie
+1450704,2,Nepal,RK Paudel,1.0,3.0,0.0,0.0,33.33,True,caught,,BJ McMullen
+1450704,2,Nepal,DS Airee,,,,,,False,DNB,,
+1450704,2,Nepal,Sompal Kami,,,,,,False,DNB,,
+1450704,2,Nepal,Karan KC,,,,,,False,DNB,,
+1450704,2,Nepal,S Lamichhane,,,,,,False,DNB,,
+1450705,1,Scotland,ARI Umeed,18.0,18.0,2.0,1.0,100.0,True,caught,,SN Netravalkar
+1450705,1,Scotland,BJ McMullen,151.0,143.0,11.0,6.0,105.59,True,bowled,,Jasdeep Singh
+1450705,1,Scotland,C Tear,51.0,89.0,2.0,1.0,57.3,True,caught and bowled,,NP Kenjige
+1450705,1,Scotland,MA Jones,12.0,13.0,1.0,0.0,92.31,True,caught,,SN Netravalkar
+1450705,1,Scotland,MA Leask,33.0,12.0,0.0,4.0,275.0,False,not out,['-'],
+1450705,1,Scotland,MRJ Watt,5.0,2.0,1.0,0.0,250.0,False,not out,['-'],
+1450705,1,Scotland,RD Berrington,26.0,29.0,2.0,1.0,89.66,True,caught,,Jasdeep Singh
+1450705,2,United States of America,Harmeet Singh,14.0,14.0,1.0,1.0,100.0,True,stumped,,MA Leask
+1450705,2,United States of America,Jasdeep Singh,1.0,5.0,0.0,0.0,20.0,True,caught,,J Jarvis
+1450705,2,United States of America,MD Patel,52.0,46.0,7.0,0.0,113.04,True,caught,,J Jarvis
+1450705,2,United States of America,NP Kenjige,2.0,2.0,0.0,0.0,100.0,False,not out,['-'],
+1450705,2,United States of America,SC van Schalkwyk,0.0,3.0,0.0,0.0,0.0,True,lbw,,BJ Currie
+1450705,2,United States of America,SJ Modani,25.0,46.0,3.0,0.0,54.35,True,caught,,MRJ Watt
+1450705,2,United States of America,SN Netravalkar,4.0,5.0,1.0,0.0,80.0,True,bowled,,J Jarvis
+1450705,2,United States of America,SP Krishnamurthi,49.0,54.0,7.0,0.0,90.74,True,caught,,BJ McMullen
+1450705,2,United States of America,SR Mukkamalla,10.0,16.0,0.0,0.0,62.5,True,bowled,,MRJ Watt
+1450705,2,United States of America,Shayan Jahangir,9.0,14.0,2.0,0.0,64.29,True,bowled,,BJ Currie
+1450705,2,United States of America,Utkarsh Srivastava,67.0,65.0,6.0,1.0,103.08,True,caught,,J Jarvis
+1450705,1,Scotland,MH Cross,,,,,,False,DNB,,
+1450705,1,Scotland,BTJ Wheal,,,,,,False,DNB,,
+1450705,1,Scotland,J Jarvis,,,,,,False,DNB,,
+1450705,1,Scotland,BJ Currie,,,,,,False,DNB,,
+1450706,1,United States of America,Aaron Jones,26.0,20.0,5.0,0.0,130.0,True,caught,,S Lamichhane
+1450706,1,United States of America,Harmeet Singh,59.0,45.0,3.0,3.0,131.11,True,caught,,Gulsan Jha
+1450706,1,United States of America,MD Patel,67.0,84.0,5.0,1.0,79.76,True,caught,,S Lamichhane
+1450706,1,United States of America,SC van Schalkwyk,7.0,12.0,0.0,0.0,58.33,True,caught,,Sompal Kami
+1450706,1,United States of America,SP Krishnamurthi,15.0,22.0,2.0,0.0,68.18,True,caught,,K Bhurtel
+1450706,1,United States of America,SR Mukkamalla,75.0,88.0,4.0,1.0,85.23,True,caught,,Gulsan Jha
+1450706,1,United States of America,Shayan Jahangir,10.0,24.0,1.0,0.0,41.67,True,caught and bowled,,Gulsan Jha
+1450706,1,United States of America,Utkarsh Srivastava,8.0,10.0,0.0,0.0,80.0,True,caught,,Sompal Kami
+1450706,2,Nepal,AK Sah,52.0,80.0,4.0,1.0,65.0,True,caught,,NP Kenjige
+1450706,2,Nepal,Aarif Sheikh,21.0,13.0,0.0,2.0,161.54,True,caught,,SN Netravalkar
+1450706,2,Nepal,Aasif Sheikh,6.0,4.0,1.0,0.0,150.0,True,bowled,,Jasdeep Singh
+1450706,2,Nepal,DS Airee,31.0,39.0,1.0,1.0,79.49,True,caught and bowled,,SN Netravalkar
+1450706,2,Nepal,Gulsan Jha,12.0,16.0,0.0,0.0,75.0,True,bowled,,SN Netravalkar
+1450706,2,Nepal,K Bhurtel,29.0,53.0,2.0,1.0,54.72,True,bowled,,Harmeet Singh
+1450706,2,Nepal,Karan KC,5.0,5.0,1.0,0.0,100.0,False,not out,['-'],
+1450706,2,Nepal,Kushal Malla,33.0,54.0,1.0,1.0,61.11,True,caught,,SC van Schalkwyk
+1450706,2,Nepal,RK Paudel,1.0,8.0,0.0,0.0,12.5,True,lbw,,NP Kenjige
+1450706,2,Nepal,S Lamichhane,2.0,3.0,0.0,0.0,66.67,True,caught,,SN Netravalkar
+1450706,2,Nepal,Sompal Kami,46.0,27.0,4.0,2.0,170.37,True,caught,,SC van Schalkwyk
+1450706,1,United States of America,Jasdeep Singh,,,,,,False,DNB,,
+1450706,1,United States of America,NP Kenjige,,,,,,False,DNB,,
+1450706,1,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1450707,1,Nepal,AK Sah,10.0,21.0,2.0,0.0,47.62,True,lbw,,BJ Currie
+1450707,1,Nepal,Aasif Sheikh,9.0,15.0,2.0,0.0,60.0,False,not out,['-'],
+1450707,1,Nepal,K Bhurtel,0.0,3.0,0.0,0.0,0.0,False,not out,['-'],
+1450707,1,Nepal,RK Paudel,,,,,,False,DNB,,
+1450707,1,Nepal,LN Rajbanshi,,,,,,False,DNB,,
+1450707,1,Nepal,Aarif Sheikh,,,,,,False,DNB,,
+1450707,1,Nepal,DS Airee,,,,,,False,DNB,,
+1450707,1,Nepal,Gulsan Jha,,,,,,False,DNB,,
+1450707,1,Nepal,Sompal Kami,,,,,,False,DNB,,
+1450707,1,Nepal,S Lamichhane,,,,,,False,DNB,,
+1450707,1,Nepal,R Dhakal,,,,,,False,DNB,,
+1451817,1,West Indies,A Athanaze,10.0,20.0,0.0,0.0,50.0,True,stumped,,PWH de Silva
+1451817,1,West Indies,BA King,14.0,27.0,2.0,0.0,51.85,True,bowled,,PWH de Silva
+1451817,1,West Indies,KU Carty,37.0,58.0,1.0,1.0,63.79,True,caught,,KIC Asalanka
+1451817,1,West Indies,RL Chase,33.0,34.0,4.0,0.0,97.06,False,not out,['-'],
+1451817,1,West Indies,SD Hope,5.0,13.0,0.0,0.0,38.46,True,lbw,,JDF Vandersay
+1451817,1,West Indies,SE Rutherford,74.0,82.0,5.0,3.0,90.24,False,not out,['-'],
+1451817,2,Sri Lanka,BKG Mendis,13.0,8.0,3.0,0.0,162.5,True,caught,,AS Joseph
+1451817,2,Sri Lanka,J Liyanage,18.0,18.0,1.0,1.0,100.0,False,not out,['-'],
+1451817,2,Sri Lanka,KIC Asalanka,77.0,72.0,8.0,3.0,106.94,True,lbw,,G Motie
+1451817,2,Sri Lanka,KNM Fernando,69.0,55.0,7.0,1.0,125.45,True,caught,,G Motie
+1451817,2,Sri Lanka,PHKD Mendis,30.0,21.0,3.0,1.0,142.86,False,not out,['-'],
+1451817,2,Sri Lanka,S Samarawickrama,18.0,12.0,3.0,0.0,150.0,True,bowled,,G Motie
+1451817,2,Sri Lanka,WIA Fernando,5.0,7.0,1.0,0.0,71.43,True,caught,,AS Joseph
+1451817,1,West Indies,R Shepherd,,,,,,False,DNB,,
+1451817,1,West Indies,HR Walsh,,,,,,False,DNB,,
+1451817,1,West Indies,G Motie,,,,,,False,DNB,,
+1451817,1,West Indies,JNT Seales,,,,,,False,DNB,,
+1451817,1,West Indies,AS Joseph,,,,,,False,DNB,,
+1451817,2,Sri Lanka,PWH de Silva,,,,,,False,DNB,,
+1451817,2,Sri Lanka,DN Wellalage,,,,,,False,DNB,,
+1451817,2,Sri Lanka,JDF Vandersay,,,,,,False,DNB,,
+1451817,2,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1451818,1,West Indies,A Athanaze,1.0,3.0,0.0,0.0,33.33,True,bowled,,M Theekshana
+1451818,1,West Indies,AS Joseph,1.0,4.0,0.0,0.0,25.0,True,bowled,,PWH de Silva
+1451818,1,West Indies,BA King,16.0,18.0,3.0,0.0,88.89,True,caught and bowled,,AM Fernando
+1451818,1,West Indies,G Motie,50.0,63.0,6.0,0.0,79.37,False,not out,['-'],
+1451818,1,West Indies,HR Walsh,1.0,7.0,0.0,0.0,14.29,True,bowled,,M Theekshana
+1451818,1,West Indies,JNT Seales,5.0,7.0,1.0,0.0,71.43,True,caught and bowled,,PWH de Silva
+1451818,1,West Indies,KU Carty,6.0,14.0,1.0,0.0,42.86,True,bowled,,M Theekshana
+1451818,1,West Indies,R Shepherd,4.0,2.0,1.0,0.0,200.0,True,caught,,PWH de Silva
+1451818,1,West Indies,RL Chase,8.0,14.0,0.0,0.0,57.14,True,bowled,,PWH de Silva
+1451818,1,West Indies,SD Hope,5.0,6.0,0.0,0.0,83.33,True,bowled,,AM Fernando
+1451818,1,West Indies,SE Rutherford,80.0,82.0,7.0,4.0,97.56,True,caught,,AM Fernando
+1451818,2,Sri Lanka,BKG Mendis,3.0,13.0,0.0,0.0,23.08,True,bowled,,G Motie
+1451818,2,Sri Lanka,J Liyanage,24.0,34.0,2.0,1.0,70.59,True,run out,,A Athanaze
+1451818,2,Sri Lanka,KIC Asalanka,62.0,62.0,7.0,1.0,100.0,False,not out,['-'],
+1451818,2,Sri Lanka,KNM Fernando,38.0,44.0,6.0,0.0,86.36,True,bowled,,AS Joseph
+1451818,2,Sri Lanka,PHKD Mendis,11.0,16.0,0.0,0.0,68.75,False,not out,['-'],
+1451818,2,Sri Lanka,S Samarawickrama,38.0,51.0,6.0,0.0,74.51,True,caught,,RL Chase
+1451818,2,Sri Lanka,WIA Fernando,9.0,12.0,1.0,0.0,75.0,True,caught,,AS Joseph
+1451818,2,Sri Lanka,PWH de Silva,,,,,,False,DNB,,
+1451818,2,Sri Lanka,DN Wellalage,,,,,,False,DNB,,
+1451818,2,Sri Lanka,M Theekshana,,,,,,False,DNB,,
+1451818,2,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1451819,1,Sri Lanka,BKG Mendis,56.0,22.0,9.0,1.0,254.55,False,not out,['-'],
+1451819,1,Sri Lanka,KIC Asalanka,6.0,3.0,0.0,1.0,200.0,True,caught,,SE Rutherford
+1451819,1,Sri Lanka,P Nissanka,56.0,62.0,8.0,1.0,90.32,True,run out,,AS Joseph
+1451819,1,Sri Lanka,PHKD Mendis,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1451819,1,Sri Lanka,WIA Fernando,34.0,51.0,4.0,1.0,66.67,True,caught and bowled,,RL Chase
+1451819,2,West Indies,BA King,16.0,20.0,2.0,0.0,80.0,True,caught,,AM Fernando
+1451819,2,West Indies,E Lewis,102.0,61.0,9.0,4.0,167.21,False,not out,['-'],
+1451819,2,West Indies,SD Hope,22.0,29.0,0.0,1.0,75.86,True,caught,,D Madushanka
+1451819,2,West Indies,SE Rutherford,50.0,26.0,4.0,3.0,192.31,False,not out,['-'],
+1451819,1,Sri Lanka,S Samarawickrama,,,,,,False,DNB,,
+1451819,1,Sri Lanka,J Liyanage,,,,,,False,DNB,,
+1451819,1,Sri Lanka,PWH de Silva,,,,,,False,DNB,,
+1451819,1,Sri Lanka,M Theekshana,,,,,,False,DNB,,
+1451819,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1451819,1,Sri Lanka,D Madushanka,,,,,,False,DNB,,
+1451819,2,West Indies,KU Carty,,,,,,False,DNB,,
+1451819,2,West Indies,AS Joseph,,,,,,False,DNB,,
+1451819,2,West Indies,J Andrew,,,,,,False,DNB,,
+1451819,2,West Indies,G Motie,,,,,,False,DNB,,
+1451819,2,West Indies,MW Forde,,,,,,False,DNB,,
+1451819,2,West Indies,RL Chase,,,,,,False,DNB,,
+1451819,2,West Indies,JNT Seales,,,,,,False,DNB,,
+1456443,1,Sri Lanka,BKG Mendis,143.0,129.0,17.0,2.0,110.85,True,caught,,JA Duffy
+1456443,1,Sri Lanka,J Liyanage,12.0,13.0,2.0,0.0,92.31,False,not out,['-'],
+1456443,1,Sri Lanka,KIC Asalanka,40.0,30.0,3.0,2.0,133.33,True,caught,,JA Duffy
+1456443,1,Sri Lanka,P Nissanka,12.0,11.0,3.0,0.0,109.09,True,caught,,JA Duffy
+1456443,1,Sri Lanka,S Samarawickrama,5.0,4.0,0.0,0.0,125.0,True,caught,,MG Bracewell
+1456443,1,Sri Lanka,WIA Fernando,100.0,115.0,9.0,2.0,86.96,True,caught,,IS Sodhi
+1456443,2,New Zealand,GD Phillips,9.0,9.0,1.0,0.0,100.0,True,caught,,JDF Vandersay
+1456443,2,New Zealand,HM Nicholls,6.0,6.0,1.0,0.0,100.0,True,bowled,,KIC Asalanka
+1456443,2,New Zealand,IS Sodhi,0.0,1.0,0.0,0.0,0.0,True,bowled,,D Madushanka
+1456443,2,New Zealand,JA Duffy,4.0,3.0,1.0,0.0,133.33,False,not out,['-'],
+1456443,2,New Zealand,MG Bracewell,34.0,32.0,5.0,0.0,106.25,True,run out,,M Theekshana
+1456443,2,New Zealand,MJ Hay,10.0,9.0,0.0,1.0,111.11,True,caught,,D Madushanka
+1456443,2,New Zealand,MJ Santner,9.0,7.0,1.0,0.0,128.57,False,not out,['-'],
+1456443,2,New Zealand,MS Chapman,2.0,5.0,0.0,0.0,40.0,True,caught,,KIC Asalanka
+1456443,2,New Zealand,NG Smith,9.0,8.0,1.0,0.0,112.5,True,bowled,,D Madushanka
+1456443,2,New Zealand,TB Robinson,35.0,38.0,4.0,0.0,92.11,True,stumped,,M Theekshana
+1456443,2,New Zealand,WA Young,48.0,48.0,8.0,0.0,100.0,True,bowled,,M Theekshana
+1456443,1,Sri Lanka,PHKD Mendis,,,,,,False,DNB,,
+1456443,1,Sri Lanka,M Theekshana,,,,,,False,DNB,,
+1456443,1,Sri Lanka,JDF Vandersay,,,,,,False,DNB,,
+1456443,1,Sri Lanka,D Madushanka,,,,,,False,DNB,,
+1456443,1,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1456444,1,New Zealand,GD Phillips,15.0,22.0,1.0,0.0,68.18,True,caught,,KIC Asalanka
+1456444,1,New Zealand,HM Nicholls,8.0,25.0,1.0,0.0,32.0,True,bowled,,M Theekshana
+1456444,1,New Zealand,IS Sodhi,9.0,13.0,1.0,0.0,69.23,True,stumped,,M Theekshana
+1456444,1,New Zealand,JA Duffy,4.0,8.0,1.0,0.0,50.0,False,not out,['-'],
+1456444,1,New Zealand,MG Bracewell,0.0,4.0,0.0,0.0,0.0,True,caught,,AM Fernando
+1456444,1,New Zealand,MJ Hay,49.0,63.0,4.0,0.0,77.78,True,caught,,M Theekshana
+1456444,1,New Zealand,MJ Santner,6.0,15.0,0.0,0.0,40.0,True,caught,,JDF Vandersay
+1456444,1,New Zealand,MS Chapman,76.0,81.0,7.0,3.0,93.83,True,caught,,AM Fernando
+1456444,1,New Zealand,NG Smith,0.0,1.0,0.0,0.0,0.0,True,lbw,,JDF Vandersay
+1456444,1,New Zealand,TB Robinson,4.0,4.0,1.0,0.0,100.0,True,bowled,,DN Wellalage
+1456444,1,New Zealand,WA Young,26.0,41.0,3.0,0.0,63.41,True,stumped,,JDF Vandersay
+1456444,2,Sri Lanka,BKG Mendis,74.0,104.0,6.0,0.0,71.15,False,not out,['-'],
+1456444,2,Sri Lanka,DN Wellalage,18.0,17.0,3.0,0.0,105.88,True,caught,,MG Bracewell
+1456444,2,Sri Lanka,J Liyanage,22.0,40.0,1.0,0.0,55.0,True,caught,,NG Smith
+1456444,2,Sri Lanka,KIC Asalanka,13.0,12.0,2.0,0.0,108.33,True,caught,,MG Bracewell
+1456444,2,Sri Lanka,M Theekshana,27.0,46.0,2.0,1.0,58.7,False,not out,['-'],
+1456444,2,Sri Lanka,P Nissanka,28.0,33.0,4.0,0.0,84.85,True,caught,,MG Bracewell
+1456444,2,Sri Lanka,PHKD Mendis,0.0,3.0,0.0,0.0,0.0,True,caught,,MG Bracewell
+1456444,2,Sri Lanka,S Samarawickrama,8.0,17.0,0.0,0.0,47.06,True,caught,,GD Phillips
+1456444,2,Sri Lanka,WIA Fernando,5.0,9.0,1.0,0.0,55.56,True,caught,,MJ Santner
+1456444,2,Sri Lanka,JDF Vandersay,,,,,,False,DNB,,
+1456444,2,Sri Lanka,AM Fernando,,,,,,False,DNB,,
+1456445,1,New Zealand,HM Nicholls,46.0,51.0,4.0,0.0,90.2,False,not out,['-'],
+1456445,1,New Zealand,TB Robinson,9.0,7.0,2.0,0.0,128.57,True,caught,,M Shiraz
+1456445,1,New Zealand,WA Young,56.0,68.0,8.0,0.0,82.35,False,not out,['-'],
+1456445,1,New Zealand,MS Chapman,,,,,,False,DNB,,
+1456445,1,New Zealand,GD Phillips,,,,,,False,DNB,,
+1456445,1,New Zealand,MJ Hay,,,,,,False,DNB,,
+1456445,1,New Zealand,MG Bracewell,,,,,,False,DNB,,
+1456445,1,New Zealand,MJ Santner,,,,,,False,DNB,,
+1456445,1,New Zealand,ZGF Foulkes,,,,,,False,DNB,,
+1456445,1,New Zealand,IS Sodhi,,,,,,False,DNB,,
+1456445,1,New Zealand,AF Milne,,,,,,False,DNB,,
+1457464,1,United Arab Emirates,A Sharma,7.0,20.0,0.0,0.0,35.0,True,caught,,Muzahir Raza
+1457464,1,United Arab Emirates,Aayan Afzal Khan,16.0,45.0,0.0,1.0,35.56,True,caught,,S Shrivastava
+1457464,1,United Arab Emirates,Ali Naseer,3.0,7.0,0.0,0.0,42.86,True,caught,,K Sonavale
+1457464,1,United Arab Emirates,Basil Hameed,7.0,15.0,0.0,0.0,46.67,True,stumped,,Aamir Kaleem
+1457464,1,United Arab Emirates,D Parashar,5.0,20.0,1.0,0.0,25.0,True,caught,,Shakeel Ahmed
+1457464,1,United Arab Emirates,Junaid Siddique,2.0,12.0,0.0,0.0,16.67,False,not out,['-'],
+1457464,1,United Arab Emirates,Muhammad Farooq,0.0,6.0,0.0,0.0,0.0,True,bowled,,Shakeel Ahmed
+1457464,1,United Arab Emirates,R Chopra,0.0,7.0,0.0,0.0,0.0,True,bowled,,S Shrivastava
+1457464,1,United Arab Emirates,V Aravind,28.0,42.0,3.0,0.0,66.67,True,bowled,,S Shrivastava
+1457464,1,United Arab Emirates,V Sukumaran,9.0,24.0,0.0,0.0,37.5,True,bowled,,S Shrivastava
+1457464,1,United Arab Emirates,Waseem Muhammad,44.0,57.0,0.0,4.0,77.19,True,caught,,Jay Odedra
+1457464,2,Oman,AR Odedara,54.0,132.0,4.0,1.0,40.91,False,not out,['-'],
+1457464,2,Oman,Aamir Kaleem,0.0,3.0,0.0,0.0,0.0,True,lbw,,Basil Hameed
+1457464,2,Oman,Hammad Mirza,28.0,52.0,1.0,0.0,53.85,True,caught,,Aayan Afzal Khan
+1457464,2,Oman,Jatinder Singh,9.0,21.0,0.0,0.0,42.86,True,caught,,D Parashar
+1457464,2,Oman,K Sonavale,2.0,15.0,0.0,0.0,13.33,True,lbw,,D Parashar
+1457464,2,Oman,Mohammad Nadeem,19.0,47.0,1.0,0.0,40.43,False,not out,['-'],
+1457464,2,Oman,Sandeep Goud,,,,,,False,DNB,,
+1457464,2,Oman,Shakeel Ahmed,,,,,,False,DNB,,
+1457464,2,Oman,S Shrivastava,,,,,,False,DNB,,
+1457464,2,Oman,Jay Odedra,,,,,,False,DNB,,
+1457464,2,Oman,Muzahir Raza,,,,,,False,DNB,,
+1457465,1,United Arab Emirates,Aayan Afzal Khan,6.0,6.0,1.0,0.0,100.0,True,lbw,,RE van der Merwe
+1457465,1,United Arab Emirates,Ali Naseer,1.0,3.0,0.0,0.0,33.33,True,lbw,,A Dutt
+1457465,1,United Arab Emirates,Basil Hameed,9.0,18.0,1.0,0.0,50.0,True,caught,,Shariz Ahmad
+1457465,1,United Arab Emirates,D Parashar,50.0,48.0,3.0,2.0,104.17,False,not out,['-'],
+1457465,1,United Arab Emirates,R Chopra,78.0,69.0,3.0,7.0,113.04,True,caught,,PA van Meekeren
+1457465,1,United Arab Emirates,RN Bhatia,8.0,8.0,1.0,0.0,100.0,False,not out,['-'],
+1457465,1,United Arab Emirates,T Suri,25.0,40.0,3.0,0.0,62.5,True,caught,,PA van Meekeren
+1457465,1,United Arab Emirates,V Aravind,18.0,37.0,1.0,0.0,48.65,True,caught,,BFW de Leede
+1457465,1,United Arab Emirates,V Sukumaran,19.0,51.0,1.0,0.0,37.25,True,stumped,,RE van der Merwe
+1457465,1,United Arab Emirates,Waseem Muhammad,18.0,25.0,3.0,0.0,72.0,True,bowled,,T van der Gugten
+1457465,2,Netherlands,A Dutt,2.0,12.0,0.0,0.0,16.67,True,caught and bowled,,Ali Naseer
+1457465,2,Netherlands,BFW de Leede,66.0,88.0,5.0,1.0,75.0,True,lbw,,Junaid Siddique
+1457465,2,Netherlands,M Levitt,12.0,10.0,1.0,1.0,120.0,True,bowled,,Junaid Siddique
+1457465,2,Netherlands,MP O'Dowd,15.0,23.0,2.0,0.0,65.22,True,bowled,,D Parashar
+1457465,2,Netherlands,NRJ Croes,2.0,14.0,0.0,0.0,14.29,True,bowled,,Ali Naseer
+1457465,2,Netherlands,PA van Meekeren,3.0,5.0,0.0,0.0,60.0,True,lbw,,Aayan Afzal Khan
+1457465,2,Netherlands,RE van der Merwe,10.0,14.0,1.0,0.0,71.43,True,bowled,,Ali Naseer
+1457465,2,Netherlands,SA Edwards,51.0,57.0,3.0,1.0,89.47,True,lbw,,V Sukumaran
+1457465,2,Netherlands,Shariz Ahmad,17.0,17.0,2.0,0.0,100.0,True,caught,,Junaid Siddique
+1457465,2,Netherlands,T van der Gugten,22.0,24.0,2.0,0.0,91.67,False,not out,['-'],
+1457465,2,Netherlands,Vikramjit Singh,7.0,27.0,1.0,0.0,25.93,True,caught,,Ali Naseer
+1457465,1,United Arab Emirates,Junaid Siddique,,,,,,False,DNB,,
+1457466,1,Netherlands,A Dutt,2.0,4.0,0.0,0.0,50.0,False,not out,['-'],
+1457466,1,Netherlands,BFW de Leede,51.0,90.0,5.0,1.0,56.67,True,lbw,,Shakeel Ahmed
+1457466,1,Netherlands,MP O'Dowd,7.0,13.0,1.0,0.0,53.85,True,lbw,,Shakeel Ahmed
+1457466,1,Netherlands,NRJ Croes,29.0,43.0,1.0,0.0,67.44,True,bowled,,Wasim Ali
+1457466,1,Netherlands,PA van Meekeren,1.0,5.0,0.0,0.0,20.0,True,lbw,,S Shrivastava
+1457466,1,Netherlands,R Klein,3.0,8.0,0.0,0.0,37.5,True,bowled,,S Shrivastava
+1457466,1,Netherlands,RE van der Merwe,1.0,8.0,0.0,0.0,12.5,True,caught,,Aamir Kaleem
+1457466,1,Netherlands,SA Edwards,1.0,2.0,0.0,0.0,50.0,True,caught,,Aamir Kaleem
+1457466,1,Netherlands,Shariz Ahmad,9.0,33.0,1.0,0.0,27.27,True,lbw,,Shakeel Ahmed
+1457466,1,Netherlands,T van der Gugten,12.0,13.0,1.0,0.0,92.31,True,run out,,S Shrivastava
+1457466,1,Netherlands,Vikramjit Singh,6.0,27.0,0.0,0.0,22.22,True,bowled,,Shakeel Ahmed
+1457466,2,Oman,AR Odedara,27.0,60.0,3.0,1.0,45.0,True,bowled,,A Dutt
+1457466,2,Oman,Hammad Mirza,8.0,12.0,0.0,0.0,66.67,False,not out,['-'],
+1457466,2,Oman,Jatinder Singh,58.0,97.0,3.0,0.0,59.79,True,bowled,,RE van der Merwe
+1457466,2,Oman,Wasim Ali,24.0,42.0,2.0,1.0,57.14,False,not out,['-'],
+1457466,2,Oman,Aamir Kaleem,,,,,,False,DNB,,
+1457466,2,Oman,Mohammad Nadeem,,,,,,False,DNB,,
+1457466,2,Oman,Sandeep Goud,,,,,,False,DNB,,
+1457466,2,Oman,Jay Odedra,,,,,,False,DNB,,
+1457466,2,Oman,S Shrivastava,,,,,,False,DNB,,
+1457466,2,Oman,Shakeel Ahmed,,,,,,False,DNB,,
+1457466,2,Oman,Muzahir Raza,,,,,,False,DNB,,
+1457467,1,United Arab Emirates,A Sharma,0.0,1.0,0.0,0.0,0.0,True,lbw,,Muzahir Raza
+1457467,1,United Arab Emirates,Aayan Afzal Khan,0.0,1.0,0.0,0.0,0.0,True,bowled,,Shakeel Ahmed
+1457467,1,United Arab Emirates,Ali Naseer,21.0,26.0,2.0,1.0,80.77,True,stumped,,Jay Odedra
+1457467,1,United Arab Emirates,Basil Hameed,12.0,26.0,1.0,1.0,46.15,True,run out,,Aamir Kaleem
+1457467,1,United Arab Emirates,D Parashar,0.0,5.0,0.0,0.0,0.0,True,caught and bowled,,Jay Odedra
+1457467,1,United Arab Emirates,Junaid Siddique,13.0,10.0,1.0,1.0,130.0,False,not out,['-'],
+1457467,1,United Arab Emirates,R Chopra,0.0,16.0,0.0,0.0,0.0,True,lbw,,S Shrivastava
+1457467,1,United Arab Emirates,RN Bhatia,0.0,8.0,0.0,0.0,0.0,True,caught,,Shakeel Ahmed
+1457467,1,United Arab Emirates,V Aravind,11.0,33.0,1.0,0.0,33.33,True,caught,,Shakeel Ahmed
+1457467,1,United Arab Emirates,V Sukumaran,0.0,1.0,0.0,0.0,0.0,True,caught,,Shakeel Ahmed
+1457467,1,United Arab Emirates,Waseem Muhammad,13.0,31.0,1.0,0.0,41.94,True,caught,,Shakeel Ahmed
+1457467,2,Oman,AR Odedara,4.0,24.0,0.0,0.0,16.67,True,lbw,,Aayan Afzal Khan
+1457467,2,Oman,Aamir Kaleem,32.0,43.0,2.0,3.0,74.42,True,lbw,,Basil Hameed
+1457467,2,Oman,Hammad Mirza,20.0,34.0,3.0,0.0,58.82,True,caught,,Basil Hameed
+1457467,2,Oman,Jatinder Singh,4.0,10.0,0.0,0.0,40.0,True,lbw,,Aayan Afzal Khan
+1457467,2,Oman,Mohammad Nadeem,7.0,14.0,1.0,0.0,50.0,False,not out,['-'],
+1457467,2,Oman,Sandeep Goud,3.0,7.0,0.0,0.0,42.86,False,not out,['-'],
+1457467,2,Oman,Shakeel Ahmed,0.0,2.0,0.0,0.0,0.0,True,bowled,,Basil Hameed
+1457467,2,Oman,Wasim Ali,0.0,13.0,0.0,0.0,0.0,True,bowled,,D Parashar
+1457467,2,Oman,Jay Odedra,,,,,,False,DNB,,
+1457467,2,Oman,S Shrivastava,,,,,,False,DNB,,
+1457467,2,Oman,Muzahir Raza,,,,,,False,DNB,,
+1457468,1,Netherlands,BFW de Leede,18.0,31.0,0.0,0.0,58.06,True,bowled,,Ali Naseer
+1457468,1,Netherlands,CN Ackermann,21.0,25.0,1.0,1.0,84.0,True,bowled,,Junaid Siddique
+1457468,1,Netherlands,MP O'Dowd,69.0,96.0,8.0,2.0,71.88,True,caught,,Junaid Siddique
+1457468,1,Netherlands,NRJ Croes,24.0,20.0,1.0,1.0,120.0,True,caught,,Junaid Siddique
+1457468,1,Netherlands,RE van der Merwe,3.0,3.0,0.0,0.0,100.0,False,not out,['-'],
+1457468,1,Netherlands,SA Edwards,18.0,32.0,1.0,0.0,56.25,True,run out,,Junaid Siddique
+1457468,1,Netherlands,Shariz Ahmad,0.0,1.0,0.0,0.0,0.0,True,bowled,,Ali Naseer
+1457468,1,Netherlands,T van der Gugten,7.0,7.0,0.0,0.0,100.0,True,run out,,Ali Naseer
+1457468,1,Netherlands,Vikramjit Singh,66.0,87.0,4.0,2.0,75.86,True,bowled,,D Parashar
+1457468,2,United Arab Emirates,Aayan Afzal Khan,8.0,17.0,1.0,0.0,47.06,True,stumped,,A Dutt
+1457468,2,United Arab Emirates,Ali Naseer,45.0,39.0,1.0,4.0,115.38,True,caught,,K Klein
+1457468,2,United Arab Emirates,Basil Hameed,11.0,15.0,2.0,0.0,73.33,True,caught,,RE van der Merwe
+1457468,2,United Arab Emirates,D Parashar,3.0,16.0,0.0,0.0,18.75,True,caught,,K Klein
+1457468,2,United Arab Emirates,Junaid Siddique,0.0,1.0,0.0,0.0,0.0,False,not out,['-'],
+1457468,2,United Arab Emirates,R Chopra,43.0,63.0,6.0,0.0,68.25,True,caught,,A Dutt
+1457468,2,United Arab Emirates,RN Bhatia,3.0,20.0,0.0,0.0,15.0,True,caught,,RE van der Merwe
+1457468,2,United Arab Emirates,T Suri,26.0,34.0,5.0,0.0,76.47,True,lbw,,A Dutt
+1457468,2,United Arab Emirates,V Aravind,16.0,42.0,1.0,0.0,38.1,True,lbw,,RE van der Merwe
+1457468,2,United Arab Emirates,V Sukumaran,13.0,23.0,2.0,0.0,56.52,True,caught and bowled,,CN Ackermann
+1457468,2,United Arab Emirates,Waseem Muhammad,0.0,7.0,0.0,0.0,0.0,True,bowled,,K Klein
+1457468,1,Netherlands,K Klein,,,,,,False,DNB,,
+1457468,1,Netherlands,A Dutt,,,,,,False,DNB,,
+1457469,1,Oman,AR Odedara,41.0,71.0,5.0,0.0,57.75,True,lbw,,K Klein
+1457469,1,Oman,Aamir Kaleem,2.0,5.0,0.0,0.0,40.0,True,caught,,CN Ackermann
+1457469,1,Oman,B Siddharth,3.0,10.0,0.0,0.0,30.0,True,lbw,,CN Ackermann
+1457469,1,Oman,Hammad Mirza,2.0,8.0,0.0,0.0,25.0,True,bowled,,RE van der Merwe
+1457469,1,Oman,Jatinder Singh,59.0,90.0,6.0,0.0,65.56,True,stumped,,RE van der Merwe
+1457469,1,Oman,Jay Odedra,20.0,22.0,0.0,3.0,90.91,False,not out,['-'],
+1457469,1,Oman,K Sonavale,0.0,4.0,0.0,0.0,0.0,True,caught,,RE van der Merwe
+1457469,1,Oman,Mohammad Nadeem,1.0,3.0,0.0,0.0,33.33,True,lbw,,CN Ackermann
+1457469,1,Oman,Muzahir Raza,10.0,7.0,2.0,0.0,142.86,True,caught,,K Klein
+1457469,1,Oman,S Shrivastava,3.0,13.0,0.0,0.0,23.08,True,bowled,,CN Ackermann
+1457469,1,Oman,Shakeel Ahmed,2.0,36.0,0.0,0.0,5.56,True,run out,,A Dutt
+1457469,2,Netherlands,A Dutt,6.0,19.0,0.0,1.0,31.58,True,caught,,K Sonavale
+1457469,2,Netherlands,AT Nidamanuru,34.0,44.0,3.0,1.0,77.27,True,caught,,B Siddharth
+1457469,2,Netherlands,BFW de Leede,0.0,3.0,0.0,0.0,0.0,True,caught and bowled,,S Shrivastava
+1457469,2,Netherlands,CN Ackermann,3.0,10.0,0.0,0.0,30.0,True,caught,,Aamir Kaleem
+1457469,2,Netherlands,K Klein,16.0,23.0,1.0,0.0,69.57,False,not out,['-'],
+1457469,2,Netherlands,MP O'Dowd,7.0,14.0,0.0,1.0,50.0,True,bowled,,Shakeel Ahmed
+1457469,2,Netherlands,NRJ Croes,19.0,46.0,0.0,0.0,41.3,True,caught,,Aamir Kaleem
+1457469,2,Netherlands,RE van der Merwe,3.0,12.0,0.0,0.0,25.0,True,bowled,,B Siddharth
+1457469,2,Netherlands,SA Edwards,17.0,26.0,3.0,0.0,65.38,True,caught,,Aamir Kaleem
+1457469,2,Netherlands,T van der Gugten,17.0,43.0,1.0,0.0,39.53,True,caught,,Aamir Kaleem
+1457469,2,Netherlands,Vikramjit Singh,16.0,38.0,2.0,0.0,42.11,True,bowled,,Shakeel Ahmed
+1459908,1,Sri Lanka,AM Fernando,0.0,3.0,0.0,0.0,0.0,True,caught,,SA Abbott
+1459908,1,Sri Lanka,BKG Mendis,19.0,18.0,4.0,0.0,105.56,True,caught,,AM Hardie
+1459908,1,Sri Lanka,DN Wellalage,30.0,35.0,2.0,1.0,85.71,True,caught,,MW Short
+1459908,1,Sri Lanka,E Malinga,1.0,26.0,0.0,0.0,3.85,False,not out,['-'],
+1459908,1,Sri Lanka,J Liyanage,11.0,29.0,0.0,0.0,37.93,True,caught,,SA Abbott
+1459908,1,Sri Lanka,KIC Asalanka,127.0,127.0,14.0,5.0,100.0,True,caught,,SA Abbott
+1459908,1,Sri Lanka,M Theekshana,2.0,11.0,0.0,0.0,18.18,True,caught,,NT Ellis
+1459908,1,Sri Lanka,P Nissanka,4.0,5.0,1.0,0.0,80.0,True,caught,,SH Johnson
+1459908,1,Sri Lanka,PHKD Mendis,5.0,9.0,1.0,0.0,55.56,True,caught,,SH Johnson
+1459908,1,Sri Lanka,PWH de Silva,7.0,14.0,0.0,0.0,50.0,True,bowled,,NT Ellis
+1459908,1,Sri Lanka,WIA Fernando,1.0,4.0,0.0,0.0,25.0,True,caught,,AM Hardie
+1459908,2,Australia,A Zampa,20.0,32.0,2.0,0.0,62.5,False,not out,['-'],
+1459908,2,Australia,AM Hardie,32.0,38.0,3.0,0.0,84.21,True,lbw,,PWH de Silva
+1459908,2,Australia,AT Carey,41.0,39.0,5.0,1.0,105.13,True,caught,,KIC Asalanka
+1459908,2,Australia,C Connolly,3.0,17.0,0.0,0.0,17.65,True,lbw,,M Theekshana
+1459908,2,Australia,J Fraser-McGurk,2.0,9.0,0.0,0.0,22.22,True,caught and bowled,,AM Fernando
+1459908,2,Australia,M Labuschagne,15.0,27.0,1.0,0.0,55.56,True,lbw,,M Theekshana
+1459908,2,Australia,MW Short,0.0,2.0,0.0,0.0,0.0,True,lbw,,AM Fernando
+1459908,2,Australia,NT Ellis,0.0,3.0,0.0,0.0,0.0,True,bowled,,DN Wellalage
+1459908,2,Australia,SA Abbott,20.0,23.0,3.0,0.0,86.96,True,caught and bowled,,M Theekshana
+1459908,2,Australia,SH Johnson,0.0,2.0,0.0,0.0,0.0,True,lbw,,M Theekshana
+1459908,2,Australia,SPD Smith,12.0,17.0,3.0,0.0,70.59,True,bowled,,DN Wellalage
+1468879,1,United States of America,AGS Gous,76.0,84.0,4.0,3.0,90.48,True,bowled,,JJ Smit
+1468879,1,United States of America,Aaron Jones,2.0,7.0,0.0,0.0,28.57,True,lbw,,BM Scholtz
+1468879,1,United States of America,Harmeet Singh,18.0,10.0,2.0,1.0,180.0,True,caught,,JJ Smit
+1468879,1,United States of America,MD Patel,65.0,61.0,8.0,1.0,106.56,True,caught,,JN Loftie-Eaton
+1468879,1,United States of America,Milind Kumar,54.0,34.0,6.0,2.0,158.82,True,caught,,BM Scholtz
+1468879,1,United States of America,SC van Schalkwyk,21.0,11.0,0.0,2.0,190.91,False,not out,['-'],
+1468879,1,United States of America,SK Patel,3.0,9.0,0.0,0.0,33.33,True,bowled,,JJ Smit
+1468879,1,United States of America,SP Krishnamurthi,18.0,15.0,1.0,1.0,120.0,True,caught,,BM Scholtz
+1468879,1,United States of America,SR Mukkamalla,31.0,31.0,4.0,0.0,100.0,True,caught,,JJ Smit
+1468879,2,Namibia,B Shikongo,1.0,2.0,0.0,0.0,50.0,False,not out,['-'],
+1468879,2,Namibia,BM Scholtz,16.0,27.0,0.0,0.0,59.26,True,caught,,SP Krishnamurthi
+1468879,2,Namibia,JJ Smit,15.0,22.0,0.0,1.0,68.18,True,lbw,,Milind Kumar
+1468879,2,Namibia,JN Frylinck,16.0,27.0,2.0,0.0,59.26,True,caught,,NP Kenjige
+1468879,2,Namibia,JN Loftie-Eaton,10.0,8.0,0.0,1.0,125.0,True,caught,,Milind Kumar
+1468879,2,Namibia,JP Kotze,2.0,9.0,0.0,0.0,22.22,True,caught,,SN Netravalkar
+1468879,2,Namibia,MB Kruger,32.0,44.0,1.0,2.0,72.73,True,caught,,Milind Kumar
+1468879,2,Namibia,MG Erasmus,18.0,31.0,0.0,0.0,58.06,True,caught,,Harmeet Singh
+1468879,2,Namibia,R Trumpelmann,21.0,17.0,1.0,1.0,123.53,True,bowled,,Harmeet Singh
+1468879,2,Namibia,S Fouché,22.0,37.0,1.0,0.0,59.46,True,caught,,SC van Schalkwyk
+1468879,2,Namibia,ZE Green,16.0,24.0,3.0,0.0,66.67,True,caught,,Milind Kumar
+1468879,1,United States of America,NP Kenjige,,,,,,False,DNB,,
+1468879,1,United States of America,SN Netravalkar,,,,,,False,DNB,,
+1468879,2,Namibia,S FouchÃ©,,,,,,False,DNB,,
+1468880,1,Namibia,BM Scholtz,1.0,8.0,0.0,0.0,12.5,True,bowled,,Sufyan Mehmood
+1468880,1,Namibia,JC Balt,35.0,51.0,4.0,0.0,68.63,False,not out,['-'],
+1468880,1,Namibia,JI de Villiers,2.0,11.0,0.0,0.0,18.18,True,bowled,,S Shrivastava
+1468880,1,Namibia,JJ Smit,4.0,13.0,0.0,0.0,30.77,True,caught,,Shakeel Ahmed
+1468880,1,Namibia,JN Frylinck,16.0,42.0,2.0,0.0,38.1,True,caught,,S Shrivastava
+1468880,1,Namibia,JN Loftie-Eaton,12.0,16.0,1.0,1.0,75.0,True,caught,,S Shrivastava
+1468880,1,Namibia,JP Kotze,29.0,51.0,3.0,0.0,56.86,True,run out,,Sufyan Mehmood
+1468880,1,Namibia,MB Kruger,39.0,35.0,2.0,2.0,111.43,True,caught,,Jay Odedra
+1468880,1,Namibia,MG Erasmus,0.0,6.0,0.0,0.0,0.0,True,bowled,,S Shrivastava
+1468880,1,Namibia,R Trumpelmann,1.0,4.0,0.0,0.0,25.0,True,caught,,Shakeel Ahmed
+1468880,1,Namibia,ZE Green,21.0,45.0,3.0,0.0,46.67,False,not out,['-'],
+1468880,2,Oman,AR Odedara,11.0,38.0,0.0,0.0,28.95,True,lbw,,JN Loftie-Eaton
+1468880,2,Oman,Aamir Kaleem,15.0,18.0,3.0,0.0,83.33,True,caught,,R Trumpelmann
+1468880,2,Oman,Hashir Dafedar,15.0,20.0,2.0,0.0,75.0,True,bowled,,MG Erasmus
+1468880,2,Oman,Hassnain Shah,16.0,17.0,0.0,2.0,94.12,False,not out,['-'],
+1468880,2,Oman,Jatinder Singh,25.0,38.0,2.0,0.0,65.79,True,bowled,,BM Scholtz
+1468880,2,Oman,Jay Odedra,2.0,8.0,0.0,0.0,25.0,True,bowled,,JJ Smit
+1468880,2,Oman,S Shrivastava,7.0,15.0,1.0,0.0,46.67,True,caught,,R Trumpelmann
+1468880,2,Oman,Shakeel Ahmed,13.0,19.0,1.0,1.0,68.42,True,caught,,JJ Smit
+1468880,2,Oman,Sufyan Mehmood,11.0,26.0,1.0,0.0,42.31,True,caught,,MG Erasmus
+1468880,2,Oman,V Shukla,17.0,29.0,0.0,1.0,58.62,True,caught,,JN Loftie-Eaton
+1468880,2,Oman,Wasim Ali,0.0,2.0,0.0,0.0,0.0,True,lbw,,BM Scholtz
+1468881,1,United States of America,AGS Gous,13.0,24.0,1.0,0.0,54.17,True,bowled,,Shakeel Ahmed
+1468881,1,United States of America,Aaron Jones,15.0,44.0,0.0,0.0,34.09,True,caught,,Wasim Ali
+1468881,1,United States of America,Harmeet Singh,6.0,8.0,1.0,0.0,75.0,True,caught,,S Shrivastava
+1468881,1,United States of America,MD Patel,0.0,4.0,0.0,0.0,0.0,True,bowled,,Shakeel Ahmed
+1468881,1,United States of America,Milind Kumar,12.0,36.0,1.0,0.0,33.33,True,caught,,Jay Odedra
+1468881,1,United States of America,NP Kenjige,0.0,2.0,0.0,0.0,0.0,True,stumped,,Jay Odedra
+1468881,1,United States of America,SC van Schalkwyk,2.0,11.0,0.0,0.0,18.18,True,bowled,,Jay Odedra
+1468881,1,United States of America,SK Patel,7.0,11.0,1.0,0.0,63.64,True,bowled,,Shakeel Ahmed
+1468881,1,United States of America,SN Netravalkar,1.0,4.0,0.0,0.0,25.0,False,not out,['-'],
+1468881,1,United States of America,SP Krishnamurthi,1.0,6.0,0.0,0.0,16.67,True,caught,,S Shrivastava
+1468881,1,United States of America,SR Mukkamalla,80.0,108.0,9.0,0.0,74.07,True,caught,,Shakeel Ahmed
+1468881,2,Oman,Aamir Kaleem,28.0,78.0,3.0,0.0,35.9,True,lbw,,Harmeet Singh
+1468881,2,Oman,Hammad Mirza,12.0,35.0,2.0,0.0,34.29,True,caught,,Harmeet Singh
+1468881,2,Oman,Jatinder Singh,82.0,128.0,8.0,2.0,64.06,False,not out,['-'],
+1468881,2,Oman,V Shukla,8.0,15.0,0.0,0.0,53.33,False,not out,['-'],
+1468881,2,Oman,Wasim Ali,18.0,20.0,3.0,0.0,90.0,True,caught,,Milind Kumar
+1468881,2,Oman,Hashir Dafedar,,,,,,False,DNB,,
+1468881,2,Oman,Sufyan Mehmood,,,,,,False,DNB,,
+1468881,2,Oman,Jay Odedra,,,,,,False,DNB,,
+1468881,2,Oman,Shakeel Ahmed,,,,,,False,DNB,,
+1468881,2,Oman,Hassnain Shah,,,,,,False,DNB,,
+1468881,2,Oman,S Shrivastava,,,,,,False,DNB,,

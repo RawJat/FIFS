@@ -1,107 +1,197 @@
+import pandas as pd
 import csv
 import os
+import re
 
-def process_match_file(match_file_path):
-    """Process the match file and return formatted match details."""
-    match_data = []
-    with open(match_file_path, mode='r') as match_file:
-        reader = csv.DictReader(match_file)
-        batsman_data = {}
 
+def process_match_info(info_file):
+    """Process match info file to get player lists for all teams."""
+    teams = {}
+    current_team = None
+
+    with open(info_file, 'r') as f:
+        reader = csv.reader(f)
         for row in reader:
-            try:
-                # Check if necessary columns are present
-                match_id = row['match_id']
-                innings = row['innings']
-                batting_team = row['batting_team']
-                bowler = row['bowler']
-                striker = row['striker']
-                non_striker = row['non_striker']
-                runs_off_bat = int(row['runs_off_bat'])
-                extras = int(row['extras']) if row['extras'] else 0
-                player_dismissed = row['player_dismissed']
-                wicket_type = row['wicket_type']
-                fielders = row.get('fielders', '')
+            if len(row) >= 3:
+                if row[1] == 'team':
+                    # Initialize team in the dictionary if not present
+                    current_team = row[2]
+                    teams[current_team] = []
+                elif row[1] == 'player' and row[2] in teams:
+                    # Add player to their team
+                    teams[row[2]].append(row[3])
 
-                # Initialize batsman data
-                for batsman in [striker, non_striker]:
-                    if batsman not in batsman_data:
-                        batsman_data[batsman] = {'runs': 0, 'balls': 0, 'fours': 0, 'sixes': 0, 'out': False}
+    return teams
 
-                batsman_data[striker]['runs'] += runs_off_bat
-                batsman_data[striker]['balls'] += 1
-                if runs_off_bat == 4:
-                    batsman_data[striker]['fours'] += 1
-                if runs_off_bat == 6:
-                    batsman_data[striker]['sixes'] += 1
 
-                # Handle player dismissal
-                if player_dismissed:
-                    batsman_data[striker]['out'] = True
-                    batsman_data[striker]['wicket_type'] = wicket_type
-                    batsman_data[striker]['fielders'] = fielders
+def process_batting_scorecard(ball_by_ball_file, match_info_file):
+    """Process ball-by-ball data into batting scorecard format."""
+    # Read ball-by-ball data
+    df = pd.read_csv(ball_by_ball_file)
 
-            except KeyError as e:
-                # Handle missing columns gracefully
-                print(f"Error processing row, missing column: {e}")
-                continue  # Skip this row and move to the next
+    # Get player lists from match info
+    team_players = process_match_info(match_info_file)
 
-        # Format final match data
-        for batsman, stats in batsman_data.items():
-            strike_rate = "{:.2f}".format(stats['runs'] / stats['balls'] * 100) if stats['balls'] > 0 else "0.00"
-            match_data.append({
-                'match_id': match_id,
-                'innings': innings,
-                'batting_team': batting_team,
-                'batsman': batsman,
-                'runs': stats['runs'],
-                'balls': stats['balls'],
-                'fours': stats['fours'],
-                'sixes': stats['sixes'],
-                'strikeRate': strike_rate,
-                'isOut': 'Yes' if stats.get('out', False) else 'No',
-                'wicketType': stats.get('wicket_type', ''),
-                'fielders': stats.get('fielders', ''),
-                'bowler': bowler
-            })
+    # Initialize batting statistics
+    batting_stats = {}
 
-    return match_data
+    # Process each ball
+    for _, ball in df.iterrows():
+        striker = ball['striker']
+        batting_team = ball['batting_team']
 
-def process_files_in_folder(import_folder_path, export_folder_path, output_file):
-    """Process all match files and store the data in a single CSV file in the export folder."""
-    files = os.listdir(import_folder_path)
-    match_files = [f for f in files if f.endswith('.csv') and not f.endswith('_info.csv')]
+        # Initialize player stats if not exists
+        if (batting_team, striker) not in batting_stats:
+            batting_stats[(batting_team, striker)] = {
+                'runs': 0,
+                'balls': 0,
+                'fours': 0,
+                'sixes': 0,
+                'isOut': False,
+                'wicketType': '',
+                'fielders': [],
+                'bowler': '',
+                'innings': ball['innings']
+            }
 
-    all_match_data = []  # Store all match data
+        # Update statistics
+        stats = batting_stats[(batting_team, striker)]
+        runs = ball['runs_off_bat']
+        stats['balls'] += 1
+        stats['runs'] += runs
 
-    for match_file in match_files:
-        match_file_path = os.path.join(import_folder_path, match_file)
+        if runs == 4:
+            stats['fours'] += 1
+        elif runs == 6:
+            stats['sixes'] += 1
 
-        # Process match data
-        match_data = process_match_file(match_file_path)
+        # Check for wicket
+        if pd.notna(ball['wicket_type']):
+            stats['isOut'] = True
+            stats['wicketType'] = ball['wicket_type']
+            stats['bowler'] = ball['bowler']
+            if pd.notna(ball['other_player_dismissed']):
+                stats['fielders'].append(ball['other_player_dismissed'])
 
-        # Collect data
-        all_match_data.extend(match_data)
+    # Create results DataFrame
+    results = []
 
-    # Write all data to a single CSV file in the export folder
-    if not os.path.exists(export_folder_path):
-        os.makedirs(export_folder_path)
+    # Get unique match date and venue for additional context
+    match_date = df['start_date'].iloc[0]
+    match_venue = df['venue'].iloc[0]
 
-    output_path = os.path.join(export_folder_path, output_file)
-    with open(output_path, mode='w', newline='') as output_file:
-        fieldnames = ['match_id', 'innings', 'batting_team', 'batsman', 'runs', 'balls', 'fours', 'sixes',
-                      'strikeRate', 'isOut', 'wicketType', 'fielders', 'bowler']
-        writer = csv.DictWriter(output_file, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_match_data)
+    # Process each team
+    for team, players in team_players.items():
+        for player in players:
+            if (team, player) in batting_stats:
+                stats = batting_stats[(team, player)]
+                strike_rate = (stats['runs'] / stats['balls'] * 100) if stats['balls'] > 0 else 0
 
-    print(f"All match data has been successfully written to {output_path}")
+                results.append({
+                    'MatchID': df['match_id'].iloc[0],
+                    'Date': match_date,
+                    'Venue': match_venue,
+                    'innings': stats['innings'],
+                    'team': team,
+                    'batsman': player,
+                    'runs': stats['runs'],
+                    'balls': stats['balls'],
+                    'fours': stats['fours'],
+                    'sixes': stats['sixes'],
+                    'strikeRate': round(strike_rate, 2),
+                    'isOut': stats['isOut'],
+                    'wicketType': stats['wicketType'] if stats['isOut'] else 'not out' if stats['balls'] > 0 else 'DNB',
+                    'fielders': stats['fielders'],
+                    'bowler': stats['bowler']
+                })
+            else:
+                # Add DNB entry for players who didn't bat
+                results.append({
+                    'MatchID': df['match_id'].iloc[0],
+                    'Date': match_date,
+                    'Venue': match_venue,
+                    'innings': 1 if team == df['batting_team'].iloc[0] else 2,
+                    'team': team,
+                    'batsman': player,
+                    'runs': None,
+                    'balls': None,
+                    'fours': None,
+                    'sixes': None,
+                    'strikeRate': None,
+                    'isOut': False,
+                    'wicketType': 'DNB',
+                    'fielders': [],
+                    'bowler': ''
+                })
+
+    return pd.DataFrame(results)
+
+
+def process_all_matches(folder_path):
+    """Process all matches in the specified folder."""
+    # Get all CSV files in the folder
+    all_files = os.listdir(folder_path)
+
+    # Find match files (excluding _info files)
+    match_files = [f for f in all_files if f.endswith('.csv') and '_info' not in f]
+
+    # Initialize list to store all scorecards
+    all_scorecards = []
+
+    # Process each match
+    total_matches = len(match_files)
+    for idx, match_file in enumerate(match_files, 1):
+        try:
+            # Extract match ID from filename
+            match_id = match_file.replace('.csv', '')
+
+            # Construct paths
+            match_path = os.path.join(folder_path, match_file)
+            info_path = os.path.join(folder_path, f"{match_id}_info.csv")
+
+            # Process match if info file exists
+            if os.path.exists(info_path):
+                print(f"Processing match {idx}/{total_matches}: {match_id}")
+                scorecard = process_batting_scorecard(match_path, info_path)
+                all_scorecards.append(scorecard)
+            else:
+                print(f"Warning: Info file not found for match {match_id}")
+
+        except Exception as e:
+            print(f"Error processing match {match_id}: {str(e)}")
+            continue
+
+    # Combine all scorecards
+    if all_scorecards:
+        combined_scorecard = pd.concat(all_scorecards, ignore_index=True)
+        return combined_scorecard
+    else:
+        return None
+
 
 def main():
-    import_folder_path = r'D:\ED\FIFS\data\final_data'  # Path to input files
-    export_folder_path = r'D:\ED\FIFS\data\output'  # Path to export folder (change as needed)
-    output_file = "all_matches.csv"  # Output CSV file name
-    process_files_in_folder(import_folder_path, export_folder_path, output_file)
+    # Get folder path from user
+    folder_path = input("Enter the path to the folder containing match files: ").strip()
 
-if __name__ == '__main__':
+    # Verify folder exists
+    if not os.path.exists(folder_path):
+        print("Error: Folder not found!")
+        return
+
+    print("Starting to process matches...")
+    combined_scorecard = process_all_matches(folder_path)
+
+    if combined_scorecard is not None:
+        # Save to CSV
+        output_file = os.path.join(folder_path, "all_matches_scorecard.csv")
+        combined_scorecard.to_csv(output_file, index=False)
+        print(f"\nProcessing complete!")
+        print(f"Total matches processed: {len(combined_scorecard['MatchID'].unique())}")
+        print(f"Total innings processed: {len(combined_scorecard)}")
+        print(f"Output saved to: {output_file}")
+    else:
+        print("No matches were processed successfully")
+
+
+if __name__ == "__main__":
     main()
