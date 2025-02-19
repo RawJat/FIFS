@@ -1,4 +1,4 @@
-Match ID,innings,batting_team,striker,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+Match ID,innings,batting_team,batsman,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
 1375847,1,West Indies,58c2fac4,5.0,11.0,1.0,0.0,45.45,True,caught,,3b53243a
 1375847,1,West Indies,97bdec3d,3.0,6.0,0.0,0.0,50.0,True,caught,,3b53243a
 1375847,1,West Indies,1ac2a995,20.0,37.0,0.0,0.0,54.05,True,run out,,b08e58e2

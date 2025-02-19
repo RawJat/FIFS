@@ -1,0 +1,38 @@
+Match ID,innings,batting_team,batsman,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+1375847,1,West Indies,1078692.0,5.0,11.0,1.0,0.0,45.45,True,caught,,1050545.0
+1375847,1,West Indies,670045.0,3.0,6.0,0.0,0.0,50.0,True,caught,,1050545.0
+1375847,1,West Indies,443263.0,20.0,37.0,0.0,0.0,54.05,True,run out,,1125317.0
+1375847,1,West Indies,510823.0,1.0,5.0,0.0,0.0,20.0,True,bowled,,1050545.0
+1375847,1,West Indies,348091.0,11.0,18.0,1.0,0.0,61.11,True,caught,,1076713.0
+1375847,1,West Indies,820677.0,88.0,109.0,6.0,2.0,80.73,False,not out,,
+1375847,1,West Indies,1209190.0,19.0,22.0,1.0,1.0,86.36,True,caught,,398666.0
+1375847,1,West Indies,914567.0,2.0,5.0,0.0,0.0,40.0,False,not out,,
+1375847,1,West Indies,677077.0,0.0,1.0,0.0,0.0,0.0,True,lbw,,1076713.0
+1375847,1,West Indies,391832.0,59.0,67.0,7.0,0.0,88.06,True,bowled,,379504.0
+1375847,1,West Indies,581379.0,12.0,17.0,1.0,0.0,70.59,True,caught,,1050545.0
+1375847,2,Australia,1076713.0,77.0,105.0,4.0,2.0,73.33,False,not out,,
+1375847,2,Australia,662235.0,65.0,44.0,10.0,1.0,147.73,True,caught,,670045.0
+1375847,2,Australia,267192.0,79.0,82.0,8.0,0.0,96.34,False,not out,,
+1375847,2,Australia,530011.0,4.0,5.0,1.0,0.0,80.0,True,caught,,1209190.0
+1375847,1,West Indies,1078692.0,,,,,,False,DNB,,
+1375847,1,West Indies,510823.0,,,,,,False,DNB,,
+1375847,1,West Indies,820677.0,,,,,,False,DNB,,
+1375847,1,West Indies,581379.0,,,,,,False,DNB,,
+1375847,1,West Indies,348091.0,,,,,,False,DNB,,
+1375847,1,West Indies,391832.0,,,,,,False,DNB,,
+1375847,1,West Indies,443263.0,,,,,,False,DNB,,
+1375847,1,West Indies,677077.0,,,,,,False,DNB,,
+1375847,1,West Indies,1209190.0,,,,,,False,DNB,,
+1375847,1,West Indies,670045.0,,,,,,False,DNB,,
+1375847,1,West Indies,914567.0,,,,,,False,DNB,,
+1375847,2,Australia,530011.0,,,,,,False,DNB,,
+1375847,2,Australia,662235.0,,,,,,False,DNB,,
+1375847,2,Australia,1076713.0,,,,,,False,DNB,,
+1375847,2,Australia,267192.0,,,,,,False,DNB,,
+1375847,2,Australia,787987.0,,,,,,False,DNB,,
+1375847,2,Australia,605575.0,,,,,,False,DNB,,
+1375847,2,Australia,1124283.0,,,,,,False,DNB,,
+1375847,2,Australia,398666.0,,,,,,False,DNB,,
+1375847,2,Australia,1050545.0,,,,,,False,DNB,,
+1375847,2,Australia,1125317.0,,,,,,False,DNB,,
+1375847,2,Australia,379504.0,,,,,,False,DNB,,
