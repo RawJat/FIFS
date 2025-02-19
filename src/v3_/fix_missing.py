@@ -1,7 +1,7 @@
 import pandas as pd
 
 # --- File Paths ---
-input_file = r'D:\ED\FIFS\src\v3_\24_25_batting_cardv3.csv'
+input_file = r'D:\ED\FIFS\src\v3_\batting_card_25.csv'
 output_file = r'D:\ED\FIFS\src\v3_\missing_player_ids_with_exceptions.csv'
 
 # Load the CSV file into a DataFrame

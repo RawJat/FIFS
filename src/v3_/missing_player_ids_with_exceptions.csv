@@ -1,8 +1,1 @@
 LineNumber,Match ID,innings,batting_team,batsman,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
-1414,1428961,1,Scotland,949473.0,15.0,18.0,2.0,1.0,83.33,True,bowled,,
-1417,1428961,1,Scotland,414966.0,9.0,15.0,0.0,0.0,60.0,True,run out,,
-1418,1428961,1,Scotland,417268.0,7.0,7.0,1.0,0.0,100.0,True,caught,,
-1421,1428961,1,Scotland,25490.0,89.0,83.0,11.0,1.0,107.23,True,caught,,
-1430,1428961,2,Namibia,,18.0,19.0,2.0,0.0,94.74,True,bowled,,414966.0
-2984,1450695,1,United Arab Emirates,1323402.0,4.0,10.0,1.0,0.0,40.0,True,caught,,
-3902,1468879,2,Namibia,,22.0,37.0,1.0,0.0,59.46,True,caught,,334621.0
