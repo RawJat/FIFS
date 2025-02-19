@@ -1,0 +1,38 @@
+Match ID,innings,batting_team,striker,runs,balls,fours,sixes,strikeRate,isOut,wicketType,fielders,bowler
+1375847,1,West Indies,58c2fac4,5.0,11.0,1.0,0.0,45.45,True,caught,,3b53243a
+1375847,1,West Indies,97bdec3d,3.0,6.0,0.0,0.0,50.0,True,caught,,3b53243a
+1375847,1,West Indies,1ac2a995,20.0,37.0,0.0,0.0,54.05,True,run out,,b08e58e2
+1375847,1,West Indies,74d12124,1.0,5.0,0.0,0.0,20.0,True,bowled,,3b53243a
+1375847,1,West Indies,49dc9cb4,11.0,18.0,1.0,0.0,61.11,True,caught,,eaa76d3c
+1375847,1,West Indies,6020a3c6,88.0,109.0,6.0,2.0,80.73,False,not out,['-'],
+1375847,1,West Indies,83d17bbc,19.0,22.0,1.0,1.0,86.36,True,caught,,1a2676c5
+1375847,1,West Indies,c6097d68,2.0,5.0,0.0,0.0,40.0,False,not out,['-'],
+1375847,1,West Indies,c5aef772,0.0,1.0,0.0,0.0,0.0,True,lbw,,eaa76d3c
+1375847,1,West Indies,3feda4fa,59.0,67.0,7.0,0.0,88.06,True,bowled,,14f96089
+1375847,1,West Indies,1fc6ef83,12.0,17.0,1.0,0.0,70.59,True,caught,,3b53243a
+1375847,2,Australia,eaa76d3c,77.0,105.0,4.0,2.0,73.33,False,not out,['-'],
+1375847,2,Australia,989889ff,65.0,44.0,10.0,1.0,147.73,True,caught,,97bdec3d
+1375847,2,Australia,30a45b23,79.0,82.0,8.0,0.0,96.34,False,not out,['-'],
+1375847,2,Australia,12b610c2,4.0,5.0,1.0,0.0,80.0,True,caught,,83d17bbc
+1375847,1,West Indies,58c2fac4,,,,,,False,DNB,,
+1375847,1,West Indies,74d12124,,,,,,False,DNB,,
+1375847,1,West Indies,6020a3c6,,,,,,False,DNB,,
+1375847,1,West Indies,1fc6ef83,,,,,,False,DNB,,
+1375847,1,West Indies,49dc9cb4,,,,,,False,DNB,,
+1375847,1,West Indies,3feda4fa,,,,,,False,DNB,,
+1375847,1,West Indies,1ac2a995,,,,,,False,DNB,,
+1375847,1,West Indies,c5aef772,,,,,,False,DNB,,
+1375847,1,West Indies,83d17bbc,,,,,,False,DNB,,
+1375847,1,West Indies,97bdec3d,,,,,,False,DNB,,
+1375847,1,West Indies,c6097d68,,,,,,False,DNB,,
+1375847,2,Australia,12b610c2,,,,,,False,DNB,,
+1375847,2,Australia,989889ff,,,,,,False,DNB,,
+1375847,2,Australia,eaa76d3c,,,,,,False,DNB,,
+1375847,2,Australia,30a45b23,,,,,,False,DNB,,
+1375847,2,Australia,fa433be6,,,,,,False,DNB,,
+1375847,2,Australia,a90e53ec,,,,,,False,DNB,,
+1375847,2,Australia,d405c0d5,,,,,,False,DNB,,
+1375847,2,Australia,1a2676c5,,,,,,False,DNB,,
+1375847,2,Australia,3b53243a,,,,,,False,DNB,,
+1375847,2,Australia,b08e58e2,,,,,,False,DNB,,
+1375847,2,Australia,14f96089,,,,,,False,DNB,,
