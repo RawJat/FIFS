@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="012ca344-f092-4ee8-8ef3-e32a812210ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/v3_/fix_missing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v3_/missing_playerid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v2_/24_25_batting_cardv2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2_/24_25_batting_cardv2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v3_/_v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v3_/_v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v2_/24_25_batting_cardv2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v2_/_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2_/_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v3_/24_25_batting_cardv3.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,9 @@
     "Python._v3.executor": "Run",
     "Python.conv.executor": "Run",
     "Python.filterData.executor": "Run",
+    "Python.fix_missing.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.missing_playerid.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -96,7 +101,7 @@
       <workItem from="1739821739808" duration="726000" />
       <workItem from="1739874522096" duration="317000" />
       <workItem from="1739897770126" duration="28000" />
-      <workItem from="1739935979048" duration="1330000" />
+      <workItem from="1739935979048" duration="2023000" />
     </task>
     <servers />
   </component>
@@ -105,9 +110,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FIFS$conv.coverage" NAME="conv Coverage Results" MODIFIED="1739822445388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/FIFS$_v3.coverage" NAME="_v3 Coverage Results" MODIFIED="1739937241613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v3_" />
+    <SUITE FILE_PATH="coverage/FIFS$_v3.coverage" NAME="_v3 Coverage Results" MODIFIED="1739937836420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v3_" />
+    <SUITE FILE_PATH="coverage/FIFS$missing_playerid.coverage" NAME="missing_playerid Coverage Results" MODIFIED="1739937862132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v3_" />
     <SUITE FILE_PATH="coverage/FIFS$filterData.coverage" NAME="filterData Coverage Results" MODIFIED="1739797230219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/data_sorter" />
     <SUITE FILE_PATH="coverage/FIFS$hello.coverage" NAME="hello Coverage Results" MODIFIED="1739818403492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/FIFS$_v2.coverage" NAME="_v2 Coverage Results" MODIFIED="1739936490149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v2_" />
+    <SUITE FILE_PATH="coverage/FIFS$_v2.coverage" NAME="_v2 Coverage Results" MODIFIED="1739937792891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v2_" />
+    <SUITE FILE_PATH="coverage/FIFS$fix_missing.coverage" NAME="fix_missing Coverage Results" MODIFIED="1739937938390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/v3_" />
   </component>
 </project>

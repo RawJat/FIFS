@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # --- Configuration ---
-input_folder = r'D:\ED\FIFS\data\testfolder'  # Folder where all match files are stored
+input_folder = r'D:\ED\FIFS\data\final_data'  # Folder where all match files are stored
 output_folder = r'D:\ED\FIFS\src\v2_'       # Folder where the aggregated CSV will be saved
 output_file = os.path.join(output_folder, '24_25_batting_cardv2.csv')
 
