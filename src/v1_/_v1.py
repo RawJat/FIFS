@@ -36,7 +36,7 @@ for ball_file in ball_by_ball_files:
     # 'wicket_type' : non-empty if a wicket fell
     innings_col = 'innings'
     team_col = 'batting_team'
-    batsman_col = 'striker'
+    batsman_col = 'striker' 
     bowler_col = 'bowler'
     runs_col = 'runs_off_bat'
     wicket_col = 'wicket_type'
