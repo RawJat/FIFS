@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="012ca344-f092-4ee8-8ef3-e32a812210ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v2_/24_25_batting_cardv2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v2_/_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v2_/_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v3_/24_25_batting_cardv3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v3_/batting_card_25.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v3_/missing_player_ids_with_exceptions.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,8 @@
       <workItem from="1739897770126" duration="28000" />
       <workItem from="1739935979048" duration="4806000" />
       <workItem from="1739956196871" duration="554000" />
-      <workItem from="1739960577000" duration="1882000" />
+      <workItem from="1739960577000" duration="2267000" />
+      <workItem from="1739962999638" duration="3000" />
     </task>
     <servers />
   </component>
