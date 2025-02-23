@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import csv
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
+import re
 
 SERIES_SCHEDULE_URL = "https://www.cricbuzz.com/cricket-series/9325/icc-champions-trophy-2025/matches"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
@@ -51,9 +52,16 @@ def extract_match_date(soup):
         print(f"⚠️ Error extracting match date: {e}")
         return "Unknown"
 
+def clean_player_name(name):
+    """
+    Remove any text within parentheses (including the parentheses)
+    and extra whitespace.
+    """
+    return re.sub(r'\s*\(.*?\)', '', name).strip()
+
 
 def extract_playing_xi(soup):
-    """Extract the playing XI for each team from the page."""
+    """Extract the playing XI for each team from the page and clean player names."""
     match_info_sections = soup.select("div.cb-col.cb-col-73.cb-mat-fct-itm")
     player_names = []
     for section in match_info_sections:
@@ -62,9 +70,10 @@ def extract_playing_xi(soup):
             player_names.append(text)
     if len(player_names) < 2:
         return [], []
-    team1_players = [player.strip() for player in player_names[0].split(",")[:11]]
-    team2_players = [player.strip() for player in player_names[1].split(",")[:11]]
+    team1_players = [clean_player_name(player) for player in player_names[0].split(",")[:11]]
+    team2_players = [clean_player_name(player) for player in player_names[1].split(",")[:11]]
     return team1_players, team2_players
+
 
 
 def extract_match_details(match_url):

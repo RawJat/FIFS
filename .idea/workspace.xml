@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="012ca344-f092-4ee8-8ef3-e32a812210ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tally/test_data_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tally/match_players.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tally/today_match_detail_scrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tally/today_match_detail_scrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new_param/batsman/fix_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_param/batsman/fix_main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new_param/batsman/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_param/batsman/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new_param/bowler/generated_bowling_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/new_param/bowler/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/new_param/bowler/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/batting_generated.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +121,7 @@
       <workItem from="1740339280940" duration="744000" />
       <workItem from="1740346205970" duration="3000" />
       <workItem from="1740346230138" duration="328000" />
-      <workItem from="1740346659210" duration="3179000" />
+      <workItem from="1740346659210" duration="3865000" />
     </task>
     <servers />
   </component>
@@ -148,7 +141,7 @@
     <SUITE FILE_PATH="coverage/FIFS$filterData.coverage" NAME="filterData Coverage Results" MODIFIED="1739797230219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/data_sorter" />
     <SUITE FILE_PATH="coverage/FIFS$match_detail_scraper.coverage" NAME="match_detail_scraper Coverage Results" MODIFIED="1740264833815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/FIFS$main.coverage" NAME="main Coverage Results" MODIFIED="1740349857081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/new_param/batsman" />
-    <SUITE FILE_PATH="coverage/FIFS$fix_main.coverage" NAME="fix_main Coverage Results" MODIFIED="1740170377971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/new_param" />
+    <SUITE FILE_PATH="coverage/FIFS$fix_main.coverage" NAME="fix_main Coverage Results" MODIFIED="1740349871606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/new_param/batsman" />
     <SUITE FILE_PATH="coverage/FIFS$today_match_detail_scrapper.coverage" NAME="today_match_detail_scrapper Coverage Results" MODIFIED="1740348424123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Tally" />
   </component>
 </project>
