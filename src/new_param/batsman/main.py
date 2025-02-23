@@ -3,32 +3,33 @@ from itertools import product
 
 
 # --------------------------
-# Helper function to compute latest row per group
+# Helper function: Precompute latest row per grouping
 # --------------------------
 def get_latest_rows(df, group_cols):
-    # Sort by "Match Date" descending, then drop duplicates for each group
+    """Return a dictionary keyed by group tuple (or a single value)
+    with the latest row (by Match Date) for that grouping."""
     df_sorted = df.sort_values("Match Date", ascending=False)
     latest = df_sorted.drop_duplicates(subset=group_cols)
     result = {}
-    for idx, row in latest.iterrows():
-        # key is a tuple (if more than one grouping column) or a single value
+    for _, row in latest.iterrows():
+        # Create a key: if more than one grouping column, make a tuple
         key = tuple(row[col] for col in group_cols) if len(group_cols) > 1 else row[group_cols[0]]
         result[key] = row
     return result
 
 
 # --------------------------
-# Load full dataset
+# Load full dataset and prepare data
 # --------------------------
-file_path = r"/data/batting.csv"  # Adjust path if needed
+file_path = r"D:\ED\FIFS\data\batting.csv"  # Update path if needed
 df = pd.read_csv(file_path)
 df["Match Date"] = pd.to_datetime(df["Match Date"])
-df["venue"] = df["venue"].str.strip()  # Clean extra spaces if any
+df["venue"] = df["venue"].str.strip()  # Remove extra spaces if any
 
 # --------------------------
-# Define required lists (given)
+# Define required lists (provided)
 # --------------------------
-batters = [80247.0, 1174726.0, 80259.0, 67750.0, 90231.0, 57022.0, 61861.0, 84865.0, 87051.0, 46888.0,
+batters = [67773.0, 80247.0, 1174726.0, 80259.0, 67750.0, 90231.0, 57022.0, 61861.0, 84865.0, 87051.0, 46888.0,
            106332.0, 110065.0, 105215.0, 90143.0, 66398.0, 79159.0, 1670.0, 103762.0, 103792.0, 101340.0,
            58435.0, 54314.0, 72565.0, 1210488.0, 54222.0, 104260.0, 72093.0, 78285.0, 70472.0, 80817.0,
            59610.0, 101328.0, 50281.0, 104403.0, 66190.0, 80669.0, 70877.0, 47352.0, 102020.0, 47986.0,
@@ -42,12 +43,16 @@ batters = [80247.0, 1174726.0, 80259.0, 67750.0, 90231.0, 57022.0, 61861.0, 8486
            70277.0, 594322.0, 53891.0, 61634.0, 67296.0, 50309.0, 66941.0, 73871.0, 55398.0, 70498.0,
            58408.0, 58190.0, 74137.0, 69697.0, 74351.0]
 
-venues = ['Dubai International Cricket Stadium', 'National Stadium', 'Gaddafi Stadium', 'Rawalpindi Cricket Stadium']
-teams = ['Bangladesh', 'England', 'South Africa', 'New Zealand', 'Australia', 'India', 'Pakistan', 'Afghanistan']
+venues = ['Dubai International Cricket Stadium', 'National Stadium',
+          'Gaddafi Stadium', 'Rawalpindi Cricket Stadium']
+
+teams = ['Bangladesh', 'England', 'South Africa', 'New Zealand',
+         'Australia', 'India', 'Pakistan', 'Afghanistan']
+
 innings = [1, 2]
 
 # --------------------------
-# Precompute dictionaries for "latest" rows by various groupings.
+# Precompute latest-match lookups for each grouping
 # --------------------------
 batter_latest = get_latest_rows(df, ["batter"])
 bat_team_latest = get_latest_rows(df, ["bat_team"])
@@ -62,40 +67,44 @@ bat_team_venue = get_latest_rows(df, ["bat_team", "venue"])
 all_teams_venue = get_latest_rows(df, ["venue"])
 
 # --------------------------
-# Generate all valid combinations for dataset (7000 rows)
+# Generate all valid combinations (7,000 rows)
 # --------------------------
 data_combinations = []
 for batter in batters:
-    # Determine bat_team for the batter from the full dataset (if available)
+    # Determine batter's team from the full dataset (use mode)
     batter_rows = df[df["batter"] == batter]
     if batter_rows.empty:
         continue  # Skip if batter not found
     bat_team = batter_rows["bat_team"].mode().iloc[0]
-    # Opponents: all tournament teams except the batter's own team
+
+    # Opponents: All teams except batter's own team
     opponents = [team for team in teams if team != bat_team]
+
+    # Generate combinations of (opposition, venue, innings)
     for opposition, venue, inn in product(opponents, venues, innings):
         data_combinations.append((batter, bat_team, opposition, venue, inn))
 
-generated_df = pd.DataFrame(data_combinations, columns=["batter", "bat_team", "opposition", "venue", "innings"])
+generated_df = pd.DataFrame(data_combinations,
+                            columns=["batter", "bat_team", "opposition", "venue", "innings"])
 
 
 # --------------------------
-# Define a helper to safely get a value from a dictionary of rows.
+# Helper: Safe lookup in a precomputed dictionary
 # --------------------------
-def lookup_value(dictionary, key, stat_col):
-    # key might not be found; return None if not available.
-    row = dictionary.get(key, None)
-    return row[stat_col] if row is not None else None
+def lookup_value(lookup_dict, key, stat_col):
+    row = lookup_dict.get(key, None)
+    return row[stat_col] if row is not None and stat_col in row else None
 
 
 # --------------------------
-# List of statistics columns (as per input dataset, excluding Match ID and Match Date)
+# List of statistic columns (as required in final dataset)
 # --------------------------
 stats_columns = [
     "batter_avg", "batter_rpm", "batter_sr", "batter_bpm",
     "batter_avg_last5", "batter_sr_last5", "batter_rpm_last5", "batter_bpm_last5",
+    "bat_team_avg",
     "batter_avg_opp", "batter_sr_opp", "batter_rpm_opp", "batter_bpm_opp",
-    "bat_team_avg", "bat_team_avg_opp", "all_team_avg_opp",
+    "bat_team_avg_opp", "all_team_avg_opp",
     "batter_avg_inn", "batter_sr_inn", "batter_rpm_inn", "batter_bpm_inn",
     "bat_team_avg_inn", "all_team_avg_inn",
     "batter_avg_ven", "batter_sr_ven", "batter_rpm_ven", "batter_bpm_ven",
@@ -104,7 +113,7 @@ stats_columns = [
 
 
 # --------------------------
-# Populate generated_df by looking up the latest stats from our precomputed dictionaries.
+# Populate each generated row with latest match statistics
 # --------------------------
 def populate_row(row):
     batter = row["batter"]
@@ -113,67 +122,60 @@ def populate_row(row):
     venue = row["venue"]
     inn = row["innings"]
 
-    # Prepare a dictionary for the stats we need to fill
-    values = {}
+    vals = {}
 
-    # Batter-specific stats: latest match for batter regardless of other conditions
+    # Batter-specific stats (latest match for batter)
     batter_data = batter_latest.get(batter, None)
     for stat in ["batter_avg", "batter_rpm", "batter_sr", "batter_bpm",
                  "batter_avg_last5", "batter_sr_last5", "batter_rpm_last5", "batter_bpm_last5"]:
-        values[stat] = batter_data[stat] if batter_data is not None else None
+        vals[stat] = batter_data[stat] if batter_data is not None else None
 
-    # Batting team stats: latest match for bat_team regardless of other conditions
+    # Batting team stats (latest match for bat_team)
     team_data = bat_team_latest.get(bat_team, None)
-    values["bat_team_avg"] = team_data["bat_team_avg"] if team_data is not None else None
+    vals["bat_team_avg"] = team_data["bat_team_avg"] if team_data is not None else None
 
-    # Batter vs. Opposition stats
-    values["batter_avg_opp"] = lookup_value(batter_vs_opp, (batter, opposition), "batter_avg_opp")
-    values["batter_sr_opp"] = lookup_value(batter_vs_opp, (batter, opposition), "batter_sr_opp")
-    values["batter_rpm_opp"] = lookup_value(batter_vs_opp, (batter, opposition), "batter_rpm_opp")
-    values["batter_bpm_opp"] = lookup_value(batter_vs_opp, (batter, opposition), "batter_bpm_opp")
+    # Batter vs. Opposition stats (latest match for batter against opposition)
+    for stat in ["batter_avg_opp", "batter_sr_opp", "batter_rpm_opp", "batter_bpm_opp"]:
+        vals[stat] = lookup_value(batter_vs_opp, (batter, opposition), stat)
 
-    # Batting team vs. Opposition stats
-    values["bat_team_avg_opp"] = lookup_value(bat_team_vs_opp, (bat_team, opposition), "bat_team_avg_opp")
+    # Bat team vs. Opposition stats (latest match for bat_team against opposition)
+    vals["bat_team_avg_opp"] = lookup_value(bat_team_vs_opp, (bat_team, opposition), "bat_team_avg_opp")
 
-    # All teams vs. Opposition stats
-    values["all_team_avg_opp"] = lookup_value(all_teams_vs_opp, opposition, "all_team_avg_opp")
+    # All teams vs. Opposition stats (latest match for any team against opposition)
+    vals["all_team_avg_opp"] = lookup_value(all_teams_vs_opp, opposition, "all_team_avg_opp")
 
-    # Batter in Innings stats
-    values["batter_avg_inn"] = lookup_value(batter_inn, (batter, inn), "batter_avg_inn")
-    values["batter_sr_inn"] = lookup_value(batter_inn, (batter, inn), "batter_sr_inn")
-    values["batter_rpm_inn"] = lookup_value(batter_inn, (batter, inn), "batter_rpm_inn")
-    values["batter_bpm_inn"] = lookup_value(batter_inn, (batter, inn), "batter_bpm_inn")
+    # Batter in Innings stats (latest match for batter in that innings)
+    for stat in ["batter_avg_inn", "batter_sr_inn", "batter_rpm_inn", "batter_bpm_inn"]:
+        vals[stat] = lookup_value(batter_inn, (batter, inn), stat)
 
-    # Batting team in Innings stats
-    values["bat_team_avg_inn"] = lookup_value(bat_team_inn, (bat_team, inn), "bat_team_avg_inn")
+    # Bat team in Innings stats (latest match for bat_team in that innings)
+    vals["bat_team_avg_inn"] = lookup_value(bat_team_inn, (bat_team, inn), "bat_team_avg_inn")
 
-    # All teams in Innings stats
-    values["all_team_avg_inn"] = lookup_value(all_teams_inn, inn, "all_team_avg_inn")
+    # All teams in Innings stats (latest match for any team in that innings)
+    vals["all_team_avg_inn"] = lookup_value(all_teams_inn, inn, "all_team_avg_inn")
 
-    # Batter at Venue stats
-    values["batter_avg_ven"] = lookup_value(batter_venue, (batter, venue), "batter_avg_ven")
-    values["batter_sr_ven"] = lookup_value(batter_venue, (batter, venue), "batter_sr_ven")
-    values["batter_rpm_ven"] = lookup_value(batter_venue, (batter, venue), "batter_rpm_ven")
-    values["batter_bpm_ven"] = lookup_value(batter_venue, (batter, venue), "batter_bpm_ven")
+    # Batter at Venue stats (latest match for batter at that venue)
+    for stat in ["batter_avg_ven", "batter_sr_ven", "batter_rpm_ven", "batter_bpm_ven"]:
+        vals[stat] = lookup_value(batter_venue, (batter, venue), stat)
 
-    # Batting team at Venue stats
-    values["bat_team_avg_ven"] = lookup_value(bat_team_venue, (bat_team, venue), "bat_team_avg_ven")
+    # Bat team at Venue stats (latest match for bat_team at that venue)
+    vals["bat_team_avg_ven"] = lookup_value(bat_team_venue, (bat_team, venue), "bat_team_avg_ven")
 
-    # All teams at Venue stats
-    values["all_team_avg_ven"] = lookup_value(all_teams_venue, venue, "all_team_avg_ven")
+    # All teams at Venue stats (latest match for any team at that venue)
+    vals["all_team_avg_ven"] = lookup_value(all_teams_venue, venue, "all_team_avg_ven")
 
-    return pd.Series(values)
+    return pd.Series(vals)
 
 
-# Apply the population function for each generated row
+# Apply the population function to each generated row
 stats_df = generated_df.apply(populate_row, axis=1)
 
-# Combine the basic generated columns with the stats columns
+# Combine the basic columns with the statistics columns
 final_df = pd.concat([generated_df, stats_df], axis=1)
 
 # --------------------------
-# Save the generated dataset
+# Save the final dataset to CSV
 # --------------------------
-output_path = "worked_ds.csv"
+output_path = "generated_batting_data_v2.csv"
 final_df.to_csv(output_path, index=False)
 print(f"Dataset saved as {output_path}")
