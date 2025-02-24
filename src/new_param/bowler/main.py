@@ -122,8 +122,7 @@ stats_columns = [
     "bowl_team_avg_inn", "all_team_avg_inn",
     "bowler_avg_ven", "bowler_sr_ven", "bowler_wpm_ven", "bowler_eco_ven",
     "bowl_team_avg_ven", "all_team_avg_ven",
-    "bowler_avg_last5", "bowler_eco_last5", "bowler_sr_last5", "bowler_wpm_last5",
-    "bowling_fp", "matchup_score"
+    "bowler_avg_last5", "bowler_eco_last5", "bowler_sr_last5", "bowler_wpm_last5"
 ]
 
 
@@ -142,8 +141,7 @@ def populate_row(row):
     # Bowler-specific stats (from the bowler's latest match)
     bowler_data = bowler_latest.get(bowler, None)
     for stat in ["bowler_avg", "bowler_eco", "bowler_sr", "bowler_wpm",
-                 "bowler_avg_last5", "bowler_eco_last5", "bowler_sr_last5", "bowler_wpm_last5",
-                 "bowling_fp", "matchup_score"]:
+                 "bowler_avg_last5", "bowler_eco_last5", "bowler_sr_last5", "bowler_wpm_last5"]:
         vals[stat] = bowler_data[stat] if bowler_data is not None else None
 
     # Bowl team overall stats (latest match for bowl_team)
